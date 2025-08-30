@@ -1,4 +1,5 @@
 settings:
-  filename: "colors/settings/{{base16}}-{{scheme-slug}}.ron"
+  supported-systems: [base16]
+  filename: "colors/settings/{{scheme-system}}-{{scheme-slug}}.ron"
 terminal:
-  filename: "colors/terminal/{{base16}}-{{scheme-slug}}.ron"
+  filename: "colors/terminal/{{scheme-system}}-{{scheme-slug}}.ron"
