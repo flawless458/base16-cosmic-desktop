@@ -1,0 +1,38 @@
+(
+    name: "Snazzy",
+    foreground: "#e2e4e5",
+    background: "#282a36",
+    cursor: "#78787e",
+    bright_foreground: "#e2e4e5",
+    dim_foreground: "#f1f1f0",
+    normal: (
+        black: "#43454f",
+        red: "#ff5c57",
+        green: "#5af78e",
+        yellow: "#ff9f43",
+        blue: "#9aedfe",
+        magenta: "#57c7ff",
+        cyan: "#f3f99d",
+        white: "#e2e4e5"
+    ),
+    bright: (
+        black: "#43454f",
+        red: "#ff5c57",
+        green: "#5af78e",
+        yellow: "#ff9f43",
+        blue: "#9aedfe",
+        magenta: "#57c7ff",
+        cyan: "#f3f99d",
+        white: "#e2e4e5"
+    ),
+    dim: (
+        black: "#43454f",
+        red: "#ff5c57",
+        green: "#5af78e",
+        yellow: "#ff9f43",
+        blue: "#9aedfe",
+        magenta: "#57c7ff",
+        cyan: "#f3f99d",
+        white: "#e2e4e5"
+    ),
+)

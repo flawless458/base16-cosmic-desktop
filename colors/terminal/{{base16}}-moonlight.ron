@@ -1,0 +1,38 @@
+(
+    name: "Moonlight",
+    foreground: "#a3ace1",
+    background: "#212337",
+    cursor: "#748cd6",
+    bright_foreground: "#a3ace1",
+    dim_foreground: "#ef43fa",
+    normal: (
+        black: "#596399",
+        red: "#ff5370",
+        green: "#2df4c0",
+        yellow: "#f67f81",
+        blue: "#04d1f9",
+        magenta: "#40ffff",
+        cyan: "#ffc777",
+        white: "#a3ace1"
+    ),
+    bright: (
+        black: "#596399",
+        red: "#ff5370",
+        green: "#2df4c0",
+        yellow: "#f67f81",
+        blue: "#04d1f9",
+        magenta: "#40ffff",
+        cyan: "#ffc777",
+        white: "#a3ace1"
+    ),
+    dim: (
+        black: "#596399",
+        red: "#ff5370",
+        green: "#2df4c0",
+        yellow: "#f67f81",
+        blue: "#04d1f9",
+        magenta: "#40ffff",
+        cyan: "#ffc777",
+        white: "#a3ace1"
+    ),
+)

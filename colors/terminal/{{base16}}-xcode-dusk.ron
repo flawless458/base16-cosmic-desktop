@@ -1,0 +1,38 @@
+(
+    name: "XCode Dusk",
+    foreground: "#939599",
+    background: "#282b35",
+    cursor: "#686a71",
+    bright_foreground: "#939599",
+    dim_foreground: "#bebfc2",
+    normal: (
+        black: "#53555d",
+        red: "#b21889",
+        green: "#df0002",
+        yellow: "#786dc5",
+        blue: "#00a0be",
+        magenta: "#790ead",
+        cyan: "#438288",
+        white: "#939599"
+    ),
+    bright: (
+        black: "#53555d",
+        red: "#b21889",
+        green: "#df0002",
+        yellow: "#786dc5",
+        blue: "#00a0be",
+        magenta: "#790ead",
+        cyan: "#438288",
+        white: "#939599"
+    ),
+    dim: (
+        black: "#53555d",
+        red: "#b21889",
+        green: "#df0002",
+        yellow: "#786dc5",
+        blue: "#00a0be",
+        magenta: "#790ead",
+        cyan: "#438288",
+        white: "#939599"
+    ),
+)

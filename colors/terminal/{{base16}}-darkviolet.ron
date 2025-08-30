@@ -1,0 +1,38 @@
+(
+    name: "Dark Violet",
+    foreground: "#b08ae6",
+    background: "#000000",
+    cursor: "#593380",
+    bright_foreground: "#b08ae6",
+    dim_foreground: "#a366ff",
+    normal: (
+        black: "#432d59",
+        red: "#a82ee6",
+        green: "#4595e6",
+        yellow: "#bb66cc",
+        blue: "#40dfff",
+        magenta: "#4136d9",
+        cyan: "#f29df2",
+        white: "#b08ae6"
+    ),
+    bright: (
+        black: "#432d59",
+        red: "#a82ee6",
+        green: "#4595e6",
+        yellow: "#bb66cc",
+        blue: "#40dfff",
+        magenta: "#4136d9",
+        cyan: "#f29df2",
+        white: "#b08ae6"
+    ),
+    dim: (
+        black: "#432d59",
+        red: "#a82ee6",
+        green: "#4595e6",
+        yellow: "#bb66cc",
+        blue: "#40dfff",
+        magenta: "#4136d9",
+        cyan: "#f29df2",
+        white: "#b08ae6"
+    ),
+)

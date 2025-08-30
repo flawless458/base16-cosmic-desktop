@@ -1,0 +1,38 @@
+(
+    name: "vice",
+    foreground: "#8b9cbe",
+    background: "#17191e",
+    cursor: "#383a47",
+    bright_foreground: "#8b9cbe",
+    dim_foreground: "#f4f4f7",
+    normal: (
+        black: "#3c3f4c",
+        red: "#ff29a8",
+        green: "#0badff",
+        yellow: "#85ffe0",
+        blue: "#8265ff",
+        magenta: "#00eaff",
+        cyan: "#f0ffaa",
+        white: "#8b9cbe"
+    ),
+    bright: (
+        black: "#3c3f4c",
+        red: "#ff29a8",
+        green: "#0badff",
+        yellow: "#85ffe0",
+        blue: "#8265ff",
+        magenta: "#00eaff",
+        cyan: "#f0ffaa",
+        white: "#8b9cbe"
+    ),
+    dim: (
+        black: "#3c3f4c",
+        red: "#ff29a8",
+        green: "#0badff",
+        yellow: "#85ffe0",
+        blue: "#8265ff",
+        magenta: "#00eaff",
+        cyan: "#f0ffaa",
+        white: "#8b9cbe"
+    ),
+)

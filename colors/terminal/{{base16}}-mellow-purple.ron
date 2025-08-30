@@ -1,0 +1,38 @@
+(
+    name: "Mellow Purple",
+    foreground: "#ffeeff",
+    background: "#1e0528",
+    cursor: "#320f55",
+    bright_foreground: "#ffeeff",
+    dim_foreground: "#f8c0ff",
+    normal: (
+        black: "#331354",
+        red: "#00d9e9",
+        green: "#05cb0d",
+        yellow: "#aa00a3",
+        blue: "#b900b1",
+        magenta: "#550068",
+        cyan: "#955ae7",
+        white: "#ffeeff"
+    ),
+    bright: (
+        black: "#331354",
+        red: "#00d9e9",
+        green: "#05cb0d",
+        yellow: "#aa00a3",
+        blue: "#b900b1",
+        magenta: "#550068",
+        cyan: "#955ae7",
+        white: "#ffeeff"
+    ),
+    dim: (
+        black: "#331354",
+        red: "#00d9e9",
+        green: "#05cb0d",
+        yellow: "#aa00a3",
+        blue: "#b900b1",
+        magenta: "#550068",
+        cyan: "#955ae7",
+        white: "#ffeeff"
+    ),
+)

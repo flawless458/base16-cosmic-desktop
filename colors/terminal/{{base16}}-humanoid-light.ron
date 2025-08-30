@@ -1,0 +1,38 @@
+(
+    name: "Humanoid light",
+    foreground: "#232629",
+    background: "#f8f8f2",
+    cursor: "#c0c0bd",
+    bright_foreground: "#232629",
+    dim_foreground: "#070708",
+    normal: (
+        black: "#deded8",
+        red: "#b0151a",
+        green: "#388e3c",
+        yellow: "#ff3d00",
+        blue: "#008e8e",
+        magenta: "#0082c9",
+        cyan: "#ffb627",
+        white: "#232629"
+    ),
+    bright: (
+        black: "#deded8",
+        red: "#b0151a",
+        green: "#388e3c",
+        yellow: "#ff3d00",
+        blue: "#008e8e",
+        magenta: "#0082c9",
+        cyan: "#ffb627",
+        white: "#232629"
+    ),
+    dim: (
+        black: "#deded8",
+        red: "#b0151a",
+        green: "#388e3c",
+        yellow: "#ff3d00",
+        blue: "#008e8e",
+        magenta: "#0082c9",
+        cyan: "#ffb627",
+        white: "#232629"
+    ),
+)

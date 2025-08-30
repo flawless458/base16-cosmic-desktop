@@ -1,0 +1,38 @@
+(
+    name: "Google Light",
+    foreground: "#373b41",
+    background: "#ffffff",
+    cursor: "#b4b7b4",
+    bright_foreground: "#373b41",
+    dim_foreground: "#1d1f21",
+    normal: (
+        black: "#c5c8c6",
+        red: "#cc342b",
+        green: "#198844",
+        yellow: "#f96a38",
+        blue: "#3971ed",
+        magenta: "#3971ed",
+        cyan: "#fba922",
+        white: "#373b41"
+    ),
+    bright: (
+        black: "#c5c8c6",
+        red: "#cc342b",
+        green: "#198844",
+        yellow: "#f96a38",
+        blue: "#3971ed",
+        magenta: "#3971ed",
+        cyan: "#fba922",
+        white: "#373b41"
+    ),
+    dim: (
+        black: "#c5c8c6",
+        red: "#cc342b",
+        green: "#198844",
+        yellow: "#f96a38",
+        blue: "#3971ed",
+        magenta: "#3971ed",
+        cyan: "#fba922",
+        white: "#373b41"
+    ),
+)

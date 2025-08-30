@@ -1,0 +1,38 @@
+(
+    name: "Icy Dark",
+    foreground: "#095b67",
+    background: "#021012",
+    cursor: "#052e34",
+    bright_foreground: "#095b67",
+    dim_foreground: "#109cb0",
+    normal: (
+        black: "#041f23",
+        red: "#16c1d9",
+        green: "#4dd0e1",
+        yellow: "#b3ebf2",
+        blue: "#26c6da",
+        magenta: "#00bcd4",
+        cyan: "#80deea",
+        white: "#095b67"
+    ),
+    bright: (
+        black: "#041f23",
+        red: "#16c1d9",
+        green: "#4dd0e1",
+        yellow: "#b3ebf2",
+        blue: "#26c6da",
+        magenta: "#00bcd4",
+        cyan: "#80deea",
+        white: "#095b67"
+    ),
+    dim: (
+        black: "#041f23",
+        red: "#16c1d9",
+        green: "#4dd0e1",
+        yellow: "#b3ebf2",
+        blue: "#26c6da",
+        magenta: "#00bcd4",
+        cyan: "#80deea",
+        white: "#095b67"
+    ),
+)

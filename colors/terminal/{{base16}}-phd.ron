@@ -1,0 +1,38 @@
+(
+    name: "PhD",
+    foreground: "#b8bbc2",
+    background: "#061229",
+    cursor: "#717885",
+    bright_foreground: "#b8bbc2",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#4d5666",
+        red: "#d07346",
+        green: "#99bf52",
+        yellow: "#f0a000",
+        blue: "#72b9bf",
+        magenta: "#5299bf",
+        cyan: "#fbd461",
+        white: "#b8bbc2"
+    ),
+    bright: (
+        black: "#4d5666",
+        red: "#d07346",
+        green: "#99bf52",
+        yellow: "#f0a000",
+        blue: "#72b9bf",
+        magenta: "#5299bf",
+        cyan: "#fbd461",
+        white: "#b8bbc2"
+    ),
+    dim: (
+        black: "#4d5666",
+        red: "#d07346",
+        green: "#99bf52",
+        yellow: "#f0a000",
+        blue: "#72b9bf",
+        magenta: "#5299bf",
+        cyan: "#fbd461",
+        white: "#b8bbc2"
+    ),
+)

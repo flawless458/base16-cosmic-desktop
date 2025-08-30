@@ -1,0 +1,38 @@
+(
+    name: "Penumbra Dark",
+    foreground: "#bebebe",
+    background: "#24272b",
+    cursor: "#636363",
+    bright_foreground: "#bebebe",
+    dim_foreground: "#fffdfb",
+    normal: (
+        black: "#3e4044",
+        red: "#ca736c",
+        green: "#47a477",
+        yellow: "#ba823a",
+        blue: "#00a2af",
+        magenta: "#5794d0",
+        cyan: "#8d9741",
+        white: "#bebebe"
+    ),
+    bright: (
+        black: "#3e4044",
+        red: "#ca736c",
+        green: "#47a477",
+        yellow: "#ba823a",
+        blue: "#00a2af",
+        magenta: "#5794d0",
+        cyan: "#8d9741",
+        white: "#bebebe"
+    ),
+    dim: (
+        black: "#3e4044",
+        red: "#ca736c",
+        green: "#47a477",
+        yellow: "#ba823a",
+        blue: "#00a2af",
+        magenta: "#5794d0",
+        cyan: "#8d9741",
+        white: "#bebebe"
+    ),
+)

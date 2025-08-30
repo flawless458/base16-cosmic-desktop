@@ -1,0 +1,38 @@
+(
+    name: "vulcan",
+    foreground: "#5b778c",
+    background: "#041523",
+    cursor: "#7a5759",
+    bright_foreground: "#5b778c",
+    dim_foreground: "#214d68",
+    normal: (
+        black: "#003552",
+        red: "#818591",
+        green: "#977d7c",
+        yellow: "#9198a3",
+        blue: "#977d7c",
+        magenta: "#977d7c",
+        cyan: "#adb4b9",
+        white: "#5b778c"
+    ),
+    bright: (
+        black: "#003552",
+        red: "#818591",
+        green: "#977d7c",
+        yellow: "#9198a3",
+        blue: "#977d7c",
+        magenta: "#977d7c",
+        cyan: "#adb4b9",
+        white: "#5b778c"
+    ),
+    dim: (
+        black: "#003552",
+        red: "#818591",
+        green: "#977d7c",
+        yellow: "#9198a3",
+        blue: "#977d7c",
+        magenta: "#977d7c",
+        cyan: "#adb4b9",
+        white: "#5b778c"
+    ),
+)

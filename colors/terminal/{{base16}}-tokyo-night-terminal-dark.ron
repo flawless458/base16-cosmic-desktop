@@ -1,0 +1,38 @@
+(
+    name: "Tokyo Night Terminal Dark",
+    foreground: "#787c99",
+    background: "#16161e",
+    cursor: "#444b6a",
+    bright_foreground: "#787c99",
+    dim_foreground: "#d5d6db",
+    normal: (
+        black: "#2f3549",
+        red: "#f7768e",
+        green: "#41a6b5",
+        yellow: "#ff9e64",
+        blue: "#7dcfff",
+        magenta: "#7aa2f7",
+        cyan: "#e0af68",
+        white: "#787c99"
+    ),
+    bright: (
+        black: "#2f3549",
+        red: "#f7768e",
+        green: "#41a6b5",
+        yellow: "#ff9e64",
+        blue: "#7dcfff",
+        magenta: "#7aa2f7",
+        cyan: "#e0af68",
+        white: "#787c99"
+    ),
+    dim: (
+        black: "#2f3549",
+        red: "#f7768e",
+        green: "#41a6b5",
+        yellow: "#ff9e64",
+        blue: "#7dcfff",
+        magenta: "#7aa2f7",
+        cyan: "#e0af68",
+        white: "#787c99"
+    ),
+)

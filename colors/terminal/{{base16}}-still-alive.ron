@@ -1,0 +1,38 @@
+(
+    name: "Still Alive",
+    foreground: "#d80000",
+    background: "#f0f0f0",
+    cursor: "#f01818",
+    bright_foreground: "#d80000",
+    dim_foreground: "#30a860",
+    normal: (
+        black: "#fff018",
+        red: "#487830",
+        green: "#5c5c6a",
+        yellow: "#183048",
+        blue: "#2c3c57",
+        magenta: "#001878",
+        cyan: "#426395",
+        white: "#d80000"
+    ),
+    bright: (
+        black: "#fff018",
+        red: "#487830",
+        green: "#5c5c6a",
+        yellow: "#183048",
+        blue: "#2c3c57",
+        magenta: "#001878",
+        cyan: "#426395",
+        white: "#d80000"
+    ),
+    dim: (
+        black: "#fff018",
+        red: "#487830",
+        green: "#5c5c6a",
+        yellow: "#183048",
+        blue: "#2c3c57",
+        magenta: "#001878",
+        cyan: "#426395",
+        white: "#d80000"
+    ),
+)

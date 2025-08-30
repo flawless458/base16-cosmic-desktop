@@ -1,0 +1,38 @@
+(
+    name: "Oxocarbon Dark",
+    foreground: "#f2f4f8",
+    background: "#161616",
+    cursor: "#525252",
+    bright_foreground: "#f2f4f8",
+    dim_foreground: "#08bdba",
+    normal: (
+        black: "#393939",
+        red: "#3ddbd9",
+        green: "#33b1ff",
+        yellow: "#78a9ff",
+        blue: "#ff7eb6",
+        magenta: "#42be65",
+        cyan: "#ee5396",
+        white: "#f2f4f8"
+    ),
+    bright: (
+        black: "#393939",
+        red: "#3ddbd9",
+        green: "#33b1ff",
+        yellow: "#78a9ff",
+        blue: "#ff7eb6",
+        magenta: "#42be65",
+        cyan: "#ee5396",
+        white: "#f2f4f8"
+    ),
+    dim: (
+        black: "#393939",
+        red: "#3ddbd9",
+        green: "#33b1ff",
+        yellow: "#78a9ff",
+        blue: "#ff7eb6",
+        magenta: "#42be65",
+        cyan: "#ee5396",
+        white: "#f2f4f8"
+    ),
+)

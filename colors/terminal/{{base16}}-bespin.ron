@@ -1,0 +1,38 @@
+(
+    name: "Bespin",
+    foreground: "#8a8986",
+    background: "#28211c",
+    cursor: "#666666",
+    bright_foreground: "#8a8986",
+    dim_foreground: "#baae9e",
+    normal: (
+        black: "#5e5d5c",
+        red: "#cf6a4c",
+        green: "#54be0d",
+        yellow: "#cf7d34",
+        blue: "#afc4db",
+        magenta: "#5ea6ea",
+        cyan: "#f9ee98",
+        white: "#8a8986"
+    ),
+    bright: (
+        black: "#5e5d5c",
+        red: "#cf6a4c",
+        green: "#54be0d",
+        yellow: "#cf7d34",
+        blue: "#afc4db",
+        magenta: "#5ea6ea",
+        cyan: "#f9ee98",
+        white: "#8a8986"
+    ),
+    dim: (
+        black: "#5e5d5c",
+        red: "#cf6a4c",
+        green: "#54be0d",
+        yellow: "#cf7d34",
+        blue: "#afc4db",
+        magenta: "#5ea6ea",
+        cyan: "#f9ee98",
+        white: "#8a8986"
+    ),
+)

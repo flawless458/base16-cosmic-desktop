@@ -1,0 +1,38 @@
+(
+    name: "Precious Light White",
+    foreground: "#555555",
+    background: "#ffffff",
+    cursor: "#848484",
+    bright_foreground: "#555555",
+    dim_foreground: "#555555",
+    normal: (
+        black: "#dbdbdb",
+        red: "#af4947",
+        green: "#557301",
+        yellow: "#a0570d",
+        blue: "#087767",
+        magenta: "#186daa",
+        cyan: "#876500",
+        white: "#555555"
+    ),
+    bright: (
+        black: "#dbdbdb",
+        red: "#af4947",
+        green: "#557301",
+        yellow: "#a0570d",
+        blue: "#087767",
+        magenta: "#186daa",
+        cyan: "#876500",
+        white: "#555555"
+    ),
+    dim: (
+        black: "#dbdbdb",
+        red: "#af4947",
+        green: "#557301",
+        yellow: "#a0570d",
+        blue: "#087767",
+        magenta: "#186daa",
+        cyan: "#876500",
+        white: "#555555"
+    ),
+)

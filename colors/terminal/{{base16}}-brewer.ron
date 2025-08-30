@@ -1,0 +1,38 @@
+(
+    name: "Brewer",
+    foreground: "#b7b8b9",
+    background: "#0c0d0e",
+    cursor: "#737475",
+    bright_foreground: "#b7b8b9",
+    dim_foreground: "#fcfdfe",
+    normal: (
+        black: "#515253",
+        red: "#e31a1c",
+        green: "#31a354",
+        yellow: "#e6550d",
+        blue: "#80b1d3",
+        magenta: "#3182bd",
+        cyan: "#dca060",
+        white: "#b7b8b9"
+    ),
+    bright: (
+        black: "#515253",
+        red: "#e31a1c",
+        green: "#31a354",
+        yellow: "#e6550d",
+        blue: "#80b1d3",
+        magenta: "#3182bd",
+        cyan: "#dca060",
+        white: "#b7b8b9"
+    ),
+    dim: (
+        black: "#515253",
+        red: "#e31a1c",
+        green: "#31a354",
+        yellow: "#e6550d",
+        blue: "#80b1d3",
+        magenta: "#3182bd",
+        cyan: "#dca060",
+        white: "#b7b8b9"
+    ),
+)

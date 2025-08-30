@@ -1,0 +1,38 @@
+(
+    name: "Atelier Forest Light",
+    foreground: "#68615e",
+    background: "#f1efee",
+    cursor: "#9c9491",
+    bright_foreground: "#68615e",
+    dim_foreground: "#1b1918",
+    normal: (
+        black: "#a8a19f",
+        red: "#f22c40",
+        green: "#7b9726",
+        yellow: "#df5320",
+        blue: "#3d97b8",
+        magenta: "#407ee7",
+        cyan: "#c38418",
+        white: "#68615e"
+    ),
+    bright: (
+        black: "#a8a19f",
+        red: "#f22c40",
+        green: "#7b9726",
+        yellow: "#df5320",
+        blue: "#3d97b8",
+        magenta: "#407ee7",
+        cyan: "#c38418",
+        white: "#68615e"
+    ),
+    dim: (
+        black: "#a8a19f",
+        red: "#f22c40",
+        green: "#7b9726",
+        yellow: "#df5320",
+        blue: "#3d97b8",
+        magenta: "#407ee7",
+        cyan: "#c38418",
+        white: "#68615e"
+    ),
+)

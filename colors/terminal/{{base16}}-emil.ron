@@ -1,0 +1,38 @@
+(
+    name: "emil",
+    foreground: "#313145",
+    background: "#efefef",
+    cursor: "#7c7c98",
+    bright_foreground: "#313145",
+    dim_foreground: "#1a1a2f",
+    normal: (
+        black: "#9e9eaf",
+        red: "#f43979",
+        green: "#0073a8",
+        yellow: "#d22a8b",
+        blue: "#2155d6",
+        magenta: "#471397",
+        cyan: "#ff669b",
+        white: "#313145"
+    ),
+    bright: (
+        black: "#9e9eaf",
+        red: "#f43979",
+        green: "#0073a8",
+        yellow: "#d22a8b",
+        blue: "#2155d6",
+        magenta: "#471397",
+        cyan: "#ff669b",
+        white: "#313145"
+    ),
+    dim: (
+        black: "#9e9eaf",
+        red: "#f43979",
+        green: "#0073a8",
+        yellow: "#d22a8b",
+        blue: "#2155d6",
+        magenta: "#471397",
+        cyan: "#ff669b",
+        white: "#313145"
+    ),
+)

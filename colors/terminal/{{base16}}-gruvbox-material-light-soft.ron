@@ -1,0 +1,38 @@
+(
+    name: "Gruvbox Material Light, Soft",
+    foreground: "#654735",
+    background: "#f2e5bc",
+    cursor: "#a89984",
+    bright_foreground: "#654735",
+    dim_foreground: "#282828",
+    normal: (
+        black: "#c9b99a",
+        red: "#c14a4a",
+        green: "#6c782e",
+        yellow: "#c35e0a",
+        blue: "#4c7a5d",
+        magenta: "#45707a",
+        cyan: "#b47109",
+        white: "#654735"
+    ),
+    bright: (
+        black: "#c9b99a",
+        red: "#c14a4a",
+        green: "#6c782e",
+        yellow: "#c35e0a",
+        blue: "#4c7a5d",
+        magenta: "#45707a",
+        cyan: "#b47109",
+        white: "#654735"
+    ),
+    dim: (
+        black: "#c9b99a",
+        red: "#c14a4a",
+        green: "#6c782e",
+        yellow: "#c35e0a",
+        blue: "#4c7a5d",
+        magenta: "#45707a",
+        cyan: "#b47109",
+        white: "#654735"
+    ),
+)

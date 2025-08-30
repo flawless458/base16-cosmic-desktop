@@ -1,0 +1,38 @@
+(
+    name: "lime",
+    foreground: "#818175",
+    background: "#1a1a2f",
+    cursor: "#313140",
+    bright_foreground: "#818175",
+    dim_foreground: "#fff8e1",
+    normal: (
+        black: "#2a2a3f",
+        red: "#ff662a",
+        green: "#8cd97c",
+        yellow: "#ff773a",
+        blue: "#4cad83",
+        magenta: "#2b926f",
+        cyan: "#ffd15e",
+        white: "#818175"
+    ),
+    bright: (
+        black: "#2a2a3f",
+        red: "#ff662a",
+        green: "#8cd97c",
+        yellow: "#ff773a",
+        blue: "#4cad83",
+        magenta: "#2b926f",
+        cyan: "#ffd15e",
+        white: "#818175"
+    ),
+    dim: (
+        black: "#2a2a3f",
+        red: "#ff662a",
+        green: "#8cd97c",
+        yellow: "#ff773a",
+        blue: "#4cad83",
+        magenta: "#2b926f",
+        cyan: "#ffd15e",
+        white: "#818175"
+    ),
+)

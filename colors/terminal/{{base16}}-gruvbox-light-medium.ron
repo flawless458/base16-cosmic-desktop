@@ -1,0 +1,38 @@
+(
+    name: "Gruvbox light, medium",
+    foreground: "#504945",
+    background: "#fbf1c7",
+    cursor: "#bdae93",
+    bright_foreground: "#504945",
+    dim_foreground: "#282828",
+    normal: (
+        black: "#d5c4a1",
+        red: "#9d0006",
+        green: "#79740e",
+        yellow: "#af3a03",
+        blue: "#427b58",
+        magenta: "#076678",
+        cyan: "#b57614",
+        white: "#504945"
+    ),
+    bright: (
+        black: "#d5c4a1",
+        red: "#9d0006",
+        green: "#79740e",
+        yellow: "#af3a03",
+        blue: "#427b58",
+        magenta: "#076678",
+        cyan: "#b57614",
+        white: "#504945"
+    ),
+    dim: (
+        black: "#d5c4a1",
+        red: "#9d0006",
+        green: "#79740e",
+        yellow: "#af3a03",
+        blue: "#427b58",
+        magenta: "#076678",
+        cyan: "#b57614",
+        white: "#504945"
+    ),
+)

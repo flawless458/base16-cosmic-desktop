@@ -1,0 +1,38 @@
+(
+    name: "Equilibrium Light",
+    foreground: "#43474e",
+    background: "#f5f0e7",
+    cursor: "#73777f",
+    bright_foreground: "#43474e",
+    dim_foreground: "#181c22",
+    normal: (
+        black: "#d8d4cb",
+        red: "#d02023",
+        green: "#637200",
+        yellow: "#bf3e05",
+        blue: "#007a72",
+        magenta: "#0073b5",
+        cyan: "#9d6f00",
+        white: "#43474e"
+    ),
+    bright: (
+        black: "#d8d4cb",
+        red: "#d02023",
+        green: "#637200",
+        yellow: "#bf3e05",
+        blue: "#007a72",
+        magenta: "#0073b5",
+        cyan: "#9d6f00",
+        white: "#43474e"
+    ),
+    dim: (
+        black: "#d8d4cb",
+        red: "#d02023",
+        green: "#637200",
+        yellow: "#bf3e05",
+        blue: "#007a72",
+        magenta: "#0073b5",
+        cyan: "#9d6f00",
+        white: "#43474e"
+    ),
+)

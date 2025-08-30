@@ -1,0 +1,38 @@
+(
+    name: "Codeschool",
+    foreground: "#9ea7a6",
+    background: "#232c31",
+    cursor: "#3f4944",
+    bright_foreground: "#9ea7a6",
+    dim_foreground: "#b5d8f6",
+    normal: (
+        black: "#2a343a",
+        red: "#2a5491",
+        green: "#237986",
+        yellow: "#43820d",
+        blue: "#b02f30",
+        magenta: "#484d79",
+        cyan: "#a03b1e",
+        white: "#9ea7a6"
+    ),
+    bright: (
+        black: "#2a343a",
+        red: "#2a5491",
+        green: "#237986",
+        yellow: "#43820d",
+        blue: "#b02f30",
+        magenta: "#484d79",
+        cyan: "#a03b1e",
+        white: "#9ea7a6"
+    ),
+    dim: (
+        black: "#2a343a",
+        red: "#2a5491",
+        green: "#237986",
+        yellow: "#43820d",
+        blue: "#b02f30",
+        magenta: "#484d79",
+        cyan: "#a03b1e",
+        white: "#9ea7a6"
+    ),
+)

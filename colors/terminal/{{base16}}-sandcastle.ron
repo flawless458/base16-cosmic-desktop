@@ -1,0 +1,38 @@
+(
+    name: "Sandcastle",
+    foreground: "#a89984",
+    background: "#282c34",
+    cursor: "#665c54",
+    bright_foreground: "#a89984",
+    dim_foreground: "#fdf4c1",
+    normal: (
+        black: "#3e4451",
+        red: "#83a598",
+        green: "#528b8b",
+        yellow: "#a07e3b",
+        blue: "#83a598",
+        magenta: "#83a598",
+        cyan: "#a07e3b",
+        white: "#a89984"
+    ),
+    bright: (
+        black: "#3e4451",
+        red: "#83a598",
+        green: "#528b8b",
+        yellow: "#a07e3b",
+        blue: "#83a598",
+        magenta: "#83a598",
+        cyan: "#a07e3b",
+        white: "#a89984"
+    ),
+    dim: (
+        black: "#3e4451",
+        red: "#83a598",
+        green: "#528b8b",
+        yellow: "#a07e3b",
+        blue: "#83a598",
+        magenta: "#83a598",
+        cyan: "#a07e3b",
+        white: "#a89984"
+    ),
+)

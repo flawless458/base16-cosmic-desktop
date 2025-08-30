@@ -1,0 +1,38 @@
+(
+    name: "Kimber",
+    foreground: "#dedee7",
+    background: "#222222",
+    cursor: "#644646",
+    bright_foreground: "#dedee7",
+    dim_foreground: "#ffffe6",
+    normal: (
+        black: "#555d55",
+        red: "#c88c8c",
+        green: "#99c899",
+        yellow: "#476c88",
+        blue: "#78b4b4",
+        magenta: "#537c9c",
+        cyan: "#d8b56d",
+        white: "#dedee7"
+    ),
+    bright: (
+        black: "#555d55",
+        red: "#c88c8c",
+        green: "#99c899",
+        yellow: "#476c88",
+        blue: "#78b4b4",
+        magenta: "#537c9c",
+        cyan: "#d8b56d",
+        white: "#dedee7"
+    ),
+    dim: (
+        black: "#555d55",
+        red: "#c88c8c",
+        green: "#99c899",
+        yellow: "#476c88",
+        blue: "#78b4b4",
+        magenta: "#537c9c",
+        cyan: "#d8b56d",
+        white: "#dedee7"
+    ),
+)

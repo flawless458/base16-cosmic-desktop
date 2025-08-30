@@ -1,0 +1,38 @@
+(
+    name: "One Light",
+    foreground: "#383a42",
+    background: "#fafafa",
+    cursor: "#a0a1a7",
+    bright_foreground: "#383a42",
+    dim_foreground: "#090a0b",
+    normal: (
+        black: "#e5e5e6",
+        red: "#ca1243",
+        green: "#50a14f",
+        yellow: "#d75f00",
+        blue: "#0184bc",
+        magenta: "#4078f2",
+        cyan: "#c18401",
+        white: "#383a42"
+    ),
+    bright: (
+        black: "#e5e5e6",
+        red: "#ca1243",
+        green: "#50a14f",
+        yellow: "#d75f00",
+        blue: "#0184bc",
+        magenta: "#4078f2",
+        cyan: "#c18401",
+        white: "#383a42"
+    ),
+    dim: (
+        black: "#e5e5e6",
+        red: "#ca1243",
+        green: "#50a14f",
+        yellow: "#d75f00",
+        blue: "#0184bc",
+        magenta: "#4078f2",
+        cyan: "#c18401",
+        white: "#383a42"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Nebula",
+    foreground: "#a4a6a9",
+    background: "#22273b",
+    cursor: "#6e6f72",
+    bright_foreground: "#a4a6a9",
+    dim_foreground: "#8dbdaa",
+    normal: (
+        black: "#5a8380",
+        red: "#777abc",
+        green: "#6562a8",
+        yellow: "#94929e",
+        blue: "#226f68",
+        magenta: "#4d6bb6",
+        cyan: "#4f9062",
+        white: "#a4a6a9"
+    ),
+    bright: (
+        black: "#5a8380",
+        red: "#777abc",
+        green: "#6562a8",
+        yellow: "#94929e",
+        blue: "#226f68",
+        magenta: "#4d6bb6",
+        cyan: "#4f9062",
+        white: "#a4a6a9"
+    ),
+    dim: (
+        black: "#5a8380",
+        red: "#777abc",
+        green: "#6562a8",
+        yellow: "#94929e",
+        blue: "#226f68",
+        magenta: "#4d6bb6",
+        cyan: "#4f9062",
+        white: "#a4a6a9"
+    ),
+)

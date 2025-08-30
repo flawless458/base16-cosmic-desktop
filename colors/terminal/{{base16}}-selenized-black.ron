@@ -1,0 +1,38 @@
+(
+    name: "selenized-black",
+    foreground: "#b9b9b9",
+    background: "#181818",
+    cursor: "#777777",
+    bright_foreground: "#b9b9b9",
+    dim_foreground: "#dedede",
+    normal: (
+        black: "#3b3b3b",
+        red: "#ed4a46",
+        green: "#70b433",
+        yellow: "#e67f43",
+        blue: "#3fc5b7",
+        magenta: "#368aeb",
+        cyan: "#dbb32d",
+        white: "#b9b9b9"
+    ),
+    bright: (
+        black: "#3b3b3b",
+        red: "#ed4a46",
+        green: "#70b433",
+        yellow: "#e67f43",
+        blue: "#3fc5b7",
+        magenta: "#368aeb",
+        cyan: "#dbb32d",
+        white: "#b9b9b9"
+    ),
+    dim: (
+        black: "#3b3b3b",
+        red: "#ed4a46",
+        green: "#70b433",
+        yellow: "#e67f43",
+        blue: "#3fc5b7",
+        magenta: "#368aeb",
+        cyan: "#dbb32d",
+        white: "#b9b9b9"
+    ),
+)

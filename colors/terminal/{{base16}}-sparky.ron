@@ -1,0 +1,38 @@
+(
+    name: "Sparky",
+    foreground: "#f4f5f0",
+    background: "#072b31",
+    cursor: "#003b49",
+    bright_foreground: "#f4f5f0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#003c46",
+        red: "#ff585d",
+        green: "#78d64b",
+        yellow: "#ff8f1c",
+        blue: "#2dccd3",
+        magenta: "#4698cb",
+        cyan: "#fbdd40",
+        white: "#f4f5f0"
+    ),
+    bright: (
+        black: "#003c46",
+        red: "#ff585d",
+        green: "#78d64b",
+        yellow: "#ff8f1c",
+        blue: "#2dccd3",
+        magenta: "#4698cb",
+        cyan: "#fbdd40",
+        white: "#f4f5f0"
+    ),
+    dim: (
+        black: "#003c46",
+        red: "#ff585d",
+        green: "#78d64b",
+        yellow: "#ff8f1c",
+        blue: "#2dccd3",
+        magenta: "#4698cb",
+        cyan: "#fbdd40",
+        white: "#f4f5f0"
+    ),
+)

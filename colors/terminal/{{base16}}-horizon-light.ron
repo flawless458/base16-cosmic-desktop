@@ -1,0 +1,38 @@
+(
+    name: "Horizon Light",
+    foreground: "#403c3d",
+    background: "#fdf0ed",
+    cursor: "#bdb3b1",
+    bright_foreground: "#403c3d",
+    dim_foreground: "#201c1d",
+    normal: (
+        black: "#f9cbbe",
+        red: "#f7939b",
+        green: "#94e1b0",
+        yellow: "#f6661e",
+        blue: "#dc3318",
+        magenta: "#da103f",
+        cyan: "#fbe0d9",
+        white: "#403c3d"
+    ),
+    bright: (
+        black: "#f9cbbe",
+        red: "#f7939b",
+        green: "#94e1b0",
+        yellow: "#f6661e",
+        blue: "#dc3318",
+        magenta: "#da103f",
+        cyan: "#fbe0d9",
+        white: "#403c3d"
+    ),
+    dim: (
+        black: "#f9cbbe",
+        red: "#f7939b",
+        green: "#94e1b0",
+        yellow: "#f6661e",
+        blue: "#dc3318",
+        magenta: "#da103f",
+        cyan: "#fbe0d9",
+        white: "#403c3d"
+    ),
+)

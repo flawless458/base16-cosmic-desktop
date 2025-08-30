@@ -1,0 +1,38 @@
+(
+    name: "Atelier Dune",
+    foreground: "#a6a28c",
+    background: "#20201d",
+    cursor: "#7d7a68",
+    bright_foreground: "#a6a28c",
+    dim_foreground: "#fefbec",
+    normal: (
+        black: "#6e6b5e",
+        red: "#d73737",
+        green: "#60ac39",
+        yellow: "#b65611",
+        blue: "#1fad83",
+        magenta: "#6684e1",
+        cyan: "#ae9513",
+        white: "#a6a28c"
+    ),
+    bright: (
+        black: "#6e6b5e",
+        red: "#d73737",
+        green: "#60ac39",
+        yellow: "#b65611",
+        blue: "#1fad83",
+        magenta: "#6684e1",
+        cyan: "#ae9513",
+        white: "#a6a28c"
+    ),
+    dim: (
+        black: "#6e6b5e",
+        red: "#d73737",
+        green: "#60ac39",
+        yellow: "#b65611",
+        blue: "#1fad83",
+        magenta: "#6684e1",
+        cyan: "#ae9513",
+        white: "#a6a28c"
+    ),
+)

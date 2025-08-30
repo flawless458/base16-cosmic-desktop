@@ -1,0 +1,38 @@
+(
+    name: "Atelier Lakeside",
+    foreground: "#7ea2b4",
+    background: "#161b1d",
+    cursor: "#5a7b8c",
+    bright_foreground: "#7ea2b4",
+    dim_foreground: "#ebf8ff",
+    normal: (
+        black: "#516d7b",
+        red: "#d22d72",
+        green: "#568c3b",
+        yellow: "#935c25",
+        blue: "#2d8f6f",
+        magenta: "#257fad",
+        cyan: "#8a8a0f",
+        white: "#7ea2b4"
+    ),
+    bright: (
+        black: "#516d7b",
+        red: "#d22d72",
+        green: "#568c3b",
+        yellow: "#935c25",
+        blue: "#2d8f6f",
+        magenta: "#257fad",
+        cyan: "#8a8a0f",
+        white: "#7ea2b4"
+    ),
+    dim: (
+        black: "#516d7b",
+        red: "#d22d72",
+        green: "#568c3b",
+        yellow: "#935c25",
+        blue: "#2d8f6f",
+        magenta: "#257fad",
+        cyan: "#8a8a0f",
+        white: "#7ea2b4"
+    ),
+)

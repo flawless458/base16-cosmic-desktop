@@ -1,0 +1,38 @@
+(
+    name: "Colors",
+    foreground: "#bbbbbb",
+    background: "#111111",
+    cursor: "#777777",
+    bright_foreground: "#bbbbbb",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#555555",
+        red: "#ff4136",
+        green: "#2ecc40",
+        yellow: "#ff851b",
+        blue: "#7fdbff",
+        magenta: "#0074d9",
+        cyan: "#ffdc00",
+        white: "#bbbbbb"
+    ),
+    bright: (
+        black: "#555555",
+        red: "#ff4136",
+        green: "#2ecc40",
+        yellow: "#ff851b",
+        blue: "#7fdbff",
+        magenta: "#0074d9",
+        cyan: "#ffdc00",
+        white: "#bbbbbb"
+    ),
+    dim: (
+        black: "#555555",
+        red: "#ff4136",
+        green: "#2ecc40",
+        yellow: "#ff851b",
+        blue: "#7fdbff",
+        magenta: "#0074d9",
+        cyan: "#ffdc00",
+        white: "#bbbbbb"
+    ),
+)

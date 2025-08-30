@@ -1,0 +1,38 @@
+(
+    name: "Brush Trees Dark",
+    foreground: "#b0c5c8",
+    background: "#485867",
+    cursor: "#8299a1",
+    bright_foreground: "#b0c5c8",
+    dim_foreground: "#e3efef",
+    normal: (
+        black: "#6d828e",
+        red: "#b38686",
+        green: "#87b386",
+        yellow: "#d8bba2",
+        blue: "#86b3b3",
+        magenta: "#868cb3",
+        cyan: "#aab386",
+        white: "#b0c5c8"
+    ),
+    bright: (
+        black: "#6d828e",
+        red: "#b38686",
+        green: "#87b386",
+        yellow: "#d8bba2",
+        blue: "#86b3b3",
+        magenta: "#868cb3",
+        cyan: "#aab386",
+        white: "#b0c5c8"
+    ),
+    dim: (
+        black: "#6d828e",
+        red: "#b38686",
+        green: "#87b386",
+        yellow: "#d8bba2",
+        blue: "#86b3b3",
+        magenta: "#868cb3",
+        cyan: "#aab386",
+        white: "#b0c5c8"
+    ),
+)

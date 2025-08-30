@@ -1,0 +1,38 @@
+(
+    name: "PaperColor Dark",
+    foreground: "#808080",
+    background: "#1c1c1c",
+    cursor: "#d7af5f",
+    bright_foreground: "#808080",
+    dim_foreground: "#d0d0d0",
+    normal: (
+        black: "#5faf00",
+        red: "#585858",
+        green: "#af87d7",
+        yellow: "#5faf5f",
+        blue: "#ffaf00",
+        magenta: "#ff5faf",
+        cyan: "#afd700",
+        white: "#808080"
+    ),
+    bright: (
+        black: "#5faf00",
+        red: "#585858",
+        green: "#af87d7",
+        yellow: "#5faf5f",
+        blue: "#ffaf00",
+        magenta: "#ff5faf",
+        cyan: "#afd700",
+        white: "#808080"
+    ),
+    dim: (
+        black: "#5faf00",
+        red: "#585858",
+        green: "#af87d7",
+        yellow: "#5faf5f",
+        blue: "#ffaf00",
+        magenta: "#ff5faf",
+        cyan: "#afd700",
+        white: "#808080"
+    ),
+)

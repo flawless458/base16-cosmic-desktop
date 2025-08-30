@@ -1,0 +1,38 @@
+(
+    name: "Da One Sea",
+    foreground: "#ffffff",
+    background: "#22273d",
+    cursor: "#878d96",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#525866",
+        red: "#fa7883",
+        green: "#98c379",
+        yellow: "#ffc387",
+        blue: "#8af5ff",
+        magenta: "#6bb8ff",
+        cyan: "#ff9470",
+        white: "#ffffff"
+    ),
+    bright: (
+        black: "#525866",
+        red: "#fa7883",
+        green: "#98c379",
+        yellow: "#ffc387",
+        blue: "#8af5ff",
+        magenta: "#6bb8ff",
+        cyan: "#ff9470",
+        white: "#ffffff"
+    ),
+    dim: (
+        black: "#525866",
+        red: "#fa7883",
+        green: "#98c379",
+        yellow: "#ffc387",
+        blue: "#8af5ff",
+        magenta: "#6bb8ff",
+        cyan: "#ff9470",
+        white: "#ffffff"
+    ),
+)

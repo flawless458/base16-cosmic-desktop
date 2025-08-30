@@ -1,0 +1,38 @@
+(
+    name: "Zenbones",
+    foreground: "#b279a7",
+    background: "#191919",
+    cursor: "#b77e64",
+    bright_foreground: "#b279a7",
+    dim_foreground: "#bbbbbb",
+    normal: (
+        black: "#819b69",
+        red: "#3d3839",
+        green: "#d68c67",
+        yellow: "#e8838f",
+        blue: "#61abda",
+        magenta: "#cf86c1",
+        cyan: "#8bae68",
+        white: "#b279a7"
+    ),
+    bright: (
+        black: "#819b69",
+        red: "#3d3839",
+        green: "#d68c67",
+        yellow: "#e8838f",
+        blue: "#61abda",
+        magenta: "#cf86c1",
+        cyan: "#8bae68",
+        white: "#b279a7"
+    ),
+    dim: (
+        black: "#819b69",
+        red: "#3d3839",
+        green: "#d68c67",
+        yellow: "#e8838f",
+        blue: "#61abda",
+        magenta: "#cf86c1",
+        cyan: "#8bae68",
+        white: "#b279a7"
+    ),
+)

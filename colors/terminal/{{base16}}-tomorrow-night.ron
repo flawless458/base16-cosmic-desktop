@@ -1,0 +1,38 @@
+(
+    name: "Tomorrow Night",
+    foreground: "#c5c8c6",
+    background: "#1d1f21",
+    cursor: "#969896",
+    bright_foreground: "#c5c8c6",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#373b41",
+        red: "#cc6666",
+        green: "#b5bd68",
+        yellow: "#de935f",
+        blue: "#8abeb7",
+        magenta: "#81a2be",
+        cyan: "#f0c674",
+        white: "#c5c8c6"
+    ),
+    bright: (
+        black: "#373b41",
+        red: "#cc6666",
+        green: "#b5bd68",
+        yellow: "#de935f",
+        blue: "#8abeb7",
+        magenta: "#81a2be",
+        cyan: "#f0c674",
+        white: "#c5c8c6"
+    ),
+    dim: (
+        black: "#373b41",
+        red: "#cc6666",
+        green: "#b5bd68",
+        yellow: "#de935f",
+        blue: "#8abeb7",
+        magenta: "#81a2be",
+        cyan: "#f0c674",
+        white: "#c5c8c6"
+    ),
+)

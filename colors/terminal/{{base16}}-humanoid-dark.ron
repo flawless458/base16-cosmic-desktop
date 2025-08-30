@@ -1,0 +1,38 @@
+(
+    name: "Humanoid dark",
+    foreground: "#f8f8f2",
+    background: "#232629",
+    cursor: "#60615d",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#fcfcfc",
+    normal: (
+        black: "#484e54",
+        red: "#f11235",
+        green: "#02d849",
+        yellow: "#ff9505",
+        blue: "#0dd9d6",
+        magenta: "#00a6fb",
+        cyan: "#ffb627",
+        white: "#f8f8f2"
+    ),
+    bright: (
+        black: "#484e54",
+        red: "#f11235",
+        green: "#02d849",
+        yellow: "#ff9505",
+        blue: "#0dd9d6",
+        magenta: "#00a6fb",
+        cyan: "#ffb627",
+        white: "#f8f8f2"
+    ),
+    dim: (
+        black: "#484e54",
+        red: "#f11235",
+        green: "#02d849",
+        yellow: "#ff9505",
+        blue: "#0dd9d6",
+        magenta: "#00a6fb",
+        cyan: "#ffb627",
+        white: "#f8f8f2"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "UwUnicorn",
+    foreground: "#eed5d9",
+    background: "#241b26",
+    cursor: "#6c3cb2",
+    bright_foreground: "#eed5d9",
+    dim_foreground: "#e4ccd0",
+    normal: (
+        black: "#46354a",
+        red: "#877bb6",
+        green: "#c965bf",
+        yellow: "#de5b44",
+        blue: "#9c5fce",
+        magenta: "#6a9eb5",
+        cyan: "#a84a73",
+        white: "#eed5d9"
+    ),
+    bright: (
+        black: "#46354a",
+        red: "#877bb6",
+        green: "#c965bf",
+        yellow: "#de5b44",
+        blue: "#9c5fce",
+        magenta: "#6a9eb5",
+        cyan: "#a84a73",
+        white: "#eed5d9"
+    ),
+    dim: (
+        black: "#46354a",
+        red: "#877bb6",
+        green: "#c965bf",
+        yellow: "#de5b44",
+        blue: "#9c5fce",
+        magenta: "#6a9eb5",
+        cyan: "#a84a73",
+        white: "#eed5d9"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Atelier Cave Light",
+    foreground: "#585260",
+    background: "#efecf4",
+    cursor: "#7e7887",
+    bright_foreground: "#585260",
+    dim_foreground: "#19171c",
+    normal: (
+        black: "#8b8792",
+        red: "#be4678",
+        green: "#2a9292",
+        yellow: "#aa573c",
+        blue: "#398bc6",
+        magenta: "#576ddb",
+        cyan: "#a06e3b",
+        white: "#585260"
+    ),
+    bright: (
+        black: "#8b8792",
+        red: "#be4678",
+        green: "#2a9292",
+        yellow: "#aa573c",
+        blue: "#398bc6",
+        magenta: "#576ddb",
+        cyan: "#a06e3b",
+        white: "#585260"
+    ),
+    dim: (
+        black: "#8b8792",
+        red: "#be4678",
+        green: "#2a9292",
+        yellow: "#aa573c",
+        blue: "#398bc6",
+        magenta: "#576ddb",
+        cyan: "#a06e3b",
+        white: "#585260"
+    ),
+)

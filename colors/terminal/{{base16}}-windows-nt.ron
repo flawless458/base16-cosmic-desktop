@@ -1,0 +1,38 @@
+(
+    name: "Windows NT",
+    foreground: "#c0c0c0",
+    background: "#000000",
+    cursor: "#808080",
+    bright_foreground: "#c0c0c0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#555555",
+        red: "#ff0000",
+        green: "#00ff00",
+        yellow: "#808000",
+        blue: "#00ffff",
+        magenta: "#0000ff",
+        cyan: "#ffff00",
+        white: "#c0c0c0"
+    ),
+    bright: (
+        black: "#555555",
+        red: "#ff0000",
+        green: "#00ff00",
+        yellow: "#808000",
+        blue: "#00ffff",
+        magenta: "#0000ff",
+        cyan: "#ffff00",
+        white: "#c0c0c0"
+    ),
+    dim: (
+        black: "#555555",
+        red: "#ff0000",
+        green: "#00ff00",
+        yellow: "#808000",
+        blue: "#00ffff",
+        magenta: "#0000ff",
+        cyan: "#ffff00",
+        white: "#c0c0c0"
+    ),
+)

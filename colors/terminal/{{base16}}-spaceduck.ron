@@ -1,0 +1,38 @@
+(
+    name: "Spaceduck",
+    foreground: "#ecf0c1",
+    background: "#16172d",
+    cursor: "#686f9a",
+    bright_foreground: "#ecf0c1",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#30365f",
+        red: "#e33400",
+        green: "#5ccc96",
+        yellow: "#e39400",
+        blue: "#00a3cc",
+        magenta: "#7a5ccc",
+        cyan: "#f2ce00",
+        white: "#ecf0c1"
+    ),
+    bright: (
+        black: "#30365f",
+        red: "#e33400",
+        green: "#5ccc96",
+        yellow: "#e39400",
+        blue: "#00a3cc",
+        magenta: "#7a5ccc",
+        cyan: "#f2ce00",
+        white: "#ecf0c1"
+    ),
+    dim: (
+        black: "#30365f",
+        red: "#e33400",
+        green: "#5ccc96",
+        yellow: "#e39400",
+        blue: "#00a3cc",
+        magenta: "#7a5ccc",
+        cyan: "#f2ce00",
+        white: "#ecf0c1"
+    ),
+)

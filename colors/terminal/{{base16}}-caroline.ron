@@ -1,0 +1,38 @@
+(
+    name: "caroline",
+    foreground: "#a87569",
+    background: "#1c1213",
+    cursor: "#6d4745",
+    bright_foreground: "#a87569",
+    dim_foreground: "#e3a68c",
+    normal: (
+        black: "#563837",
+        red: "#c24f57",
+        green: "#806c61",
+        yellow: "#a63650",
+        blue: "#6b6566",
+        magenta: "#684c59",
+        cyan: "#f28171",
+        white: "#a87569"
+    ),
+    bright: (
+        black: "#563837",
+        red: "#c24f57",
+        green: "#806c61",
+        yellow: "#a63650",
+        blue: "#6b6566",
+        magenta: "#684c59",
+        cyan: "#f28171",
+        white: "#a87569"
+    ),
+    dim: (
+        black: "#563837",
+        red: "#c24f57",
+        green: "#806c61",
+        yellow: "#a63650",
+        blue: "#6b6566",
+        magenta: "#684c59",
+        cyan: "#f28171",
+        white: "#a87569"
+    ),
+)

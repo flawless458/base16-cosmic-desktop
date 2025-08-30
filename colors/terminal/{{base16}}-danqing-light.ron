@@ -1,0 +1,38 @@
+(
+    name: "DanQing Light",
+    foreground: "#5a605d",
+    background: "#fcfefd",
+    cursor: "#cad8d2",
+    bright_foreground: "#5a605d",
+    dim_foreground: "#2d302f",
+    normal: (
+        black: "#e0f0ef",
+        red: "#f9906f",
+        green: "#8ab361",
+        yellow: "#b38a61",
+        blue: "#30dff3",
+        magenta: "#b0a4e3",
+        cyan: "#f0c239",
+        white: "#5a605d"
+    ),
+    bright: (
+        black: "#e0f0ef",
+        red: "#f9906f",
+        green: "#8ab361",
+        yellow: "#b38a61",
+        blue: "#30dff3",
+        magenta: "#b0a4e3",
+        cyan: "#f0c239",
+        white: "#5a605d"
+    ),
+    dim: (
+        black: "#e0f0ef",
+        red: "#f9906f",
+        green: "#8ab361",
+        yellow: "#b38a61",
+        blue: "#30dff3",
+        magenta: "#b0a4e3",
+        cyan: "#f0c239",
+        white: "#5a605d"
+    ),
+)

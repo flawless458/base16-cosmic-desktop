@@ -1,0 +1,38 @@
+(
+    name: "Digital Rain",
+    foreground: "#00ff00",
+    background: "#000000",
+    cursor: "#7c8d7c",
+    bright_foreground: "#00ff00",
+    dim_foreground: "#d8e2dc",
+    normal: (
+        black: "#4a8d7e",
+        red: "#c85a46",
+        green: "#64c83c",
+        yellow: "#c86428",
+        blue: "#468c78",
+        magenta: "#5482af",
+        cyan: "#a67a50",
+        white: "#00ff00"
+    ),
+    bright: (
+        black: "#4a8d7e",
+        red: "#c85a46",
+        green: "#64c83c",
+        yellow: "#c86428",
+        blue: "#468c78",
+        magenta: "#5482af",
+        cyan: "#a67a50",
+        white: "#00ff00"
+    ),
+    dim: (
+        black: "#4a8d7e",
+        red: "#c85a46",
+        green: "#64c83c",
+        yellow: "#c86428",
+        blue: "#468c78",
+        magenta: "#5482af",
+        cyan: "#a67a50",
+        white: "#00ff00"
+    ),
+)

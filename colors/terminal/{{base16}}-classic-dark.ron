@@ -1,0 +1,38 @@
+(
+    name: "Classic Dark",
+    foreground: "#d0d0d0",
+    background: "#151515",
+    cursor: "#505050",
+    bright_foreground: "#d0d0d0",
+    dim_foreground: "#f5f5f5",
+    normal: (
+        black: "#303030",
+        red: "#ac4142",
+        green: "#90a959",
+        yellow: "#d28445",
+        blue: "#75b5aa",
+        magenta: "#6a9fb5",
+        cyan: "#f4bf75",
+        white: "#d0d0d0"
+    ),
+    bright: (
+        black: "#303030",
+        red: "#ac4142",
+        green: "#90a959",
+        yellow: "#d28445",
+        blue: "#75b5aa",
+        magenta: "#6a9fb5",
+        cyan: "#f4bf75",
+        white: "#d0d0d0"
+    ),
+    dim: (
+        black: "#303030",
+        red: "#ac4142",
+        green: "#90a959",
+        yellow: "#d28445",
+        blue: "#75b5aa",
+        magenta: "#6a9fb5",
+        cyan: "#f4bf75",
+        white: "#d0d0d0"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "London Tube",
+    foreground: "#d9d8d8",
+    background: "#231f20",
+    cursor: "#737171",
+    bright_foreground: "#d9d8d8",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#5a5758",
+        red: "#ee2e24",
+        green: "#00853e",
+        yellow: "#f386a1",
+        blue: "#85cebc",
+        magenta: "#009ddc",
+        cyan: "#ffd204",
+        white: "#d9d8d8"
+    ),
+    bright: (
+        black: "#5a5758",
+        red: "#ee2e24",
+        green: "#00853e",
+        yellow: "#f386a1",
+        blue: "#85cebc",
+        magenta: "#009ddc",
+        cyan: "#ffd204",
+        white: "#d9d8d8"
+    ),
+    dim: (
+        black: "#5a5758",
+        red: "#ee2e24",
+        green: "#00853e",
+        yellow: "#f386a1",
+        blue: "#85cebc",
+        magenta: "#009ddc",
+        cyan: "#ffd204",
+        white: "#d9d8d8"
+    ),
+)

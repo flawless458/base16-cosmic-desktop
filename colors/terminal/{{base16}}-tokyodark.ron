@@ -1,0 +1,38 @@
+(
+    name: "Tokyodark",
+    foreground: "#a0a8cd",
+    background: "#11121d",
+    cursor: "#353945",
+    bright_foreground: "#a0a8cd",
+    dim_foreground: "#bcc2dc",
+    normal: (
+        black: "#212234",
+        red: "#ee6d85",
+        green: "#95c561",
+        yellow: "#f6955b",
+        blue: "#9fbbf3",
+        magenta: "#7199ee",
+        cyan: "#d7a65f",
+        white: "#a0a8cd"
+    ),
+    bright: (
+        black: "#212234",
+        red: "#ee6d85",
+        green: "#95c561",
+        yellow: "#f6955b",
+        blue: "#9fbbf3",
+        magenta: "#7199ee",
+        cyan: "#d7a65f",
+        white: "#a0a8cd"
+    ),
+    dim: (
+        black: "#212234",
+        red: "#ee6d85",
+        green: "#95c561",
+        yellow: "#f6955b",
+        blue: "#9fbbf3",
+        magenta: "#7199ee",
+        cyan: "#d7a65f",
+        white: "#a0a8cd"
+    ),
+)

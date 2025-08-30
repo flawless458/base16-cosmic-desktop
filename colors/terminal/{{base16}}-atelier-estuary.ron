@@ -1,0 +1,38 @@
+(
+    name: "Atelier Estuary",
+    foreground: "#929181",
+    background: "#22221b",
+    cursor: "#6c6b5a",
+    bright_foreground: "#929181",
+    dim_foreground: "#f4f3ec",
+    normal: (
+        black: "#5f5e4e",
+        red: "#ba6236",
+        green: "#7d9726",
+        yellow: "#ae7313",
+        blue: "#5b9d48",
+        magenta: "#36a166",
+        cyan: "#a5980d",
+        white: "#929181"
+    ),
+    bright: (
+        black: "#5f5e4e",
+        red: "#ba6236",
+        green: "#7d9726",
+        yellow: "#ae7313",
+        blue: "#5b9d48",
+        magenta: "#36a166",
+        cyan: "#a5980d",
+        white: "#929181"
+    ),
+    dim: (
+        black: "#5f5e4e",
+        red: "#ba6236",
+        green: "#7d9726",
+        yellow: "#ae7313",
+        blue: "#5b9d48",
+        magenta: "#36a166",
+        cyan: "#a5980d",
+        white: "#929181"
+    ),
+)

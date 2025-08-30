@@ -1,0 +1,38 @@
+(
+    name: "Decaf",
+    foreground: "#cccccc",
+    background: "#2d2d2d",
+    cursor: "#777777",
+    bright_foreground: "#cccccc",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#515151",
+        red: "#ff7f7b",
+        green: "#beda78",
+        yellow: "#ffbf70",
+        blue: "#bed6ff",
+        magenta: "#90bee1",
+        cyan: "#ffd67c",
+        white: "#cccccc"
+    ),
+    bright: (
+        black: "#515151",
+        red: "#ff7f7b",
+        green: "#beda78",
+        yellow: "#ffbf70",
+        blue: "#bed6ff",
+        magenta: "#90bee1",
+        cyan: "#ffd67c",
+        white: "#cccccc"
+    ),
+    dim: (
+        black: "#515151",
+        red: "#ff7f7b",
+        green: "#beda78",
+        yellow: "#ffbf70",
+        blue: "#bed6ff",
+        magenta: "#90bee1",
+        cyan: "#ffd67c",
+        white: "#cccccc"
+    ),
+)

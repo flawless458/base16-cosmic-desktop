@@ -1,0 +1,38 @@
+(
+    name: "Eva",
+    foreground: "#9fa2a6",
+    background: "#2a3b4d",
+    cursor: "#55799c",
+    bright_foreground: "#9fa2a6",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#4b6988",
+        red: "#c4676c",
+        green: "#66ff66",
+        yellow: "#ff9966",
+        blue: "#4b8f77",
+        magenta: "#15f4ee",
+        cyan: "#ffff66",
+        white: "#9fa2a6"
+    ),
+    bright: (
+        black: "#4b6988",
+        red: "#c4676c",
+        green: "#66ff66",
+        yellow: "#ff9966",
+        blue: "#4b8f77",
+        magenta: "#15f4ee",
+        cyan: "#ffff66",
+        white: "#9fa2a6"
+    ),
+    dim: (
+        black: "#4b6988",
+        red: "#c4676c",
+        green: "#66ff66",
+        yellow: "#ff9966",
+        blue: "#4b8f77",
+        magenta: "#15f4ee",
+        cyan: "#ffff66",
+        white: "#9fa2a6"
+    ),
+)

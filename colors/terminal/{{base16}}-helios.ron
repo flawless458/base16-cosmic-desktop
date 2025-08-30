@@ -1,0 +1,38 @@
+(
+    name: "Helios",
+    foreground: "#d5d5d5",
+    background: "#1d2021",
+    cursor: "#6f7579",
+    bright_foreground: "#d5d5d5",
+    dim_foreground: "#e5e5e5",
+    normal: (
+        black: "#53585b",
+        red: "#d72638",
+        green: "#88b92d",
+        yellow: "#eb8413",
+        blue: "#1ba595",
+        magenta: "#1e8bac",
+        cyan: "#f19d1a",
+        white: "#d5d5d5"
+    ),
+    bright: (
+        black: "#53585b",
+        red: "#d72638",
+        green: "#88b92d",
+        yellow: "#eb8413",
+        blue: "#1ba595",
+        magenta: "#1e8bac",
+        cyan: "#f19d1a",
+        white: "#d5d5d5"
+    ),
+    dim: (
+        black: "#53585b",
+        red: "#d72638",
+        green: "#88b92d",
+        yellow: "#eb8413",
+        blue: "#1ba595",
+        magenta: "#1e8bac",
+        cyan: "#f19d1a",
+        white: "#d5d5d5"
+    ),
+)

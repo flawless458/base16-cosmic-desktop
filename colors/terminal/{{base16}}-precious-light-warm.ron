@@ -1,0 +1,38 @@
+(
+    name: "Precious Light Warm",
+    foreground: "#4e5359",
+    background: "#fff5e5",
+    cursor: "#7f8080",
+    bright_foreground: "#4e5359",
+    dim_foreground: "#4e5359",
+    normal: (
+        black: "#d9d3c8",
+        red: "#b14745",
+        green: "#557300",
+        yellow: "#a25600",
+        blue: "#0e7767",
+        magenta: "#246da5",
+        cyan: "#876500",
+        white: "#4e5359"
+    ),
+    bright: (
+        black: "#d9d3c8",
+        red: "#b14745",
+        green: "#557300",
+        yellow: "#a25600",
+        blue: "#0e7767",
+        magenta: "#246da5",
+        cyan: "#876500",
+        white: "#4e5359"
+    ),
+    dim: (
+        black: "#d9d3c8",
+        red: "#b14745",
+        green: "#557300",
+        yellow: "#a25600",
+        blue: "#0e7767",
+        magenta: "#246da5",
+        cyan: "#876500",
+        white: "#4e5359"
+    ),
+)

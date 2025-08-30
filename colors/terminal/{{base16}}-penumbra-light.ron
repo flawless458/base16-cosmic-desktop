@@ -1,0 +1,38 @@
+(
+    name: "Penumbra Light",
+    foreground: "#636363",
+    background: "#fffdfb",
+    cursor: "#bebebe",
+    bright_foreground: "#636363",
+    dim_foreground: "#24272b",
+    normal: (
+        black: "#f2e6d4",
+        red: "#ca736c",
+        green: "#47a477",
+        yellow: "#ba823a",
+        blue: "#00a2af",
+        magenta: "#5794d0",
+        cyan: "#8d9741",
+        white: "#636363"
+    ),
+    bright: (
+        black: "#f2e6d4",
+        red: "#ca736c",
+        green: "#47a477",
+        yellow: "#ba823a",
+        blue: "#00a2af",
+        magenta: "#5794d0",
+        cyan: "#8d9741",
+        white: "#636363"
+    ),
+    dim: (
+        black: "#f2e6d4",
+        red: "#ca736c",
+        green: "#47a477",
+        yellow: "#ba823a",
+        blue: "#00a2af",
+        magenta: "#5794d0",
+        cyan: "#8d9741",
+        white: "#636363"
+    ),
+)

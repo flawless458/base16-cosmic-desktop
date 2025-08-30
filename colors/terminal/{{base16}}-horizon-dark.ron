@@ -1,0 +1,38 @@
+(
+    name: "Horizon Dark",
+    foreground: "#cbced0",
+    background: "#1c1e26",
+    cursor: "#6f6f70",
+    bright_foreground: "#cbced0",
+    dim_foreground: "#e3e6ee",
+    normal: (
+        black: "#2e303e",
+        red: "#e93c58",
+        green: "#efaf8e",
+        yellow: "#e58d7d",
+        blue: "#24a8b4",
+        magenta: "#df5273",
+        cyan: "#efb993",
+        white: "#cbced0"
+    ),
+    bright: (
+        black: "#2e303e",
+        red: "#e93c58",
+        green: "#efaf8e",
+        yellow: "#e58d7d",
+        blue: "#24a8b4",
+        magenta: "#df5273",
+        cyan: "#efb993",
+        white: "#cbced0"
+    ),
+    dim: (
+        black: "#2e303e",
+        red: "#e93c58",
+        green: "#efaf8e",
+        yellow: "#e58d7d",
+        blue: "#24a8b4",
+        magenta: "#df5273",
+        cyan: "#efb993",
+        white: "#cbced0"
+    ),
+)

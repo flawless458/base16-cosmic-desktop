@@ -1,0 +1,38 @@
+(
+    name: "pinky",
+    foreground: "#f5f5f5",
+    background: "#171517",
+    cursor: "#383338",
+    bright_foreground: "#f5f5f5",
+    dim_foreground: "#f7f3f7",
+    normal: (
+        black: "#1d1b1d",
+        red: "#ffa600",
+        green: "#ff0066",
+        yellow: "#00ff66",
+        blue: "#6600ff",
+        magenta: "#00ffff",
+        cyan: "#20df6c",
+        white: "#f5f5f5"
+    ),
+    bright: (
+        black: "#1d1b1d",
+        red: "#ffa600",
+        green: "#ff0066",
+        yellow: "#00ff66",
+        blue: "#6600ff",
+        magenta: "#00ffff",
+        cyan: "#20df6c",
+        white: "#f5f5f5"
+    ),
+    dim: (
+        black: "#1d1b1d",
+        red: "#ffa600",
+        green: "#ff0066",
+        yellow: "#00ff66",
+        blue: "#6600ff",
+        magenta: "#00ffff",
+        cyan: "#20df6c",
+        white: "#f5f5f5"
+    ),
+)

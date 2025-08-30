@@ -1,0 +1,38 @@
+(
+    name: "Primer Dark",
+    foreground: "#b1bac4",
+    background: "#010409",
+    cursor: "#484f58",
+    bright_foreground: "#b1bac4",
+    dim_foreground: "#f0f6fc",
+    normal: (
+        black: "#30363d",
+        red: "#ff7b72",
+        green: "#3fb950",
+        yellow: "#f0883e",
+        blue: "#a5d6ff",
+        magenta: "#58a6ff",
+        cyan: "#d29922",
+        white: "#b1bac4"
+    ),
+    bright: (
+        black: "#30363d",
+        red: "#ff7b72",
+        green: "#3fb950",
+        yellow: "#f0883e",
+        blue: "#a5d6ff",
+        magenta: "#58a6ff",
+        cyan: "#d29922",
+        white: "#b1bac4"
+    ),
+    dim: (
+        black: "#30363d",
+        red: "#ff7b72",
+        green: "#3fb950",
+        yellow: "#f0883e",
+        blue: "#a5d6ff",
+        magenta: "#58a6ff",
+        cyan: "#d29922",
+        white: "#b1bac4"
+    ),
+)

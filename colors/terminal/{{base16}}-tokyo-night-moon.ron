@@ -1,0 +1,38 @@
+(
+    name: "Tokyo Night Moon",
+    foreground: "#3b4261",
+    background: "#222436",
+    cursor: "#636da6",
+    bright_foreground: "#3b4261",
+    dim_foreground: "#c8d3f5",
+    normal: (
+        black: "#2d3f76",
+        red: "#ff757f",
+        green: "#c3e88d",
+        yellow: "#ffc777",
+        blue: "#86e1fc",
+        magenta: "#82aaff",
+        cyan: "#ffc777",
+        white: "#3b4261"
+    ),
+    bright: (
+        black: "#2d3f76",
+        red: "#ff757f",
+        green: "#c3e88d",
+        yellow: "#ffc777",
+        blue: "#86e1fc",
+        magenta: "#82aaff",
+        cyan: "#ffc777",
+        white: "#3b4261"
+    ),
+    dim: (
+        black: "#2d3f76",
+        red: "#ff757f",
+        green: "#c3e88d",
+        yellow: "#ffc777",
+        blue: "#86e1fc",
+        magenta: "#82aaff",
+        cyan: "#ffc777",
+        white: "#3b4261"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Tango",
+    foreground: "#d3d7cf",
+    background: "#2e3436",
+    cursor: "#555753",
+    bright_foreground: "#d3d7cf",
+    dim_foreground: "#eeeeec",
+    normal: (
+        black: "#fce94f",
+        red: "#cc0000",
+        green: "#4e9a06",
+        yellow: "#ef2929",
+        blue: "#06989a",
+        magenta: "#3465a4",
+        cyan: "#c4a000",
+        white: "#d3d7cf"
+    ),
+    bright: (
+        black: "#fce94f",
+        red: "#cc0000",
+        green: "#4e9a06",
+        yellow: "#ef2929",
+        blue: "#06989a",
+        magenta: "#3465a4",
+        cyan: "#c4a000",
+        white: "#d3d7cf"
+    ),
+    dim: (
+        black: "#fce94f",
+        red: "#cc0000",
+        green: "#4e9a06",
+        yellow: "#ef2929",
+        blue: "#06989a",
+        magenta: "#3465a4",
+        cyan: "#c4a000",
+        white: "#d3d7cf"
+    ),
+)

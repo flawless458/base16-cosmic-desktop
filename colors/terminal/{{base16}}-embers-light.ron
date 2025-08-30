@@ -1,0 +1,38 @@
+(
+    name: "Embers Light",
+    foreground: "#323b43",
+    background: "#d1d6db",
+    cursor: "#75808a",
+    bright_foreground: "#323b43",
+    dim_foreground: "#0f1316",
+    normal: (
+        black: "#909aa3",
+        red: "#576d82",
+        green: "#6d8257",
+        yellow: "#578282",
+        blue: "#826d57",
+        magenta: "#82576d",
+        cyan: "#57826d",
+        white: "#323b43"
+    ),
+    bright: (
+        black: "#909aa3",
+        red: "#576d82",
+        green: "#6d8257",
+        yellow: "#578282",
+        blue: "#826d57",
+        magenta: "#82576d",
+        cyan: "#57826d",
+        white: "#323b43"
+    ),
+    dim: (
+        black: "#909aa3",
+        red: "#576d82",
+        green: "#6d8257",
+        yellow: "#578282",
+        blue: "#826d57",
+        magenta: "#82576d",
+        cyan: "#57826d",
+        white: "#323b43"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Kanagawa",
+    foreground: "#dcd7ba",
+    background: "#1f1f28",
+    cursor: "#54546d",
+    bright_foreground: "#dcd7ba",
+    dim_foreground: "#717c7c",
+    normal: (
+        black: "#223249",
+        red: "#c34043",
+        green: "#76946a",
+        yellow: "#ffa066",
+        blue: "#6a9589",
+        magenta: "#7e9cd8",
+        cyan: "#c0a36e",
+        white: "#dcd7ba"
+    ),
+    bright: (
+        black: "#223249",
+        red: "#c34043",
+        green: "#76946a",
+        yellow: "#ffa066",
+        blue: "#6a9589",
+        magenta: "#7e9cd8",
+        cyan: "#c0a36e",
+        white: "#dcd7ba"
+    ),
+    dim: (
+        black: "#223249",
+        red: "#c34043",
+        green: "#76946a",
+        yellow: "#ffa066",
+        blue: "#6a9589",
+        magenta: "#7e9cd8",
+        cyan: "#c0a36e",
+        white: "#dcd7ba"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Tokyo Night Terminal Storm",
+    foreground: "#787c99",
+    background: "#24283b",
+    cursor: "#444b6a",
+    bright_foreground: "#787c99",
+    dim_foreground: "#d5d6db",
+    normal: (
+        black: "#343a52",
+        red: "#f7768e",
+        green: "#41a6b5",
+        yellow: "#ff9e64",
+        blue: "#7dcfff",
+        magenta: "#7aa2f7",
+        cyan: "#e0af68",
+        white: "#787c99"
+    ),
+    bright: (
+        black: "#343a52",
+        red: "#f7768e",
+        green: "#41a6b5",
+        yellow: "#ff9e64",
+        blue: "#7dcfff",
+        magenta: "#7aa2f7",
+        cyan: "#e0af68",
+        white: "#787c99"
+    ),
+    dim: (
+        black: "#343a52",
+        red: "#f7768e",
+        green: "#41a6b5",
+        yellow: "#ff9e64",
+        blue: "#7dcfff",
+        magenta: "#7aa2f7",
+        cyan: "#e0af68",
+        white: "#787c99"
+    ),
+)

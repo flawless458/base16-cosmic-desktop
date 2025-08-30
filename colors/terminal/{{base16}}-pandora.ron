@@ -1,0 +1,38 @@
+(
+    name: "pandora",
+    foreground: "#f15c99",
+    background: "#131213",
+    cursor: "#ffbee3",
+    bright_foreground: "#f15c99",
+    dim_foreground: "#632227",
+    normal: (
+        black: "#472234",
+        red: "#b00b69",
+        green: "#9ddf69",
+        yellow: "#ff9153",
+        blue: "#714ca6",
+        magenta: "#008080",
+        cyan: "#ffcc00",
+        white: "#f15c99"
+    ),
+    bright: (
+        black: "#472234",
+        red: "#b00b69",
+        green: "#9ddf69",
+        yellow: "#ff9153",
+        blue: "#714ca6",
+        magenta: "#008080",
+        cyan: "#ffcc00",
+        white: "#f15c99"
+    ),
+    dim: (
+        black: "#472234",
+        red: "#b00b69",
+        green: "#9ddf69",
+        yellow: "#ff9153",
+        blue: "#714ca6",
+        magenta: "#008080",
+        cyan: "#ffcc00",
+        white: "#f15c99"
+    ),
+)

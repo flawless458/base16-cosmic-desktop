@@ -1,0 +1,38 @@
+(
+    name: "Brogrammer",
+    foreground: "#4e5ab7",
+    background: "#1f1f1f",
+    cursor: "#ecba0f",
+    bright_foreground: "#4e5ab7",
+    dim_foreground: "#d6dbe5",
+    normal: (
+        black: "#2dc55e",
+        red: "#d6dbe5",
+        green: "#f3bd09",
+        yellow: "#de352e",
+        blue: "#1081d6",
+        magenta: "#5350b9",
+        cyan: "#1dd361",
+        white: "#4e5ab7"
+    ),
+    bright: (
+        black: "#2dc55e",
+        red: "#d6dbe5",
+        green: "#f3bd09",
+        yellow: "#de352e",
+        blue: "#1081d6",
+        magenta: "#5350b9",
+        cyan: "#1dd361",
+        white: "#4e5ab7"
+    ),
+    dim: (
+        black: "#2dc55e",
+        red: "#d6dbe5",
+        green: "#f3bd09",
+        yellow: "#de352e",
+        blue: "#1081d6",
+        magenta: "#5350b9",
+        cyan: "#1dd361",
+        white: "#4e5ab7"
+    ),
+)

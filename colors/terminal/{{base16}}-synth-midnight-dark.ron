@@ -1,0 +1,38 @@
+(
+    name: "Synth Midnight Terminal Dark",
+    foreground: "#c1c3c4",
+    background: "#050608",
+    cursor: "#474849",
+    bright_foreground: "#c1c3c4",
+    dim_foreground: "#dddfe0",
+    normal: (
+        black: "#28292a",
+        red: "#b53b50",
+        green: "#06ea61",
+        yellow: "#ea770d",
+        blue: "#42fff9",
+        magenta: "#03aeff",
+        cyan: "#c9d364",
+        white: "#c1c3c4"
+    ),
+    bright: (
+        black: "#28292a",
+        red: "#b53b50",
+        green: "#06ea61",
+        yellow: "#ea770d",
+        blue: "#42fff9",
+        magenta: "#03aeff",
+        cyan: "#c9d364",
+        white: "#c1c3c4"
+    ),
+    dim: (
+        black: "#28292a",
+        red: "#b53b50",
+        green: "#06ea61",
+        yellow: "#ea770d",
+        blue: "#42fff9",
+        magenta: "#03aeff",
+        cyan: "#c9d364",
+        white: "#c1c3c4"
+    ),
+)

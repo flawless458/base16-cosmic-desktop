@@ -1,0 +1,38 @@
+(
+    name: "Unikitty Light",
+    foreground: "#6c696e",
+    background: "#ffffff",
+    cursor: "#a7a5a8",
+    bright_foreground: "#6c696e",
+    dim_foreground: "#322d34",
+    normal: (
+        black: "#c4c3c5",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#775dff",
+        cyan: "#dc8a0e",
+        white: "#6c696e"
+    ),
+    bright: (
+        black: "#c4c3c5",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#775dff",
+        cyan: "#dc8a0e",
+        white: "#6c696e"
+    ),
+    dim: (
+        black: "#c4c3c5",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#775dff",
+        cyan: "#dc8a0e",
+        white: "#6c696e"
+    ),
+)

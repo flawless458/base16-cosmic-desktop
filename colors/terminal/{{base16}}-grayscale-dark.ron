@@ -1,0 +1,38 @@
+(
+    name: "Grayscale Dark",
+    foreground: "#b9b9b9",
+    background: "#101010",
+    cursor: "#525252",
+    bright_foreground: "#b9b9b9",
+    dim_foreground: "#f7f7f7",
+    normal: (
+        black: "#464646",
+        red: "#7c7c7c",
+        green: "#8e8e8e",
+        yellow: "#999999",
+        blue: "#868686",
+        magenta: "#686868",
+        cyan: "#a0a0a0",
+        white: "#b9b9b9"
+    ),
+    bright: (
+        black: "#464646",
+        red: "#7c7c7c",
+        green: "#8e8e8e",
+        yellow: "#999999",
+        blue: "#868686",
+        magenta: "#686868",
+        cyan: "#a0a0a0",
+        white: "#b9b9b9"
+    ),
+    dim: (
+        black: "#464646",
+        red: "#7c7c7c",
+        green: "#8e8e8e",
+        yellow: "#999999",
+        blue: "#868686",
+        magenta: "#686868",
+        cyan: "#a0a0a0",
+        white: "#b9b9b9"
+    ),
+)

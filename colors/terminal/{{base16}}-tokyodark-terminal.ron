@@ -1,0 +1,38 @@
+(
+    name: "Tokyodark Terminal",
+    foreground: "#a0a8cd",
+    background: "#11121d",
+    cursor: "#282c34",
+    bright_foreground: "#a0a8cd",
+    dim_foreground: "#a0a8cd",
+    normal: (
+        black: "#212234",
+        red: "#ee6d85",
+        green: "#95c561",
+        yellow: "#f6955b",
+        blue: "#38a89d",
+        magenta: "#7199ee",
+        cyan: "#d7a65f",
+        white: "#a0a8cd"
+    ),
+    bright: (
+        black: "#212234",
+        red: "#ee6d85",
+        green: "#95c561",
+        yellow: "#f6955b",
+        blue: "#38a89d",
+        magenta: "#7199ee",
+        cyan: "#d7a65f",
+        white: "#a0a8cd"
+    ),
+    dim: (
+        black: "#212234",
+        red: "#ee6d85",
+        green: "#95c561",
+        yellow: "#f6955b",
+        blue: "#38a89d",
+        magenta: "#7199ee",
+        cyan: "#d7a65f",
+        white: "#a0a8cd"
+    ),
+)

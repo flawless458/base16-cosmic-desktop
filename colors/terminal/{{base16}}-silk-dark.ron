@@ -1,0 +1,38 @@
+(
+    name: "Silk Dark",
+    foreground: "#c7dbdd",
+    background: "#0e3c46",
+    cursor: "#587073",
+    bright_foreground: "#c7dbdd",
+    dim_foreground: "#d2faff",
+    normal: (
+        black: "#2a5054",
+        red: "#fb6953",
+        green: "#73d8ad",
+        yellow: "#fcab74",
+        blue: "#3fb2b9",
+        magenta: "#46bddd",
+        cyan: "#fce380",
+        white: "#c7dbdd"
+    ),
+    bright: (
+        black: "#2a5054",
+        red: "#fb6953",
+        green: "#73d8ad",
+        yellow: "#fcab74",
+        blue: "#3fb2b9",
+        magenta: "#46bddd",
+        cyan: "#fce380",
+        white: "#c7dbdd"
+    ),
+    dim: (
+        black: "#2a5054",
+        red: "#fb6953",
+        green: "#73d8ad",
+        yellow: "#fcab74",
+        blue: "#3fb2b9",
+        magenta: "#46bddd",
+        cyan: "#fce380",
+        white: "#c7dbdd"
+    ),
+)

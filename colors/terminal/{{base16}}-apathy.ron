@@ -1,0 +1,38 @@
+(
+    name: "Apathy",
+    foreground: "#81b5ac",
+    background: "#031a16",
+    cursor: "#2b685e",
+    bright_foreground: "#81b5ac",
+    dim_foreground: "#d2e7e4",
+    normal: (
+        black: "#184e45",
+        red: "#3e9688",
+        green: "#883e96",
+        yellow: "#3e7996",
+        blue: "#963e4c",
+        magenta: "#96883e",
+        cyan: "#3e4c96",
+        white: "#81b5ac"
+    ),
+    bright: (
+        black: "#184e45",
+        red: "#3e9688",
+        green: "#883e96",
+        yellow: "#3e7996",
+        blue: "#963e4c",
+        magenta: "#96883e",
+        cyan: "#3e4c96",
+        white: "#81b5ac"
+    ),
+    dim: (
+        black: "#184e45",
+        red: "#3e9688",
+        green: "#883e96",
+        yellow: "#3e7996",
+        blue: "#963e4c",
+        magenta: "#96883e",
+        cyan: "#3e4c96",
+        white: "#81b5ac"
+    ),
+)

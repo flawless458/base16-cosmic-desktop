@@ -1,0 +1,38 @@
+(
+    name: "Jabuti",
+    foreground: "#c0cbe3",
+    background: "#292a37",
+    cursor: "#45475d",
+    bright_foreground: "#c0cbe3",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#3c3e51",
+        red: "#ec6a88",
+        green: "#3fdaa4",
+        yellow: "#efb993",
+        blue: "#ff7eb6",
+        magenta: "#3fc6de",
+        cyan: "#e1c697",
+        white: "#c0cbe3"
+    ),
+    bright: (
+        black: "#3c3e51",
+        red: "#ec6a88",
+        green: "#3fdaa4",
+        yellow: "#efb993",
+        blue: "#ff7eb6",
+        magenta: "#3fc6de",
+        cyan: "#e1c697",
+        white: "#c0cbe3"
+    ),
+    dim: (
+        black: "#3c3e51",
+        red: "#ec6a88",
+        green: "#3fdaa4",
+        yellow: "#efb993",
+        blue: "#ff7eb6",
+        magenta: "#3fc6de",
+        cyan: "#e1c697",
+        white: "#c0cbe3"
+    ),
+)

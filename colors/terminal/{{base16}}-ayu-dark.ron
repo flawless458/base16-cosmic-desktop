@@ -1,0 +1,38 @@
+(
+    name: "Ayu Dark",
+    foreground: "#e6e1cf",
+    background: "#0b0e14",
+    cursor: "#3e4b59",
+    bright_foreground: "#e6e1cf",
+    dim_foreground: "#f2f0e7",
+    normal: (
+        black: "#202229",
+        red: "#f07178",
+        green: "#aad94c",
+        yellow: "#ff8f40",
+        blue: "#95e6cb",
+        magenta: "#59c2ff",
+        cyan: "#ffb454",
+        white: "#e6e1cf"
+    ),
+    bright: (
+        black: "#202229",
+        red: "#f07178",
+        green: "#aad94c",
+        yellow: "#ff8f40",
+        blue: "#95e6cb",
+        magenta: "#59c2ff",
+        cyan: "#ffb454",
+        white: "#e6e1cf"
+    ),
+    dim: (
+        black: "#202229",
+        red: "#f07178",
+        green: "#aad94c",
+        yellow: "#ff8f40",
+        blue: "#95e6cb",
+        magenta: "#59c2ff",
+        cyan: "#ffb454",
+        white: "#e6e1cf"
+    ),
+)

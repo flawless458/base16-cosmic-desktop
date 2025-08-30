@@ -1,0 +1,38 @@
+(
+    name: "Measured Light",
+    foreground: "#292929",
+    background: "#fdf9f5",
+    cursor: "#5a5a5a",
+    bright_foreground: "#292929",
+    dim_foreground: "#000000",
+    normal: (
+        black: "#ffeada",
+        red: "#ac1f35",
+        green: "#0c680c",
+        yellow: "#ad5601",
+        blue: "#01716f",
+        magenta: "#0158ad",
+        cyan: "#645a00",
+        white: "#292929"
+    ),
+    bright: (
+        black: "#ffeada",
+        red: "#ac1f35",
+        green: "#0c680c",
+        yellow: "#ad5601",
+        blue: "#01716f",
+        magenta: "#0158ad",
+        cyan: "#645a00",
+        white: "#292929"
+    ),
+    dim: (
+        black: "#ffeada",
+        red: "#ac1f35",
+        green: "#0c680c",
+        yellow: "#ad5601",
+        blue: "#01716f",
+        magenta: "#0158ad",
+        cyan: "#645a00",
+        white: "#292929"
+    ),
+)

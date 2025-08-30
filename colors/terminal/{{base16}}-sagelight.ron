@@ -1,0 +1,38 @@
+(
+    name: "Sagelight",
+    foreground: "#383838",
+    background: "#f8f8f8",
+    cursor: "#b8b8b8",
+    bright_foreground: "#383838",
+    dim_foreground: "#181818",
+    normal: (
+        black: "#d8d8d8",
+        red: "#fa8480",
+        green: "#a0d2c8",
+        yellow: "#ffaa61",
+        blue: "#a2d6f5",
+        magenta: "#a0a7d2",
+        cyan: "#ffdc61",
+        white: "#383838"
+    ),
+    bright: (
+        black: "#d8d8d8",
+        red: "#fa8480",
+        green: "#a0d2c8",
+        yellow: "#ffaa61",
+        blue: "#a2d6f5",
+        magenta: "#a0a7d2",
+        cyan: "#ffdc61",
+        white: "#383838"
+    ),
+    dim: (
+        black: "#d8d8d8",
+        red: "#fa8480",
+        green: "#a0d2c8",
+        yellow: "#ffaa61",
+        blue: "#a2d6f5",
+        magenta: "#a0a7d2",
+        cyan: "#ffdc61",
+        white: "#383838"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "eris",
+    foreground: "#606bac",
+    background: "#0a0920",
+    cursor: "#333773",
+    bright_foreground: "#606bac",
+    dim_foreground: "#9aaae5",
+    normal: (
+        black: "#23255a",
+        red: "#f768a3",
+        green: "#faaea2",
+        yellow: "#f768a3",
+        blue: "#258fc4",
+        magenta: "#258fc4",
+        cyan: "#faaea2",
+        white: "#606bac"
+    ),
+    bright: (
+        black: "#23255a",
+        red: "#f768a3",
+        green: "#faaea2",
+        yellow: "#f768a3",
+        blue: "#258fc4",
+        magenta: "#258fc4",
+        cyan: "#faaea2",
+        white: "#606bac"
+    ),
+    dim: (
+        black: "#23255a",
+        red: "#f768a3",
+        green: "#faaea2",
+        yellow: "#f768a3",
+        blue: "#258fc4",
+        magenta: "#258fc4",
+        cyan: "#faaea2",
+        white: "#606bac"
+    ),
+)

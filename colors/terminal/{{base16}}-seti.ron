@@ -1,0 +1,38 @@
+(
+    name: "Seti UI",
+    foreground: "#d6d6d6",
+    background: "#151718",
+    cursor: "#41535b",
+    bright_foreground: "#d6d6d6",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#3b758c",
+        red: "#cd3f45",
+        green: "#9fca56",
+        yellow: "#db7b55",
+        blue: "#55dbbe",
+        magenta: "#55b5db",
+        cyan: "#e6cd69",
+        white: "#d6d6d6"
+    ),
+    bright: (
+        black: "#3b758c",
+        red: "#cd3f45",
+        green: "#9fca56",
+        yellow: "#db7b55",
+        blue: "#55dbbe",
+        magenta: "#55b5db",
+        cyan: "#e6cd69",
+        white: "#d6d6d6"
+    ),
+    dim: (
+        black: "#3b758c",
+        red: "#cd3f45",
+        green: "#9fca56",
+        yellow: "#db7b55",
+        blue: "#55dbbe",
+        magenta: "#55b5db",
+        cyan: "#e6cd69",
+        white: "#d6d6d6"
+    ),
+)

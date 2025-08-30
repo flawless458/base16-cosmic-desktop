@@ -1,0 +1,38 @@
+(
+    name: "Gruber",
+    foreground: "#f4f4ff",
+    background: "#181818",
+    cursor: "#52494e",
+    bright_foreground: "#f4f4ff",
+    dim_foreground: "#e4e4ef",
+    normal: (
+        black: "#484848",
+        red: "#f43841",
+        green: "#73c936",
+        yellow: "#c73c3f",
+        blue: "#95a99f",
+        magenta: "#96a6c8",
+        cyan: "#ffdd33",
+        white: "#f4f4ff"
+    ),
+    bright: (
+        black: "#484848",
+        red: "#f43841",
+        green: "#73c936",
+        yellow: "#c73c3f",
+        blue: "#95a99f",
+        magenta: "#96a6c8",
+        cyan: "#ffdd33",
+        white: "#f4f4ff"
+    ),
+    dim: (
+        black: "#484848",
+        red: "#f43841",
+        green: "#73c936",
+        yellow: "#c73c3f",
+        blue: "#95a99f",
+        magenta: "#96a6c8",
+        cyan: "#ffdd33",
+        white: "#f4f4ff"
+    ),
+)

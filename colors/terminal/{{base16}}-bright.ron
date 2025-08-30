@@ -1,0 +1,38 @@
+(
+    name: "Bright",
+    foreground: "#e0e0e0",
+    background: "#000000",
+    cursor: "#b0b0b0",
+    bright_foreground: "#e0e0e0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#505050",
+        red: "#fb0120",
+        green: "#a1c659",
+        yellow: "#fc6d24",
+        blue: "#76c7b7",
+        magenta: "#6fb3d2",
+        cyan: "#fda331",
+        white: "#e0e0e0"
+    ),
+    bright: (
+        black: "#505050",
+        red: "#fb0120",
+        green: "#a1c659",
+        yellow: "#fc6d24",
+        blue: "#76c7b7",
+        magenta: "#6fb3d2",
+        cyan: "#fda331",
+        white: "#e0e0e0"
+    ),
+    dim: (
+        black: "#505050",
+        red: "#fb0120",
+        green: "#a1c659",
+        yellow: "#fc6d24",
+        blue: "#76c7b7",
+        magenta: "#6fb3d2",
+        cyan: "#fda331",
+        white: "#e0e0e0"
+    ),
+)

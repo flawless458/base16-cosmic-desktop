@@ -1,0 +1,38 @@
+(
+    name: "Primer Dark Dimmed",
+    foreground: "#909dab",
+    background: "#1c2128",
+    cursor: "#545d68",
+    bright_foreground: "#909dab",
+    dim_foreground: "#cdd9e5",
+    normal: (
+        black: "#444c56",
+        red: "#f47067",
+        green: "#57ab5a",
+        yellow: "#e0823d",
+        blue: "#96d0ff",
+        magenta: "#539bf5",
+        cyan: "#c69026",
+        white: "#909dab"
+    ),
+    bright: (
+        black: "#444c56",
+        red: "#f47067",
+        green: "#57ab5a",
+        yellow: "#e0823d",
+        blue: "#96d0ff",
+        magenta: "#539bf5",
+        cyan: "#c69026",
+        white: "#909dab"
+    ),
+    dim: (
+        black: "#444c56",
+        red: "#f47067",
+        green: "#57ab5a",
+        yellow: "#e0823d",
+        blue: "#96d0ff",
+        magenta: "#539bf5",
+        cyan: "#c69026",
+        white: "#909dab"
+    ),
+)

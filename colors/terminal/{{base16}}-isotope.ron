@@ -1,0 +1,38 @@
+(
+    name: "Isotope",
+    foreground: "#d0d0d0",
+    background: "#000000",
+    cursor: "#808080",
+    bright_foreground: "#d0d0d0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#606060",
+        red: "#ff0000",
+        green: "#33ff00",
+        yellow: "#ff9900",
+        blue: "#00ffff",
+        magenta: "#0066ff",
+        cyan: "#ff0099",
+        white: "#d0d0d0"
+    ),
+    bright: (
+        black: "#606060",
+        red: "#ff0000",
+        green: "#33ff00",
+        yellow: "#ff9900",
+        blue: "#00ffff",
+        magenta: "#0066ff",
+        cyan: "#ff0099",
+        white: "#d0d0d0"
+    ),
+    dim: (
+        black: "#606060",
+        red: "#ff0000",
+        green: "#33ff00",
+        yellow: "#ff9900",
+        blue: "#00ffff",
+        magenta: "#0066ff",
+        cyan: "#ff0099",
+        white: "#d0d0d0"
+    ),
+)

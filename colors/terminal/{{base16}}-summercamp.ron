@@ -1,0 +1,38 @@
+(
+    name: "summercamp",
+    foreground: "#736e55",
+    background: "#1c1810",
+    cursor: "#504b38",
+    bright_foreground: "#736e55",
+    dim_foreground: "#f8f5de",
+    normal: (
+        black: "#3a3527",
+        red: "#e35142",
+        green: "#5ceb5a",
+        yellow: "#fba11b",
+        blue: "#5aebbc",
+        magenta: "#489bf0",
+        cyan: "#f2ff27",
+        white: "#736e55"
+    ),
+    bright: (
+        black: "#3a3527",
+        red: "#e35142",
+        green: "#5ceb5a",
+        yellow: "#fba11b",
+        blue: "#5aebbc",
+        magenta: "#489bf0",
+        cyan: "#f2ff27",
+        white: "#736e55"
+    ),
+    dim: (
+        black: "#3a3527",
+        red: "#e35142",
+        green: "#5ceb5a",
+        yellow: "#fba11b",
+        blue: "#5aebbc",
+        magenta: "#489bf0",
+        cyan: "#f2ff27",
+        white: "#736e55"
+    ),
+)

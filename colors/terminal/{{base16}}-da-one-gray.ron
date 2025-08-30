@@ -1,0 +1,38 @@
+(
+    name: "Da One Gray",
+    foreground: "#ffffff",
+    background: "#181818",
+    cursor: "#888888",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#585858",
+        red: "#fa7883",
+        green: "#98c379",
+        yellow: "#ffc387",
+        blue: "#8af5ff",
+        magenta: "#6bb8ff",
+        cyan: "#ff9470",
+        white: "#ffffff"
+    ),
+    bright: (
+        black: "#585858",
+        red: "#fa7883",
+        green: "#98c379",
+        yellow: "#ffc387",
+        blue: "#8af5ff",
+        magenta: "#6bb8ff",
+        cyan: "#ff9470",
+        white: "#ffffff"
+    ),
+    dim: (
+        black: "#585858",
+        red: "#fa7883",
+        green: "#98c379",
+        yellow: "#ffc387",
+        blue: "#8af5ff",
+        magenta: "#6bb8ff",
+        cyan: "#ff9470",
+        white: "#ffffff"
+    ),
+)

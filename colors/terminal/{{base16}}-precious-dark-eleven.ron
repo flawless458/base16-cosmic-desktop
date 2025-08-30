@@ -1,0 +1,38 @@
+(
+    name: "Precious Dark Eleven",
+    foreground: "#b8b7b6",
+    background: "#1c1e20",
+    cursor: "#858585",
+    bright_foreground: "#b8b7b6",
+    dim_foreground: "#b8b7b6",
+    normal: (
+        black: "#37393a",
+        red: "#ff8782",
+        green: "#95b658",
+        yellow: "#ea9755",
+        blue: "#42bda7",
+        magenta: "#68b0ee",
+        cyan: "#d0a543",
+        white: "#b8b7b6"
+    ),
+    bright: (
+        black: "#37393a",
+        red: "#ff8782",
+        green: "#95b658",
+        yellow: "#ea9755",
+        blue: "#42bda7",
+        magenta: "#68b0ee",
+        cyan: "#d0a543",
+        white: "#b8b7b6"
+    ),
+    dim: (
+        black: "#37393a",
+        red: "#ff8782",
+        green: "#95b658",
+        yellow: "#ea9755",
+        blue: "#42bda7",
+        magenta: "#68b0ee",
+        cyan: "#d0a543",
+        white: "#b8b7b6"
+    ),
+)

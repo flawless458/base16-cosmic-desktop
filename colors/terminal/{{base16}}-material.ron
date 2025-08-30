@@ -1,0 +1,38 @@
+(
+    name: "Material",
+    foreground: "#eeffff",
+    background: "#263238",
+    cursor: "#546e7a",
+    bright_foreground: "#eeffff",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#314549",
+        red: "#f07178",
+        green: "#c3e88d",
+        yellow: "#f78c6c",
+        blue: "#89ddff",
+        magenta: "#82aaff",
+        cyan: "#ffcb6b",
+        white: "#eeffff"
+    ),
+    bright: (
+        black: "#314549",
+        red: "#f07178",
+        green: "#c3e88d",
+        yellow: "#f78c6c",
+        blue: "#89ddff",
+        magenta: "#82aaff",
+        cyan: "#ffcb6b",
+        white: "#eeffff"
+    ),
+    dim: (
+        black: "#314549",
+        red: "#f07178",
+        green: "#c3e88d",
+        yellow: "#f78c6c",
+        blue: "#89ddff",
+        magenta: "#82aaff",
+        cyan: "#ffcb6b",
+        white: "#eeffff"
+    ),
+)

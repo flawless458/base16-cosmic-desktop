@@ -1,0 +1,38 @@
+(
+    name: "Horizon Terminal Light",
+    foreground: "#403c3d",
+    background: "#fdf0ed",
+    cursor: "#bdb3b1",
+    bright_foreground: "#403c3d",
+    dim_foreground: "#201c1d",
+    normal: (
+        black: "#f9cbbe",
+        red: "#e95678",
+        green: "#29d398",
+        yellow: "#f9cec3",
+        blue: "#59e1e3",
+        magenta: "#26bbd9",
+        cyan: "#fadad1",
+        white: "#403c3d"
+    ),
+    bright: (
+        black: "#f9cbbe",
+        red: "#e95678",
+        green: "#29d398",
+        yellow: "#f9cec3",
+        blue: "#59e1e3",
+        magenta: "#26bbd9",
+        cyan: "#fadad1",
+        white: "#403c3d"
+    ),
+    dim: (
+        black: "#f9cbbe",
+        red: "#e95678",
+        green: "#29d398",
+        yellow: "#f9cec3",
+        blue: "#59e1e3",
+        magenta: "#26bbd9",
+        cyan: "#fadad1",
+        white: "#403c3d"
+    ),
+)

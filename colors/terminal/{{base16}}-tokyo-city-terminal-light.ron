@@ -1,0 +1,38 @@
+(
+    name: "Tokyo City Terminal Light",
+    foreground: "#28323a",
+    background: "#fbfbfd",
+    cursor: "#b7c5d3",
+    bright_foreground: "#28323a",
+    dim_foreground: "#171d23",
+    normal: (
+        black: "#d8e2ec",
+        red: "#8c4351",
+        green: "#33635c",
+        yellow: "#965027",
+        blue: "#0f4b6e",
+        magenta: "#34548a",
+        cyan: "#8f5e15",
+        white: "#28323a"
+    ),
+    bright: (
+        black: "#d8e2ec",
+        red: "#8c4351",
+        green: "#33635c",
+        yellow: "#965027",
+        blue: "#0f4b6e",
+        magenta: "#34548a",
+        cyan: "#8f5e15",
+        white: "#28323a"
+    ),
+    dim: (
+        black: "#d8e2ec",
+        red: "#8c4351",
+        green: "#33635c",
+        yellow: "#965027",
+        blue: "#0f4b6e",
+        magenta: "#34548a",
+        cyan: "#8f5e15",
+        white: "#28323a"
+    ),
+)

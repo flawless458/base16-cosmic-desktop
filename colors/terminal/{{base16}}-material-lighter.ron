@@ -1,0 +1,38 @@
+(
+    name: "Material Lighter",
+    foreground: "#80cbc4",
+    background: "#fafafa",
+    cursor: "#ccd7da",
+    bright_foreground: "#80cbc4",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#cceae7",
+        red: "#ff5370",
+        green: "#91b859",
+        yellow: "#f76d47",
+        blue: "#39adb5",
+        magenta: "#6182b8",
+        cyan: "#ffb62c",
+        white: "#80cbc4"
+    ),
+    bright: (
+        black: "#cceae7",
+        red: "#ff5370",
+        green: "#91b859",
+        yellow: "#f76d47",
+        blue: "#39adb5",
+        magenta: "#6182b8",
+        cyan: "#ffb62c",
+        white: "#80cbc4"
+    ),
+    dim: (
+        black: "#cceae7",
+        red: "#ff5370",
+        green: "#91b859",
+        yellow: "#f76d47",
+        blue: "#39adb5",
+        magenta: "#6182b8",
+        cyan: "#ffb62c",
+        white: "#80cbc4"
+    ),
+)

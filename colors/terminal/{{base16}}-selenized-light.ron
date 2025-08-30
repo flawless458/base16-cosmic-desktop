@@ -1,0 +1,38 @@
+(
+    name: "selenized-light",
+    foreground: "#53676d",
+    background: "#fbf3db",
+    cursor: "#909995",
+    bright_foreground: "#53676d",
+    dim_foreground: "#3a4d53",
+    normal: (
+        black: "#d5cdb6",
+        red: "#cc1729",
+        green: "#428b00",
+        yellow: "#bc5819",
+        blue: "#00978a",
+        magenta: "#006dce",
+        cyan: "#a78300",
+        white: "#53676d"
+    ),
+    bright: (
+        black: "#d5cdb6",
+        red: "#cc1729",
+        green: "#428b00",
+        yellow: "#bc5819",
+        blue: "#00978a",
+        magenta: "#006dce",
+        cyan: "#a78300",
+        white: "#53676d"
+    ),
+    dim: (
+        black: "#d5cdb6",
+        red: "#cc1729",
+        green: "#428b00",
+        yellow: "#bc5819",
+        blue: "#00978a",
+        magenta: "#006dce",
+        cyan: "#a78300",
+        white: "#53676d"
+    ),
+)

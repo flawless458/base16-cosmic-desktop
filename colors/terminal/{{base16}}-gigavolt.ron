@@ -1,0 +1,38 @@
+(
+    name: "Gigavolt",
+    foreground: "#e9e7e1",
+    background: "#202126",
+    cursor: "#a1d2e6",
+    bright_foreground: "#e9e7e1",
+    dim_foreground: "#f2fbff",
+    normal: (
+        black: "#5a576e",
+        red: "#ff661a",
+        green: "#f2e6a9",
+        yellow: "#19f988",
+        blue: "#fb6acb",
+        magenta: "#40bfff",
+        cyan: "#ffdc2d",
+        white: "#e9e7e1"
+    ),
+    bright: (
+        black: "#5a576e",
+        red: "#ff661a",
+        green: "#f2e6a9",
+        yellow: "#19f988",
+        blue: "#fb6acb",
+        magenta: "#40bfff",
+        cyan: "#ffdc2d",
+        white: "#e9e7e1"
+    ),
+    dim: (
+        black: "#5a576e",
+        red: "#ff661a",
+        green: "#f2e6a9",
+        yellow: "#19f988",
+        blue: "#fb6acb",
+        magenta: "#40bfff",
+        cyan: "#ffdc2d",
+        white: "#e9e7e1"
+    ),
+)

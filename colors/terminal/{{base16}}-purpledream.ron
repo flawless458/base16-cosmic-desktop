@@ -1,0 +1,38 @@
+(
+    name: "Purpledream",
+    foreground: "#ddd0dd",
+    background: "#100510",
+    cursor: "#605060",
+    bright_foreground: "#ddd0dd",
+    dim_foreground: "#fff0ff",
+    normal: (
+        black: "#403040",
+        red: "#ff1d0d",
+        green: "#14cc64",
+        yellow: "#ccae14",
+        blue: "#0075b0",
+        magenta: "#00a0f0",
+        cyan: "#f000a0",
+        white: "#ddd0dd"
+    ),
+    bright: (
+        black: "#403040",
+        red: "#ff1d0d",
+        green: "#14cc64",
+        yellow: "#ccae14",
+        blue: "#0075b0",
+        magenta: "#00a0f0",
+        cyan: "#f000a0",
+        white: "#ddd0dd"
+    ),
+    dim: (
+        black: "#403040",
+        red: "#ff1d0d",
+        green: "#14cc64",
+        yellow: "#ccae14",
+        blue: "#0075b0",
+        magenta: "#00a0f0",
+        cyan: "#f000a0",
+        white: "#ddd0dd"
+    ),
+)

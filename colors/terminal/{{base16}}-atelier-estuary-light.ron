@@ -1,0 +1,38 @@
+(
+    name: "Atelier Estuary Light",
+    foreground: "#5f5e4e",
+    background: "#f4f3ec",
+    cursor: "#878573",
+    bright_foreground: "#5f5e4e",
+    dim_foreground: "#22221b",
+    normal: (
+        black: "#929181",
+        red: "#ba6236",
+        green: "#7d9726",
+        yellow: "#ae7313",
+        blue: "#5b9d48",
+        magenta: "#36a166",
+        cyan: "#a5980d",
+        white: "#5f5e4e"
+    ),
+    bright: (
+        black: "#929181",
+        red: "#ba6236",
+        green: "#7d9726",
+        yellow: "#ae7313",
+        blue: "#5b9d48",
+        magenta: "#36a166",
+        cyan: "#a5980d",
+        white: "#5f5e4e"
+    ),
+    dim: (
+        black: "#929181",
+        red: "#ba6236",
+        green: "#7d9726",
+        yellow: "#ae7313",
+        blue: "#5b9d48",
+        magenta: "#36a166",
+        cyan: "#a5980d",
+        white: "#5f5e4e"
+    ),
+)

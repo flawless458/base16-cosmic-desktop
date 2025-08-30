@@ -1,0 +1,38 @@
+(
+    name: "Windows 95 Light",
+    foreground: "#545454",
+    background: "#fcfcfc",
+    cursor: "#a8a8a8",
+    bright_foreground: "#545454",
+    dim_foreground: "#000000",
+    normal: (
+        black: "#c4c4c4",
+        red: "#a80000",
+        green: "#00a800",
+        yellow: "#fcfc54",
+        blue: "#00a8a8",
+        magenta: "#0000a8",
+        cyan: "#a85400",
+        white: "#545454"
+    ),
+    bright: (
+        black: "#c4c4c4",
+        red: "#a80000",
+        green: "#00a800",
+        yellow: "#fcfc54",
+        blue: "#00a8a8",
+        magenta: "#0000a8",
+        cyan: "#a85400",
+        white: "#545454"
+    ),
+    dim: (
+        black: "#c4c4c4",
+        red: "#a80000",
+        green: "#00a800",
+        yellow: "#fcfc54",
+        blue: "#00a8a8",
+        magenta: "#0000a8",
+        cyan: "#a85400",
+        white: "#545454"
+    ),
+)

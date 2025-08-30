@@ -1,0 +1,38 @@
+(
+    name: "Kanagawa Dragon",
+    foreground: "#c5c9c5",
+    background: "#0d0c0c",
+    cursor: "#737c73",
+    bright_foreground: "#c5c9c5",
+    dim_foreground: "#c5c9c5",
+    normal: (
+        black: "#282727",
+        red: "#c4746e",
+        green: "#87a987",
+        yellow: "#b98d7b",
+        blue: "#8ea4a2",
+        magenta: "#8ba4b0",
+        cyan: "#c4b28a",
+        white: "#c5c9c5"
+    ),
+    bright: (
+        black: "#282727",
+        red: "#c4746e",
+        green: "#87a987",
+        yellow: "#b98d7b",
+        blue: "#8ea4a2",
+        magenta: "#8ba4b0",
+        cyan: "#c4b28a",
+        white: "#c5c9c5"
+    ),
+    dim: (
+        black: "#282727",
+        red: "#c4746e",
+        green: "#87a987",
+        yellow: "#b98d7b",
+        blue: "#8ea4a2",
+        magenta: "#8ba4b0",
+        cyan: "#c4b28a",
+        white: "#c5c9c5"
+    ),
+)

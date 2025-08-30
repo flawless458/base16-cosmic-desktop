@@ -1,0 +1,38 @@
+(
+    name: "Windows 10",
+    foreground: "#cccccc",
+    background: "#0c0c0c",
+    cursor: "#767676",
+    bright_foreground: "#cccccc",
+    dim_foreground: "#f2f2f2",
+    normal: (
+        black: "#535353",
+        red: "#e74856",
+        green: "#16c60c",
+        yellow: "#c19c00",
+        blue: "#61d6d6",
+        magenta: "#3b78ff",
+        cyan: "#f9f1a5",
+        white: "#cccccc"
+    ),
+    bright: (
+        black: "#535353",
+        red: "#e74856",
+        green: "#16c60c",
+        yellow: "#c19c00",
+        blue: "#61d6d6",
+        magenta: "#3b78ff",
+        cyan: "#f9f1a5",
+        white: "#cccccc"
+    ),
+    dim: (
+        black: "#535353",
+        red: "#e74856",
+        green: "#16c60c",
+        yellow: "#c19c00",
+        blue: "#61d6d6",
+        magenta: "#3b78ff",
+        cyan: "#f9f1a5",
+        white: "#cccccc"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Sakura",
+    foreground: "#564448",
+    background: "#feedf3",
+    cursor: "#755f64",
+    bright_foreground: "#564448",
+    dim_foreground: "#33292b",
+    normal: (
+        black: "#e0ccd1",
+        red: "#df2d52",
+        green: "#2e916d",
+        yellow: "#f6661e",
+        blue: "#1d8991",
+        magenta: "#006e93",
+        cyan: "#c29461",
+        white: "#564448"
+    ),
+    bright: (
+        black: "#e0ccd1",
+        red: "#df2d52",
+        green: "#2e916d",
+        yellow: "#f6661e",
+        blue: "#1d8991",
+        magenta: "#006e93",
+        cyan: "#c29461",
+        white: "#564448"
+    ),
+    dim: (
+        black: "#e0ccd1",
+        red: "#df2d52",
+        green: "#2e916d",
+        yellow: "#f6661e",
+        blue: "#1d8991",
+        magenta: "#006e93",
+        cyan: "#c29461",
+        white: "#564448"
+    ),
+)

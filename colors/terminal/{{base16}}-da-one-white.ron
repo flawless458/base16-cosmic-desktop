@@ -1,0 +1,38 @@
+(
+    name: "Da One White",
+    foreground: "#181818",
+    background: "#ffffff",
+    cursor: "#585858",
+    bright_foreground: "#181818",
+    dim_foreground: "#000000",
+    normal: (
+        black: "#888888",
+        red: "#de5d6e",
+        green: "#76a85d",
+        yellow: "#ff9470",
+        blue: "#64b5a7",
+        magenta: "#5890f8",
+        cyan: "#b3684f",
+        white: "#181818"
+    ),
+    bright: (
+        black: "#888888",
+        red: "#de5d6e",
+        green: "#76a85d",
+        yellow: "#ff9470",
+        blue: "#64b5a7",
+        magenta: "#5890f8",
+        cyan: "#b3684f",
+        white: "#181818"
+    ),
+    dim: (
+        black: "#888888",
+        red: "#de5d6e",
+        green: "#76a85d",
+        yellow: "#ff9470",
+        blue: "#64b5a7",
+        magenta: "#5890f8",
+        cyan: "#b3684f",
+        white: "#181818"
+    ),
+)

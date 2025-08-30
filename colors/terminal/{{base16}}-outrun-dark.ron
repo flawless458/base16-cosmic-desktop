@@ -1,0 +1,38 @@
+(
+    name: "Outrun Dark",
+    foreground: "#d0d0fa",
+    background: "#00002a",
+    cursor: "#50507a",
+    bright_foreground: "#d0d0fa",
+    dim_foreground: "#f5f5ff",
+    normal: (
+        black: "#30305a",
+        red: "#ff4242",
+        green: "#59f176",
+        yellow: "#fc8d28",
+        blue: "#0ef0f0",
+        magenta: "#66b0ff",
+        cyan: "#f3e877",
+        white: "#d0d0fa"
+    ),
+    bright: (
+        black: "#30305a",
+        red: "#ff4242",
+        green: "#59f176",
+        yellow: "#fc8d28",
+        blue: "#0ef0f0",
+        magenta: "#66b0ff",
+        cyan: "#f3e877",
+        white: "#d0d0fa"
+    ),
+    dim: (
+        black: "#30305a",
+        red: "#ff4242",
+        green: "#59f176",
+        yellow: "#fc8d28",
+        blue: "#0ef0f0",
+        magenta: "#66b0ff",
+        cyan: "#f3e877",
+        white: "#d0d0fa"
+    ),
+)

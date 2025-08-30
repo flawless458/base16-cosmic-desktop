@@ -1,0 +1,38 @@
+(
+    name: "Catppuccin Mocha",
+    foreground: "#cdd6f4",
+    background: "#1e1e2e",
+    cursor: "#45475a",
+    bright_foreground: "#cdd6f4",
+    dim_foreground: "#b4befe",
+    normal: (
+        black: "#313244",
+        red: "#f38ba8",
+        green: "#a6e3a1",
+        yellow: "#fab387",
+        blue: "#94e2d5",
+        magenta: "#89b4fa",
+        cyan: "#f9e2af",
+        white: "#cdd6f4"
+    ),
+    bright: (
+        black: "#313244",
+        red: "#f38ba8",
+        green: "#a6e3a1",
+        yellow: "#fab387",
+        blue: "#94e2d5",
+        magenta: "#89b4fa",
+        cyan: "#f9e2af",
+        white: "#cdd6f4"
+    ),
+    dim: (
+        black: "#313244",
+        red: "#f38ba8",
+        green: "#a6e3a1",
+        yellow: "#fab387",
+        blue: "#94e2d5",
+        magenta: "#89b4fa",
+        cyan: "#f9e2af",
+        white: "#cdd6f4"
+    ),
+)

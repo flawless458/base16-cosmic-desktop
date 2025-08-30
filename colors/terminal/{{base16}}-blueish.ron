@@ -1,0 +1,38 @@
+(
+    name: "Blueish",
+    foreground: "#c8e1f8",
+    background: "#182430",
+    cursor: "#616d78",
+    bright_foreground: "#c8e1f8",
+    dim_foreground: "#8f98a0",
+    normal: (
+        black: "#46290a",
+        red: "#4ce587",
+        green: "#c3e88d",
+        yellow: "#f6a85c",
+        blue: "#5fd1ff",
+        magenta: "#82aaff",
+        cyan: "#82aaff",
+        white: "#c8e1f8"
+    ),
+    bright: (
+        black: "#46290a",
+        red: "#4ce587",
+        green: "#c3e88d",
+        yellow: "#f6a85c",
+        blue: "#5fd1ff",
+        magenta: "#82aaff",
+        cyan: "#82aaff",
+        white: "#c8e1f8"
+    ),
+    dim: (
+        black: "#46290a",
+        red: "#4ce587",
+        green: "#c3e88d",
+        yellow: "#f6a85c",
+        blue: "#5fd1ff",
+        magenta: "#82aaff",
+        cyan: "#82aaff",
+        white: "#c8e1f8"
+    ),
+)

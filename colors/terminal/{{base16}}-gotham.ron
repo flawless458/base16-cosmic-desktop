@@ -1,0 +1,38 @@
+(
+    name: "Gotham",
+    foreground: "#599cab",
+    background: "#0c1014",
+    cursor: "#0a3749",
+    bright_foreground: "#599cab",
+    dim_foreground: "#d3ebe9",
+    normal: (
+        black: "#091f2e",
+        red: "#c23127",
+        green: "#33859e",
+        yellow: "#d26937",
+        blue: "#2aa889",
+        magenta: "#195466",
+        cyan: "#edb443",
+        white: "#599cab"
+    ),
+    bright: (
+        black: "#091f2e",
+        red: "#c23127",
+        green: "#33859e",
+        yellow: "#d26937",
+        blue: "#2aa889",
+        magenta: "#195466",
+        cyan: "#edb443",
+        white: "#599cab"
+    ),
+    dim: (
+        black: "#091f2e",
+        red: "#c23127",
+        green: "#33859e",
+        yellow: "#d26937",
+        blue: "#2aa889",
+        magenta: "#195466",
+        cyan: "#edb443",
+        white: "#599cab"
+    ),
+)

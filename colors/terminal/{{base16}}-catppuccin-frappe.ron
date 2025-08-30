@@ -1,0 +1,38 @@
+(
+    name: "Catppuccin Frappe",
+    foreground: "#c6d0f5",
+    background: "#303446",
+    cursor: "#51576d",
+    bright_foreground: "#c6d0f5",
+    dim_foreground: "#babbf1",
+    normal: (
+        black: "#414559",
+        red: "#e78284",
+        green: "#a6d189",
+        yellow: "#ef9f76",
+        blue: "#81c8be",
+        magenta: "#8caaee",
+        cyan: "#e5c890",
+        white: "#c6d0f5"
+    ),
+    bright: (
+        black: "#414559",
+        red: "#e78284",
+        green: "#a6d189",
+        yellow: "#ef9f76",
+        blue: "#81c8be",
+        magenta: "#8caaee",
+        cyan: "#e5c890",
+        white: "#c6d0f5"
+    ),
+    dim: (
+        black: "#414559",
+        red: "#e78284",
+        green: "#a6d189",
+        yellow: "#ef9f76",
+        blue: "#81c8be",
+        magenta: "#8caaee",
+        cyan: "#e5c890",
+        white: "#c6d0f5"
+    ),
+)

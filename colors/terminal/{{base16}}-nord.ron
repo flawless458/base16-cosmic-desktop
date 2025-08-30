@@ -1,0 +1,38 @@
+(
+    name: "Nord",
+    foreground: "#e5e9f0",
+    background: "#2e3440",
+    cursor: "#4c566a",
+    bright_foreground: "#e5e9f0",
+    dim_foreground: "#8fbcbb",
+    normal: (
+        black: "#434c5e",
+        red: "#bf616a",
+        green: "#a3be8c",
+        yellow: "#d08770",
+        blue: "#88c0d0",
+        magenta: "#81a1c1",
+        cyan: "#ebcb8b",
+        white: "#e5e9f0"
+    ),
+    bright: (
+        black: "#434c5e",
+        red: "#bf616a",
+        green: "#a3be8c",
+        yellow: "#d08770",
+        blue: "#88c0d0",
+        magenta: "#81a1c1",
+        cyan: "#ebcb8b",
+        white: "#e5e9f0"
+    ),
+    dim: (
+        black: "#434c5e",
+        red: "#bf616a",
+        green: "#a3be8c",
+        yellow: "#d08770",
+        blue: "#88c0d0",
+        magenta: "#81a1c1",
+        cyan: "#ebcb8b",
+        white: "#e5e9f0"
+    ),
+)

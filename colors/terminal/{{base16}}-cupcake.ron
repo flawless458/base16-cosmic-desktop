@@ -1,0 +1,38 @@
+(
+    name: "Cupcake",
+    foreground: "#8b8198",
+    background: "#fbf1f2",
+    cursor: "#bfb9c6",
+    bright_foreground: "#8b8198",
+    dim_foreground: "#585062",
+    normal: (
+        black: "#d8d5dd",
+        red: "#d57e85",
+        green: "#a3b367",
+        yellow: "#ebb790",
+        blue: "#69a9a7",
+        magenta: "#7297b9",
+        cyan: "#dcb16c",
+        white: "#8b8198"
+    ),
+    bright: (
+        black: "#d8d5dd",
+        red: "#d57e85",
+        green: "#a3b367",
+        yellow: "#ebb790",
+        blue: "#69a9a7",
+        magenta: "#7297b9",
+        cyan: "#dcb16c",
+        white: "#8b8198"
+    ),
+    dim: (
+        black: "#d8d5dd",
+        red: "#d57e85",
+        green: "#a3b367",
+        yellow: "#ebb790",
+        blue: "#69a9a7",
+        magenta: "#7297b9",
+        cyan: "#dcb16c",
+        white: "#8b8198"
+    ),
+)

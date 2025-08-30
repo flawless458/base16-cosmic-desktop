@@ -1,0 +1,38 @@
+(
+    name: "Atelier Heath Light",
+    foreground: "#695d69",
+    background: "#f7f3f7",
+    cursor: "#9e8f9e",
+    bright_foreground: "#695d69",
+    dim_foreground: "#1b181b",
+    normal: (
+        black: "#ab9bab",
+        red: "#ca402b",
+        green: "#918b3b",
+        yellow: "#a65926",
+        blue: "#159393",
+        magenta: "#516aec",
+        cyan: "#bb8a35",
+        white: "#695d69"
+    ),
+    bright: (
+        black: "#ab9bab",
+        red: "#ca402b",
+        green: "#918b3b",
+        yellow: "#a65926",
+        blue: "#159393",
+        magenta: "#516aec",
+        cyan: "#bb8a35",
+        white: "#695d69"
+    ),
+    dim: (
+        black: "#ab9bab",
+        red: "#ca402b",
+        green: "#918b3b",
+        yellow: "#a65926",
+        blue: "#159393",
+        magenta: "#516aec",
+        cyan: "#bb8a35",
+        white: "#695d69"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Cupertino",
+    foreground: "#404040",
+    background: "#ffffff",
+    cursor: "#808080",
+    bright_foreground: "#404040",
+    dim_foreground: "#5e5e5e",
+    normal: (
+        black: "#c0c0c0",
+        red: "#c41a15",
+        green: "#007400",
+        yellow: "#eb8500",
+        blue: "#318495",
+        magenta: "#0000ff",
+        cyan: "#826b28",
+        white: "#404040"
+    ),
+    bright: (
+        black: "#c0c0c0",
+        red: "#c41a15",
+        green: "#007400",
+        yellow: "#eb8500",
+        blue: "#318495",
+        magenta: "#0000ff",
+        cyan: "#826b28",
+        white: "#404040"
+    ),
+    dim: (
+        black: "#c0c0c0",
+        red: "#c41a15",
+        green: "#007400",
+        yellow: "#eb8500",
+        blue: "#318495",
+        magenta: "#0000ff",
+        cyan: "#826b28",
+        white: "#404040"
+    ),
+)

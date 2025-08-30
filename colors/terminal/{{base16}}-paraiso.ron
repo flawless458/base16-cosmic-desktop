@@ -1,0 +1,38 @@
+(
+    name: "Paraiso",
+    foreground: "#a39e9b",
+    background: "#2f1e2e",
+    cursor: "#776e71",
+    bright_foreground: "#a39e9b",
+    dim_foreground: "#e7e9db",
+    normal: (
+        black: "#4f424c",
+        red: "#ef6155",
+        green: "#48b685",
+        yellow: "#f99b15",
+        blue: "#5bc4bf",
+        magenta: "#06b6ef",
+        cyan: "#fec418",
+        white: "#a39e9b"
+    ),
+    bright: (
+        black: "#4f424c",
+        red: "#ef6155",
+        green: "#48b685",
+        yellow: "#f99b15",
+        blue: "#5bc4bf",
+        magenta: "#06b6ef",
+        cyan: "#fec418",
+        white: "#a39e9b"
+    ),
+    dim: (
+        black: "#4f424c",
+        red: "#ef6155",
+        green: "#48b685",
+        yellow: "#f99b15",
+        blue: "#5bc4bf",
+        magenta: "#06b6ef",
+        cyan: "#fec418",
+        white: "#a39e9b"
+    ),
+)

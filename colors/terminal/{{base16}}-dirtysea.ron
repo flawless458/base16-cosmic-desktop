@@ -1,0 +1,38 @@
+(
+    name: "dirtysea",
+    foreground: "#000000",
+    background: "#e0e0e0",
+    cursor: "#707070",
+    bright_foreground: "#000000",
+    dim_foreground: "#c4d9c4",
+    normal: (
+        black: "#d0d0d0",
+        red: "#840000",
+        green: "#730073",
+        yellow: "#006565",
+        blue: "#755b00",
+        magenta: "#007300",
+        cyan: "#755b00",
+        white: "#000000"
+    ),
+    bright: (
+        black: "#d0d0d0",
+        red: "#840000",
+        green: "#730073",
+        yellow: "#006565",
+        blue: "#755b00",
+        magenta: "#007300",
+        cyan: "#755b00",
+        white: "#000000"
+    ),
+    dim: (
+        black: "#d0d0d0",
+        red: "#840000",
+        green: "#730073",
+        yellow: "#006565",
+        blue: "#755b00",
+        magenta: "#007300",
+        cyan: "#755b00",
+        white: "#000000"
+    ),
+)

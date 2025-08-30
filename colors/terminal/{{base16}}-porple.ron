@@ -1,0 +1,38 @@
+(
+    name: "Porple",
+    foreground: "#d8d8d8",
+    background: "#292c36",
+    cursor: "#65568a",
+    bright_foreground: "#d8d8d8",
+    dim_foreground: "#f8f8f8",
+    normal: (
+        black: "#474160",
+        red: "#f84547",
+        green: "#95c76f",
+        yellow: "#d28e5d",
+        blue: "#64878f",
+        magenta: "#8485ce",
+        cyan: "#efa16b",
+        white: "#d8d8d8"
+    ),
+    bright: (
+        black: "#474160",
+        red: "#f84547",
+        green: "#95c76f",
+        yellow: "#d28e5d",
+        blue: "#64878f",
+        magenta: "#8485ce",
+        cyan: "#efa16b",
+        white: "#d8d8d8"
+    ),
+    dim: (
+        black: "#474160",
+        red: "#f84547",
+        green: "#95c76f",
+        yellow: "#d28e5d",
+        blue: "#64878f",
+        magenta: "#8485ce",
+        cyan: "#efa16b",
+        white: "#d8d8d8"
+    ),
+)

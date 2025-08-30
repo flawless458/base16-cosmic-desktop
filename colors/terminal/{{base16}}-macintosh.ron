@@ -1,0 +1,38 @@
+(
+    name: "Macintosh",
+    foreground: "#c0c0c0",
+    background: "#000000",
+    cursor: "#808080",
+    bright_foreground: "#c0c0c0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#404040",
+        red: "#dd0907",
+        green: "#1fb714",
+        yellow: "#ff6403",
+        blue: "#02abea",
+        magenta: "#0000d3",
+        cyan: "#fbf305",
+        white: "#c0c0c0"
+    ),
+    bright: (
+        black: "#404040",
+        red: "#dd0907",
+        green: "#1fb714",
+        yellow: "#ff6403",
+        blue: "#02abea",
+        magenta: "#0000d3",
+        cyan: "#fbf305",
+        white: "#c0c0c0"
+    ),
+    dim: (
+        black: "#404040",
+        red: "#dd0907",
+        green: "#1fb714",
+        yellow: "#ff6403",
+        blue: "#02abea",
+        magenta: "#0000d3",
+        cyan: "#fbf305",
+        white: "#c0c0c0"
+    ),
+)

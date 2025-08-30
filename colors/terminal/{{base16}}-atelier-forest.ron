@@ -1,0 +1,38 @@
+(
+    name: "Atelier Forest",
+    foreground: "#a8a19f",
+    background: "#1b1918",
+    cursor: "#766e6b",
+    bright_foreground: "#a8a19f",
+    dim_foreground: "#f1efee",
+    normal: (
+        black: "#68615e",
+        red: "#f22c40",
+        green: "#7b9726",
+        yellow: "#df5320",
+        blue: "#3d97b8",
+        magenta: "#407ee7",
+        cyan: "#c38418",
+        white: "#a8a19f"
+    ),
+    bright: (
+        black: "#68615e",
+        red: "#f22c40",
+        green: "#7b9726",
+        yellow: "#df5320",
+        blue: "#3d97b8",
+        magenta: "#407ee7",
+        cyan: "#c38418",
+        white: "#a8a19f"
+    ),
+    dim: (
+        black: "#68615e",
+        red: "#f22c40",
+        green: "#7b9726",
+        yellow: "#df5320",
+        blue: "#3d97b8",
+        magenta: "#407ee7",
+        cyan: "#c38418",
+        white: "#a8a19f"
+    ),
+)

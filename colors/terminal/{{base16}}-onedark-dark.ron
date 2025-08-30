@@ -1,0 +1,38 @@
+(
+    name: "OneDark Dark",
+    foreground: "#abb2bf",
+    background: "#000000",
+    cursor: "#434852",
+    bright_foreground: "#abb2bf",
+    dim_foreground: "#c8ccd4",
+    normal: (
+        black: "#2c313a",
+        red: "#ef596f",
+        green: "#89ca78",
+        yellow: "#d19a66",
+        blue: "#2bbac5",
+        magenta: "#61afef",
+        cyan: "#e5c07b",
+        white: "#abb2bf"
+    ),
+    bright: (
+        black: "#2c313a",
+        red: "#ef596f",
+        green: "#89ca78",
+        yellow: "#d19a66",
+        blue: "#2bbac5",
+        magenta: "#61afef",
+        cyan: "#e5c07b",
+        white: "#abb2bf"
+    ),
+    dim: (
+        black: "#2c313a",
+        red: "#ef596f",
+        green: "#89ca78",
+        yellow: "#d19a66",
+        blue: "#2bbac5",
+        magenta: "#61afef",
+        cyan: "#e5c07b",
+        white: "#abb2bf"
+    ),
+)

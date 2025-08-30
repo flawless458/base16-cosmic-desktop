@@ -1,0 +1,38 @@
+(
+    name: "Tokyo City Dark",
+    foreground: "#d8e2ec",
+    background: "#171d23",
+    cursor: "#526270",
+    bright_foreground: "#d8e2ec",
+    dim_foreground: "#fbfbfd",
+    normal: (
+        black: "#28323a",
+        red: "#f7768e",
+        green: "#9ece6a",
+        yellow: "#ff9e64",
+        blue: "#89ddff",
+        magenta: "#7aa2f7",
+        cyan: "#b7c5d3",
+        white: "#d8e2ec"
+    ),
+    bright: (
+        black: "#28323a",
+        red: "#f7768e",
+        green: "#9ece6a",
+        yellow: "#ff9e64",
+        blue: "#89ddff",
+        magenta: "#7aa2f7",
+        cyan: "#b7c5d3",
+        white: "#d8e2ec"
+    ),
+    dim: (
+        black: "#28323a",
+        red: "#f7768e",
+        green: "#9ece6a",
+        yellow: "#ff9e64",
+        blue: "#89ddff",
+        magenta: "#7aa2f7",
+        cyan: "#b7c5d3",
+        white: "#d8e2ec"
+    ),
+)

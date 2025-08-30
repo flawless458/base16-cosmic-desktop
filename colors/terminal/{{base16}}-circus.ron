@@ -1,0 +1,38 @@
+(
+    name: "Circus",
+    foreground: "#a7a7a7",
+    background: "#191919",
+    cursor: "#5f5a60",
+    bright_foreground: "#a7a7a7",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#303030",
+        red: "#dc657d",
+        green: "#84b97c",
+        yellow: "#4bb1a7",
+        blue: "#4bb1a7",
+        magenta: "#639ee4",
+        cyan: "#c3ba63",
+        white: "#a7a7a7"
+    ),
+    bright: (
+        black: "#303030",
+        red: "#dc657d",
+        green: "#84b97c",
+        yellow: "#4bb1a7",
+        blue: "#4bb1a7",
+        magenta: "#639ee4",
+        cyan: "#c3ba63",
+        white: "#a7a7a7"
+    ),
+    dim: (
+        black: "#303030",
+        red: "#dc657d",
+        green: "#84b97c",
+        yellow: "#4bb1a7",
+        blue: "#4bb1a7",
+        magenta: "#639ee4",
+        cyan: "#c3ba63",
+        white: "#a7a7a7"
+    ),
+)

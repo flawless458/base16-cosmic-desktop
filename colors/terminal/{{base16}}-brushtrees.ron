@@ -1,0 +1,38 @@
+(
+    name: "Brush Trees",
+    foreground: "#6d828e",
+    background: "#e3efef",
+    cursor: "#98afb5",
+    bright_foreground: "#6d828e",
+    dim_foreground: "#485867",
+    normal: (
+        black: "#b0c5c8",
+        red: "#b38686",
+        green: "#87b386",
+        yellow: "#d8bba2",
+        blue: "#86b3b3",
+        magenta: "#868cb3",
+        cyan: "#aab386",
+        white: "#6d828e"
+    ),
+    bright: (
+        black: "#b0c5c8",
+        red: "#b38686",
+        green: "#87b386",
+        yellow: "#d8bba2",
+        blue: "#86b3b3",
+        magenta: "#868cb3",
+        cyan: "#aab386",
+        white: "#6d828e"
+    ),
+    dim: (
+        black: "#b0c5c8",
+        red: "#b38686",
+        green: "#87b386",
+        yellow: "#d8bba2",
+        blue: "#86b3b3",
+        magenta: "#868cb3",
+        cyan: "#aab386",
+        white: "#6d828e"
+    ),
+)

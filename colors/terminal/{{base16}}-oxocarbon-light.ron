@@ -1,0 +1,38 @@
+(
+    name: "Oxocarbon Light",
+    foreground: "#393939",
+    background: "#f2f4f8",
+    cursor: "#161616",
+    bright_foreground: "#393939",
+    dim_foreground: "#08bdba",
+    normal: (
+        black: "#525252",
+        red: "#ff7eb6",
+        green: "#0f62fe",
+        yellow: "#ee5396",
+        blue: "#673ab7",
+        magenta: "#42be65",
+        cyan: "#ff6f00",
+        white: "#393939"
+    ),
+    bright: (
+        black: "#525252",
+        red: "#ff7eb6",
+        green: "#0f62fe",
+        yellow: "#ee5396",
+        blue: "#673ab7",
+        magenta: "#42be65",
+        cyan: "#ff6f00",
+        white: "#393939"
+    ),
+    dim: (
+        black: "#525252",
+        red: "#ff7eb6",
+        green: "#0f62fe",
+        yellow: "#ee5396",
+        blue: "#673ab7",
+        magenta: "#42be65",
+        cyan: "#ff6f00",
+        white: "#393939"
+    ),
+)

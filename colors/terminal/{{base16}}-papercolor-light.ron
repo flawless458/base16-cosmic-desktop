@@ -1,0 +1,38 @@
+(
+    name: "PaperColor Light",
+    foreground: "#444444",
+    background: "#eeeeee",
+    cursor: "#5f8700",
+    bright_foreground: "#444444",
+    dim_foreground: "#878787",
+    normal: (
+        black: "#008700",
+        red: "#bcbcbc",
+        green: "#8700af",
+        yellow: "#d70000",
+        blue: "#d75f00",
+        magenta: "#d75f00",
+        cyan: "#d70087",
+        white: "#444444"
+    ),
+    bright: (
+        black: "#008700",
+        red: "#bcbcbc",
+        green: "#8700af",
+        yellow: "#d70000",
+        blue: "#d75f00",
+        magenta: "#d75f00",
+        cyan: "#d70087",
+        white: "#444444"
+    ),
+    dim: (
+        black: "#008700",
+        red: "#bcbcbc",
+        green: "#8700af",
+        yellow: "#d70000",
+        blue: "#d75f00",
+        magenta: "#d75f00",
+        cyan: "#d70087",
+        white: "#444444"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Charcoal Dark",
+    foreground: "#c0a179",
+    background: "#120f09",
+    cursor: "#66553f",
+    bright_foreground: "#c0a179",
+    dim_foreground: "#292016",
+    normal: (
+        black: "#35291d",
+        red: "#887254",
+        green: "#927a60",
+        yellow: "#d6b891",
+        blue: "#a28662",
+        magenta: "#d6b891",
+        cyan: "#c0a179",
+        white: "#c0a179"
+    ),
+    bright: (
+        black: "#35291d",
+        red: "#887254",
+        green: "#927a60",
+        yellow: "#d6b891",
+        blue: "#a28662",
+        magenta: "#d6b891",
+        cyan: "#c0a179",
+        white: "#c0a179"
+    ),
+    dim: (
+        black: "#35291d",
+        red: "#887254",
+        green: "#927a60",
+        yellow: "#d6b891",
+        blue: "#a28662",
+        magenta: "#d6b891",
+        cyan: "#c0a179",
+        white: "#c0a179"
+    ),
+)

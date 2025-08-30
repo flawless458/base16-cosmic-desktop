@@ -1,0 +1,38 @@
+(
+    name: "Precious Dark Fifteen",
+    foreground: "#bab9b6",
+    background: "#23262b",
+    cursor: "#898989",
+    bright_foreground: "#bab9b6",
+    dim_foreground: "#bab9b6",
+    normal: (
+        black: "#3e4044",
+        red: "#ff8782",
+        green: "#95b659",
+        yellow: "#e99857",
+        blue: "#42bda7",
+        magenta: "#66b0ef",
+        cyan: "#cfa546",
+        white: "#bab9b6"
+    ),
+    bright: (
+        black: "#3e4044",
+        red: "#ff8782",
+        green: "#95b659",
+        yellow: "#e99857",
+        blue: "#42bda7",
+        magenta: "#66b0ef",
+        cyan: "#cfa546",
+        white: "#bab9b6"
+    ),
+    dim: (
+        black: "#3e4044",
+        red: "#ff8782",
+        green: "#95b659",
+        yellow: "#e99857",
+        blue: "#42bda7",
+        magenta: "#66b0ef",
+        cyan: "#cfa546",
+        white: "#bab9b6"
+    ),
+)

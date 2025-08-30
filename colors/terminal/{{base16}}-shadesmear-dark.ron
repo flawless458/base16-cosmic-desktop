@@ -1,0 +1,38 @@
+(
+    name: "ShadeSmear Dark",
+    foreground: "#dbdbdb",
+    background: "#232323",
+    cursor: "#c0c0c0",
+    bright_foreground: "#dbdbdb",
+    dim_foreground: "#1c1c1c",
+    normal: (
+        black: "#4e4e4e",
+        red: "#cc5450",
+        green: "#71983b",
+        yellow: "#a64270",
+        blue: "#c57d42",
+        magenta: "#376388",
+        cyan: "#307878",
+        white: "#dbdbdb"
+    ),
+    bright: (
+        black: "#4e4e4e",
+        red: "#cc5450",
+        green: "#71983b",
+        yellow: "#a64270",
+        blue: "#c57d42",
+        magenta: "#376388",
+        cyan: "#307878",
+        white: "#dbdbdb"
+    ),
+    dim: (
+        black: "#4e4e4e",
+        red: "#cc5450",
+        green: "#71983b",
+        yellow: "#a64270",
+        blue: "#c57d42",
+        magenta: "#376388",
+        cyan: "#307878",
+        white: "#dbdbdb"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Tomorrow Night Eighties",
+    foreground: "#cccccc",
+    background: "#2d2d2d",
+    cursor: "#999999",
+    bright_foreground: "#cccccc",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#515151",
+        red: "#f2777a",
+        green: "#99cc99",
+        yellow: "#f99157",
+        blue: "#66cccc",
+        magenta: "#6699cc",
+        cyan: "#ffcc66",
+        white: "#cccccc"
+    ),
+    bright: (
+        black: "#515151",
+        red: "#f2777a",
+        green: "#99cc99",
+        yellow: "#f99157",
+        blue: "#66cccc",
+        magenta: "#6699cc",
+        cyan: "#ffcc66",
+        white: "#cccccc"
+    ),
+    dim: (
+        black: "#515151",
+        red: "#f2777a",
+        green: "#99cc99",
+        yellow: "#f99157",
+        blue: "#66cccc",
+        magenta: "#6699cc",
+        cyan: "#ffcc66",
+        white: "#cccccc"
+    ),
+)

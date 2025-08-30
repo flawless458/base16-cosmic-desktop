@@ -1,0 +1,38 @@
+(
+    name: "Pop",
+    foreground: "#d0d0d0",
+    background: "#000000",
+    cursor: "#505050",
+    bright_foreground: "#d0d0d0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#303030",
+        red: "#eb008a",
+        green: "#37b349",
+        yellow: "#f29333",
+        blue: "#00aabb",
+        magenta: "#0e5a94",
+        cyan: "#f8ca12",
+        white: "#d0d0d0"
+    ),
+    bright: (
+        black: "#303030",
+        red: "#eb008a",
+        green: "#37b349",
+        yellow: "#f29333",
+        blue: "#00aabb",
+        magenta: "#0e5a94",
+        cyan: "#f8ca12",
+        white: "#d0d0d0"
+    ),
+    dim: (
+        black: "#303030",
+        red: "#eb008a",
+        green: "#37b349",
+        yellow: "#f29333",
+        blue: "#00aabb",
+        magenta: "#0e5a94",
+        cyan: "#f8ca12",
+        white: "#d0d0d0"
+    ),
+)

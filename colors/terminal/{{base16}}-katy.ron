@@ -1,0 +1,38 @@
+(
+    name: "Katy",
+    foreground: "#959dcb",
+    background: "#292d3e",
+    cursor: "#676e95",
+    bright_foreground: "#959dcb",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#5c598b",
+        red: "#6e98e1",
+        green: "#78c06e",
+        yellow: "#f78c6c",
+        blue: "#83b7e5",
+        magenta: "#82aaff",
+        cyan: "#e0a557",
+        white: "#959dcb"
+    ),
+    bright: (
+        black: "#5c598b",
+        red: "#6e98e1",
+        green: "#78c06e",
+        yellow: "#f78c6c",
+        blue: "#83b7e5",
+        magenta: "#82aaff",
+        cyan: "#e0a557",
+        white: "#959dcb"
+    ),
+    dim: (
+        black: "#5c598b",
+        red: "#6e98e1",
+        green: "#78c06e",
+        yellow: "#f78c6c",
+        blue: "#83b7e5",
+        magenta: "#82aaff",
+        cyan: "#e0a557",
+        white: "#959dcb"
+    ),
+)

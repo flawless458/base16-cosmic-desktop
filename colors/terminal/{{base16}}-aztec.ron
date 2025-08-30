@@ -1,0 +1,38 @@
+(
+    name: "Aztec",
+    foreground: "#ffda51",
+    background: "#101600",
+    cursor: "#2e2e05",
+    bright_foreground: "#ffda51",
+    dim_foreground: "#ffeba0",
+    normal: (
+        black: "#242604",
+        red: "#ee2e00",
+        green: "#63d932",
+        yellow: "#ee8800",
+        blue: "#3d94a5",
+        magenta: "#5b4a9f",
+        cyan: "#eebb00",
+        white: "#ffda51"
+    ),
+    bright: (
+        black: "#242604",
+        red: "#ee2e00",
+        green: "#63d932",
+        yellow: "#ee8800",
+        blue: "#3d94a5",
+        magenta: "#5b4a9f",
+        cyan: "#eebb00",
+        white: "#ffda51"
+    ),
+    dim: (
+        black: "#242604",
+        red: "#ee2e00",
+        green: "#63d932",
+        yellow: "#ee8800",
+        blue: "#3d94a5",
+        magenta: "#5b4a9f",
+        cyan: "#eebb00",
+        white: "#ffda51"
+    ),
+)

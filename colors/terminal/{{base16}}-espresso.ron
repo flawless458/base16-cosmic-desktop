@@ -1,0 +1,38 @@
+(
+    name: "Espresso",
+    foreground: "#cccccc",
+    background: "#2d2d2d",
+    cursor: "#777777",
+    bright_foreground: "#cccccc",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#515151",
+        red: "#d25252",
+        green: "#a5c261",
+        yellow: "#f9a959",
+        blue: "#bed6ff",
+        magenta: "#6c99bb",
+        cyan: "#ffc66d",
+        white: "#cccccc"
+    ),
+    bright: (
+        black: "#515151",
+        red: "#d25252",
+        green: "#a5c261",
+        yellow: "#f9a959",
+        blue: "#bed6ff",
+        magenta: "#6c99bb",
+        cyan: "#ffc66d",
+        white: "#cccccc"
+    ),
+    dim: (
+        black: "#515151",
+        red: "#d25252",
+        green: "#a5c261",
+        yellow: "#f9a959",
+        blue: "#bed6ff",
+        magenta: "#6c99bb",
+        cyan: "#ffc66d",
+        white: "#cccccc"
+    ),
+)

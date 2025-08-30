@@ -1,0 +1,38 @@
+(
+    name: "Github Dark",
+    foreground: "#c9d1d9",
+    background: "#161b22",
+    cursor: "#6e7681",
+    bright_foreground: "#c9d1d9",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#484f58",
+        red: "#f85149",
+        green: "#2ea043",
+        yellow: "#db6d28",
+        blue: "#2a9d9a",
+        magenta: "#388bfd",
+        cyan: "#bb8009",
+        white: "#c9d1d9"
+    ),
+    bright: (
+        black: "#484f58",
+        red: "#f85149",
+        green: "#2ea043",
+        yellow: "#db6d28",
+        blue: "#2a9d9a",
+        magenta: "#388bfd",
+        cyan: "#bb8009",
+        white: "#c9d1d9"
+    ),
+    dim: (
+        black: "#484f58",
+        red: "#f85149",
+        green: "#2ea043",
+        yellow: "#db6d28",
+        blue: "#2a9d9a",
+        magenta: "#388bfd",
+        cyan: "#bb8009",
+        white: "#c9d1d9"
+    ),
+)

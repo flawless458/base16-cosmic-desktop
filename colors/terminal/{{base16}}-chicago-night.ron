@@ -1,0 +1,38 @@
+(
+    name: "Chicago Night",
+    foreground: "#a7b8af",
+    background: "#1e2a24",
+    cursor: "#5f7368",
+    bright_foreground: "#a7b8af",
+    dim_foreground: "#dbe3de",
+    normal: (
+        black: "#364c40",
+        red: "#c60c30",
+        green: "#009b3a",
+        yellow: "#f9461c",
+        blue: "#00a1de",
+        magenta: "#522398",
+        cyan: "#f9e300",
+        white: "#a7b8af"
+    ),
+    bright: (
+        black: "#364c40",
+        red: "#c60c30",
+        green: "#009b3a",
+        yellow: "#f9461c",
+        blue: "#00a1de",
+        magenta: "#522398",
+        cyan: "#f9e300",
+        white: "#a7b8af"
+    ),
+    dim: (
+        black: "#364c40",
+        red: "#c60c30",
+        green: "#009b3a",
+        yellow: "#f9461c",
+        blue: "#00a1de",
+        magenta: "#522398",
+        cyan: "#f9e300",
+        white: "#a7b8af"
+    ),
+)

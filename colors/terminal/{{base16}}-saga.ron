@@ -1,0 +1,38 @@
+(
+    name: "SAGA",
+    foreground: "#dce2f7",
+    background: "#05080a",
+    cursor: "#141f27",
+    bright_foreground: "#dce2f7",
+    dim_foreground: "#ccd3fe",
+    normal: (
+        black: "#0f181e",
+        red: "#ffd4e9",
+        green: "#f7ddff",
+        yellow: "#fbcbae",
+        blue: "#c5edc1",
+        magenta: "#c9fff7",
+        cyan: "#fbebc8",
+        white: "#dce2f7"
+    ),
+    bright: (
+        black: "#0f181e",
+        red: "#ffd4e9",
+        green: "#f7ddff",
+        yellow: "#fbcbae",
+        blue: "#c5edc1",
+        magenta: "#c9fff7",
+        cyan: "#fbebc8",
+        white: "#dce2f7"
+    ),
+    dim: (
+        black: "#0f181e",
+        red: "#ffd4e9",
+        green: "#f7ddff",
+        yellow: "#fbcbae",
+        blue: "#c5edc1",
+        magenta: "#c9fff7",
+        cyan: "#fbebc8",
+        white: "#dce2f7"
+    ),
+)

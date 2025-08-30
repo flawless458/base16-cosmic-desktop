@@ -1,0 +1,38 @@
+(
+    name: "Evenok Dark",
+    foreground: "#d0d0d0",
+    background: "#000000",
+    cursor: "#505050",
+    bright_foreground: "#d0d0d0",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#303030",
+        red: "#f5708a",
+        green: "#54bc5c",
+        yellow: "#ee8122",
+        blue: "#00bab3",
+        magenta: "#00aff2",
+        cyan: "#b8a300",
+        white: "#d0d0d0"
+    ),
+    bright: (
+        black: "#303030",
+        red: "#f5708a",
+        green: "#54bc5c",
+        yellow: "#ee8122",
+        blue: "#00bab3",
+        magenta: "#00aff2",
+        cyan: "#b8a300",
+        white: "#d0d0d0"
+    ),
+    dim: (
+        black: "#303030",
+        red: "#f5708a",
+        green: "#54bc5c",
+        yellow: "#ee8122",
+        blue: "#00bab3",
+        magenta: "#00aff2",
+        cyan: "#b8a300",
+        white: "#d0d0d0"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Heetch Light",
+    foreground: "#5a496e",
+    background: "#feffff",
+    cursor: "#9c92a8",
+    bright_foreground: "#5a496e",
+    dim_foreground: "#190134",
+    normal: (
+        black: "#7b6d8b",
+        red: "#27d9d5",
+        green: "#f80059",
+        yellow: "#bdb6c5",
+        blue: "#c33678",
+        magenta: "#47f9f5",
+        cyan: "#5ba2b6",
+        white: "#5a496e"
+    ),
+    bright: (
+        black: "#7b6d8b",
+        red: "#27d9d5",
+        green: "#f80059",
+        yellow: "#bdb6c5",
+        blue: "#c33678",
+        magenta: "#47f9f5",
+        cyan: "#5ba2b6",
+        white: "#5a496e"
+    ),
+    dim: (
+        black: "#7b6d8b",
+        red: "#27d9d5",
+        green: "#f80059",
+        yellow: "#bdb6c5",
+        blue: "#c33678",
+        magenta: "#47f9f5",
+        cyan: "#5ba2b6",
+        white: "#5a496e"
+    ),
+)

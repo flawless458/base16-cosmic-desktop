@@ -1,0 +1,38 @@
+(
+    name: "Mountain",
+    foreground: "#cacaca",
+    background: "#0f0f0f",
+    cursor: "#393939",
+    bright_foreground: "#cacaca",
+    dim_foreground: "#f0f0f0",
+    normal: (
+        black: "#262626",
+        red: "#ac8a8c",
+        green: "#8aac8b",
+        yellow: "#ceb188",
+        blue: "#8aabac",
+        magenta: "#8f8aac",
+        cyan: "#aca98a",
+        white: "#cacaca"
+    ),
+    bright: (
+        black: "#262626",
+        red: "#ac8a8c",
+        green: "#8aac8b",
+        yellow: "#ceb188",
+        blue: "#8aabac",
+        magenta: "#8f8aac",
+        cyan: "#aca98a",
+        white: "#cacaca"
+    ),
+    dim: (
+        black: "#262626",
+        red: "#ac8a8c",
+        green: "#8aac8b",
+        yellow: "#ceb188",
+        blue: "#8aabac",
+        magenta: "#8f8aac",
+        cyan: "#aca98a",
+        white: "#cacaca"
+    ),
+)

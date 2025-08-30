@@ -1,0 +1,38 @@
+(
+    name: "Blue Forest",
+    foreground: "#ffcc33",
+    background: "#141f2e",
+    cursor: "#a0ffa0",
+    bright_foreground: "#ffcc33",
+    dim_foreground: "#375780",
+    normal: (
+        black: "#273e5c",
+        red: "#fffab1",
+        green: "#80ff80",
+        yellow: "#ff8080",
+        blue: "#80ff80",
+        magenta: "#a2cff5",
+        cyan: "#91ccff",
+        white: "#ffcc33"
+    ),
+    bright: (
+        black: "#273e5c",
+        red: "#fffab1",
+        green: "#80ff80",
+        yellow: "#ff8080",
+        blue: "#80ff80",
+        magenta: "#a2cff5",
+        cyan: "#91ccff",
+        white: "#ffcc33"
+    ),
+    dim: (
+        black: "#273e5c",
+        red: "#fffab1",
+        green: "#80ff80",
+        yellow: "#ff8080",
+        blue: "#80ff80",
+        magenta: "#a2cff5",
+        cyan: "#91ccff",
+        white: "#ffcc33"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Vesper",
+    foreground: "#b7b7b7",
+    background: "#101010",
+    cursor: "#333333",
+    bright_foreground: "#b7b7b7",
+    dim_foreground: "#d5d5d5",
+    normal: (
+        black: "#222222",
+        red: "#de6e6e",
+        green: "#5f8787",
+        yellow: "#dab083",
+        blue: "#60a592",
+        magenta: "#8eaaaa",
+        cyan: "#ffc799",
+        white: "#b7b7b7"
+    ),
+    bright: (
+        black: "#222222",
+        red: "#de6e6e",
+        green: "#5f8787",
+        yellow: "#dab083",
+        blue: "#60a592",
+        magenta: "#8eaaaa",
+        cyan: "#ffc799",
+        white: "#b7b7b7"
+    ),
+    dim: (
+        black: "#222222",
+        red: "#de6e6e",
+        green: "#5f8787",
+        yellow: "#dab083",
+        blue: "#60a592",
+        magenta: "#8eaaaa",
+        cyan: "#ffc799",
+        white: "#b7b7b7"
+    ),
+)

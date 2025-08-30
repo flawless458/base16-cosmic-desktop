@@ -1,0 +1,38 @@
+(
+    name: "Horizon Terminal Dark",
+    foreground: "#cbced0",
+    background: "#1c1e26",
+    cursor: "#6f6f70",
+    bright_foreground: "#cbced0",
+    dim_foreground: "#e3e6ee",
+    normal: (
+        black: "#2e303e",
+        red: "#e95678",
+        green: "#29d398",
+        yellow: "#fab795",
+        blue: "#59e1e3",
+        magenta: "#26bbd9",
+        cyan: "#fac29a",
+        white: "#cbced0"
+    ),
+    bright: (
+        black: "#2e303e",
+        red: "#e95678",
+        green: "#29d398",
+        yellow: "#fab795",
+        blue: "#59e1e3",
+        magenta: "#26bbd9",
+        cyan: "#fac29a",
+        white: "#cbced0"
+    ),
+    dim: (
+        black: "#2e303e",
+        red: "#e95678",
+        green: "#29d398",
+        yellow: "#fab795",
+        blue: "#59e1e3",
+        magenta: "#26bbd9",
+        cyan: "#fac29a",
+        white: "#cbced0"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Hardcore",
+    foreground: "#cdcdcd",
+    background: "#212121",
+    cursor: "#4a4a4a",
+    bright_foreground: "#cdcdcd",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#353535",
+        red: "#f92672",
+        green: "#a6e22e",
+        yellow: "#fd971f",
+        blue: "#708387",
+        magenta: "#66d9ef",
+        cyan: "#e6db74",
+        white: "#cdcdcd"
+    ),
+    bright: (
+        black: "#353535",
+        red: "#f92672",
+        green: "#a6e22e",
+        yellow: "#fd971f",
+        blue: "#708387",
+        magenta: "#66d9ef",
+        cyan: "#e6db74",
+        white: "#cdcdcd"
+    ),
+    dim: (
+        black: "#353535",
+        red: "#f92672",
+        green: "#a6e22e",
+        yellow: "#fd971f",
+        blue: "#708387",
+        magenta: "#66d9ef",
+        cyan: "#e6db74",
+        white: "#cdcdcd"
+    ),
+)

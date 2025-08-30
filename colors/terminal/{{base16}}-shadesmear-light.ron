@@ -1,0 +1,38 @@
+(
+    name: "ShadeSmear Light",
+    foreground: "#232323",
+    background: "#dbdbdb",
+    cursor: "#4e4e4e",
+    bright_foreground: "#232323",
+    dim_foreground: "#e4e4e4",
+    normal: (
+        black: "#c0c0c0",
+        red: "#cc5450",
+        green: "#71983b",
+        yellow: "#a64270",
+        blue: "#c57d42",
+        magenta: "#376388",
+        cyan: "#307878",
+        white: "#232323"
+    ),
+    bright: (
+        black: "#c0c0c0",
+        red: "#cc5450",
+        green: "#71983b",
+        yellow: "#a64270",
+        blue: "#c57d42",
+        magenta: "#376388",
+        cyan: "#307878",
+        white: "#232323"
+    ),
+    dim: (
+        black: "#c0c0c0",
+        red: "#cc5450",
+        green: "#71983b",
+        yellow: "#a64270",
+        blue: "#c57d42",
+        magenta: "#376388",
+        cyan: "#307878",
+        white: "#232323"
+    ),
+)

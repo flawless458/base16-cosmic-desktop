@@ -1,0 +1,38 @@
+(
+    name: "Mexico Light",
+    foreground: "#383838",
+    background: "#f8f8f8",
+    cursor: "#b8b8b8",
+    bright_foreground: "#383838",
+    dim_foreground: "#181818",
+    normal: (
+        black: "#d8d8d8",
+        red: "#ab4642",
+        green: "#538947",
+        yellow: "#dc9656",
+        blue: "#4b8093",
+        magenta: "#7cafc2",
+        cyan: "#f79a0e",
+        white: "#383838"
+    ),
+    bright: (
+        black: "#d8d8d8",
+        red: "#ab4642",
+        green: "#538947",
+        yellow: "#dc9656",
+        blue: "#4b8093",
+        magenta: "#7cafc2",
+        cyan: "#f79a0e",
+        white: "#383838"
+    ),
+    dim: (
+        black: "#d8d8d8",
+        red: "#ab4642",
+        green: "#538947",
+        yellow: "#dc9656",
+        blue: "#4b8093",
+        magenta: "#7cafc2",
+        cyan: "#f79a0e",
+        white: "#383838"
+    ),
+)

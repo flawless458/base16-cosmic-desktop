@@ -1,0 +1,38 @@
+(
+    name: "Unikitty Reversible",
+    foreground: "#c3c2c4",
+    background: "#2e2a31",
+    cursor: "#878589",
+    bright_foreground: "#c3c2c4",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#69666b",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#7864fa",
+        cyan: "#dc8a0e",
+        white: "#c3c2c4"
+    ),
+    bright: (
+        black: "#69666b",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#7864fa",
+        cyan: "#dc8a0e",
+        white: "#c3c2c4"
+    ),
+    dim: (
+        black: "#69666b",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#7864fa",
+        cyan: "#dc8a0e",
+        white: "#c3c2c4"
+    ),
+)

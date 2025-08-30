@@ -1,0 +1,38 @@
+(
+    name: "iA Dark",
+    foreground: "#cccccc",
+    background: "#1a1a1a",
+    cursor: "#767676",
+    bright_foreground: "#cccccc",
+    dim_foreground: "#f8f8f8",
+    normal: (
+        black: "#1d414d",
+        red: "#d88568",
+        green: "#83a471",
+        yellow: "#d86868",
+        blue: "#7c9cae",
+        magenta: "#8eccdd",
+        cyan: "#b99353",
+        white: "#cccccc"
+    ),
+    bright: (
+        black: "#1d414d",
+        red: "#d88568",
+        green: "#83a471",
+        yellow: "#d86868",
+        blue: "#7c9cae",
+        magenta: "#8eccdd",
+        cyan: "#b99353",
+        white: "#cccccc"
+    ),
+    dim: (
+        black: "#1d414d",
+        red: "#d88568",
+        green: "#83a471",
+        yellow: "#d86868",
+        blue: "#7c9cae",
+        magenta: "#8eccdd",
+        cyan: "#b99353",
+        white: "#cccccc"
+    ),
+)

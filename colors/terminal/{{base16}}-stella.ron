@@ -1,0 +1,38 @@
+(
+    name: "Stella",
+    foreground: "#998bad",
+    background: "#2b213c",
+    cursor: "#655978",
+    bright_foreground: "#998bad",
+    dim_foreground: "#ebdcff",
+    normal: (
+        black: "#4d4160",
+        red: "#c79987",
+        green: "#acc79b",
+        yellow: "#8865c6",
+        blue: "#9bc7bf",
+        magenta: "#a5aad4",
+        cyan: "#c7c691",
+        white: "#998bad"
+    ),
+    bright: (
+        black: "#4d4160",
+        red: "#c79987",
+        green: "#acc79b",
+        yellow: "#8865c6",
+        blue: "#9bc7bf",
+        magenta: "#a5aad4",
+        cyan: "#c7c691",
+        white: "#998bad"
+    ),
+    dim: (
+        black: "#4d4160",
+        red: "#c79987",
+        green: "#acc79b",
+        yellow: "#8865c6",
+        blue: "#9bc7bf",
+        magenta: "#a5aad4",
+        cyan: "#c7c691",
+        white: "#998bad"
+    ),
+)

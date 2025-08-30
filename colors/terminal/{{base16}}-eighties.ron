@@ -1,0 +1,38 @@
+(
+    name: "Eighties",
+    foreground: "#d3d0c8",
+    background: "#2d2d2d",
+    cursor: "#747369",
+    bright_foreground: "#d3d0c8",
+    dim_foreground: "#f2f0ec",
+    normal: (
+        black: "#515151",
+        red: "#f2777a",
+        green: "#99cc99",
+        yellow: "#f99157",
+        blue: "#66cccc",
+        magenta: "#6699cc",
+        cyan: "#ffcc66",
+        white: "#d3d0c8"
+    ),
+    bright: (
+        black: "#515151",
+        red: "#f2777a",
+        green: "#99cc99",
+        yellow: "#f99157",
+        blue: "#66cccc",
+        magenta: "#6699cc",
+        cyan: "#ffcc66",
+        white: "#d3d0c8"
+    ),
+    dim: (
+        black: "#515151",
+        red: "#f2777a",
+        green: "#99cc99",
+        yellow: "#f99157",
+        blue: "#66cccc",
+        magenta: "#6699cc",
+        cyan: "#ffcc66",
+        white: "#d3d0c8"
+    ),
+)

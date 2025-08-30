@@ -1,0 +1,4 @@
+settings:
+  filename: "colors/settings/{{base16}}-{{scheme-slug}}.ron"
+terminal:
+  filename: "colors/terminal/{{base16}}-{{scheme-slug}}.ron"

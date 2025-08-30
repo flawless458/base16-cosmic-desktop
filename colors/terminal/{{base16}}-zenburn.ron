@@ -1,0 +1,38 @@
+(
+    name: "Zenburn",
+    foreground: "#dcdccc",
+    background: "#383838",
+    cursor: "#6f6f6f",
+    bright_foreground: "#dcdccc",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#606060",
+        red: "#dca3a3",
+        green: "#5f7f5f",
+        yellow: "#dfaf8f",
+        blue: "#93e0e3",
+        magenta: "#7cb8bb",
+        cyan: "#e0cf9f",
+        white: "#dcdccc"
+    ),
+    bright: (
+        black: "#606060",
+        red: "#dca3a3",
+        green: "#5f7f5f",
+        yellow: "#dfaf8f",
+        blue: "#93e0e3",
+        magenta: "#7cb8bb",
+        cyan: "#e0cf9f",
+        white: "#dcdccc"
+    ),
+    dim: (
+        black: "#606060",
+        red: "#dca3a3",
+        green: "#5f7f5f",
+        yellow: "#dfaf8f",
+        blue: "#93e0e3",
+        magenta: "#7cb8bb",
+        cyan: "#e0cf9f",
+        white: "#dcdccc"
+    ),
+)

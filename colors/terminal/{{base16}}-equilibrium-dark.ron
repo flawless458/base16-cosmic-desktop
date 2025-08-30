@@ -1,0 +1,38 @@
+(
+    name: "Equilibrium Dark",
+    foreground: "#afaba2",
+    background: "#0c1118",
+    cursor: "#7b776e",
+    bright_foreground: "#afaba2",
+    dim_foreground: "#e7e2d9",
+    normal: (
+        black: "#22262d",
+        red: "#f04339",
+        green: "#7f8b00",
+        yellow: "#df5923",
+        blue: "#00948b",
+        magenta: "#008dd1",
+        cyan: "#bb8801",
+        white: "#afaba2"
+    ),
+    bright: (
+        black: "#22262d",
+        red: "#f04339",
+        green: "#7f8b00",
+        yellow: "#df5923",
+        blue: "#00948b",
+        magenta: "#008dd1",
+        cyan: "#bb8801",
+        white: "#afaba2"
+    ),
+    dim: (
+        black: "#22262d",
+        red: "#f04339",
+        green: "#7f8b00",
+        yellow: "#df5923",
+        blue: "#00948b",
+        magenta: "#008dd1",
+        cyan: "#bb8801",
+        white: "#afaba2"
+    ),
+)

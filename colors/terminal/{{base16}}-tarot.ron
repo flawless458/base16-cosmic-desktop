@@ -1,0 +1,38 @@
+(
+    name: "tarot",
+    foreground: "#aa556f",
+    background: "#0e091d",
+    cursor: "#74316b",
+    bright_foreground: "#aa556f",
+    dim_foreground: "#dc8f7c",
+    normal: (
+        black: "#4b2054",
+        red: "#c53253",
+        green: "#a68e5a",
+        yellow: "#ea4d60",
+        blue: "#8c9785",
+        magenta: "#6e6080",
+        cyan: "#ff6565",
+        white: "#aa556f"
+    ),
+    bright: (
+        black: "#4b2054",
+        red: "#c53253",
+        green: "#a68e5a",
+        yellow: "#ea4d60",
+        blue: "#8c9785",
+        magenta: "#6e6080",
+        cyan: "#ff6565",
+        white: "#aa556f"
+    ),
+    dim: (
+        black: "#4b2054",
+        red: "#c53253",
+        green: "#a68e5a",
+        yellow: "#ea4d60",
+        blue: "#8c9785",
+        magenta: "#6e6080",
+        cyan: "#ff6565",
+        white: "#aa556f"
+    ),
+)

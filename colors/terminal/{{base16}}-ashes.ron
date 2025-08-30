@@ -1,0 +1,38 @@
+(
+    name: "Ashes",
+    foreground: "#c7ccd1",
+    background: "#1c2023",
+    cursor: "#747c84",
+    bright_foreground: "#c7ccd1",
+    dim_foreground: "#f3f4f5",
+    normal: (
+        black: "#565e65",
+        red: "#c7ae95",
+        green: "#95c7ae",
+        yellow: "#c7c795",
+        blue: "#95aec7",
+        magenta: "#ae95c7",
+        cyan: "#aec795",
+        white: "#c7ccd1"
+    ),
+    bright: (
+        black: "#565e65",
+        red: "#c7ae95",
+        green: "#95c7ae",
+        yellow: "#c7c795",
+        blue: "#95aec7",
+        magenta: "#ae95c7",
+        cyan: "#aec795",
+        white: "#c7ccd1"
+    ),
+    dim: (
+        black: "#565e65",
+        red: "#c7ae95",
+        green: "#95c7ae",
+        yellow: "#c7c795",
+        blue: "#95aec7",
+        magenta: "#ae95c7",
+        cyan: "#aec795",
+        white: "#c7ccd1"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Black Metal (Marduk)",
+    foreground: "#c1c1c1",
+    background: "#000000",
+    cursor: "#333333",
+    bright_foreground: "#c1c1c1",
+    dim_foreground: "#c1c1c1",
+    normal: (
+        black: "#222222",
+        red: "#5f8787",
+        green: "#a5aaa7",
+        yellow: "#aaaaaa",
+        blue: "#aaaaaa",
+        magenta: "#888888",
+        cyan: "#626b67",
+        white: "#c1c1c1"
+    ),
+    bright: (
+        black: "#222222",
+        red: "#5f8787",
+        green: "#a5aaa7",
+        yellow: "#aaaaaa",
+        blue: "#aaaaaa",
+        magenta: "#888888",
+        cyan: "#626b67",
+        white: "#c1c1c1"
+    ),
+    dim: (
+        black: "#222222",
+        red: "#5f8787",
+        green: "#a5aaa7",
+        yellow: "#aaaaaa",
+        blue: "#aaaaaa",
+        magenta: "#888888",
+        cyan: "#626b67",
+        white: "#c1c1c1"
+    ),
+)

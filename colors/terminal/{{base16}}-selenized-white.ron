@@ -1,0 +1,38 @@
+(
+    name: "selenized-white",
+    foreground: "#474747",
+    background: "#ffffff",
+    cursor: "#878787",
+    bright_foreground: "#474747",
+    dim_foreground: "#282828",
+    normal: (
+        black: "#cdcdcd",
+        red: "#bf0000",
+        green: "#008400",
+        yellow: "#ba3700",
+        blue: "#009a8a",
+        magenta: "#0054cf",
+        cyan: "#af8500",
+        white: "#474747"
+    ),
+    bright: (
+        black: "#cdcdcd",
+        red: "#bf0000",
+        green: "#008400",
+        yellow: "#ba3700",
+        blue: "#009a8a",
+        magenta: "#0054cf",
+        cyan: "#af8500",
+        white: "#474747"
+    ),
+    dim: (
+        black: "#cdcdcd",
+        red: "#bf0000",
+        green: "#008400",
+        yellow: "#ba3700",
+        blue: "#009a8a",
+        magenta: "#0054cf",
+        cyan: "#af8500",
+        white: "#474747"
+    ),
+)

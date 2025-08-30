@@ -1,0 +1,38 @@
+(
+    name: "Atelier Plateau Light",
+    foreground: "#585050",
+    background: "#f4ecec",
+    cursor: "#7e7777",
+    bright_foreground: "#585050",
+    dim_foreground: "#1b1818",
+    normal: (
+        black: "#8a8585",
+        red: "#ca4949",
+        green: "#4b8b8b",
+        yellow: "#b45a3c",
+        blue: "#5485b6",
+        magenta: "#7272ca",
+        cyan: "#a06e3b",
+        white: "#585050"
+    ),
+    bright: (
+        black: "#8a8585",
+        red: "#ca4949",
+        green: "#4b8b8b",
+        yellow: "#b45a3c",
+        blue: "#5485b6",
+        magenta: "#7272ca",
+        cyan: "#a06e3b",
+        white: "#585050"
+    ),
+    dim: (
+        black: "#8a8585",
+        red: "#ca4949",
+        green: "#4b8b8b",
+        yellow: "#b45a3c",
+        blue: "#5485b6",
+        magenta: "#7272ca",
+        cyan: "#a06e3b",
+        white: "#585050"
+    ),
+)

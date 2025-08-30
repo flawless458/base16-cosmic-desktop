@@ -1,0 +1,38 @@
+(
+    name: "Windows High Contrast Light",
+    foreground: "#545454",
+    background: "#fcfcfc",
+    cursor: "#c0c0c0",
+    bright_foreground: "#545454",
+    dim_foreground: "#000000",
+    normal: (
+        black: "#d4d4d4",
+        red: "#800000",
+        green: "#008000",
+        yellow: "#fcfc54",
+        blue: "#008080",
+        magenta: "#000080",
+        cyan: "#808000",
+        white: "#545454"
+    ),
+    bright: (
+        black: "#d4d4d4",
+        red: "#800000",
+        green: "#008000",
+        yellow: "#fcfc54",
+        blue: "#008080",
+        magenta: "#000080",
+        cyan: "#808000",
+        white: "#545454"
+    ),
+    dim: (
+        black: "#d4d4d4",
+        red: "#800000",
+        green: "#008000",
+        yellow: "#fcfc54",
+        blue: "#008080",
+        magenta: "#000080",
+        cyan: "#808000",
+        white: "#545454"
+    ),
+)

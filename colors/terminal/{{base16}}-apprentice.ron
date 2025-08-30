@@ -1,0 +1,38 @@
+(
+    name: "Apprentice",
+    foreground: "#5f5f87",
+    background: "#262626",
+    cursor: "#87875f",
+    bright_foreground: "#5f5f87",
+    dim_foreground: "#6c6c6c",
+    normal: (
+        black: "#5f875f",
+        red: "#444444",
+        green: "#ffffaf",
+        yellow: "#ff8700",
+        blue: "#87afd7",
+        magenta: "#8787af",
+        cyan: "#87af87",
+        white: "#5f5f87"
+    ),
+    bright: (
+        black: "#5f875f",
+        red: "#444444",
+        green: "#ffffaf",
+        yellow: "#ff8700",
+        blue: "#87afd7",
+        magenta: "#8787af",
+        cyan: "#87af87",
+        white: "#5f5f87"
+    ),
+    dim: (
+        black: "#5f875f",
+        red: "#444444",
+        green: "#ffffaf",
+        yellow: "#ff8700",
+        blue: "#87afd7",
+        magenta: "#8787af",
+        cyan: "#87af87",
+        white: "#5f5f87"
+    ),
+)

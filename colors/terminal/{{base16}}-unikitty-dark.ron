@@ -1,0 +1,38 @@
+(
+    name: "Unikitty Dark",
+    foreground: "#bcbabe",
+    background: "#2e2a31",
+    cursor: "#838085",
+    bright_foreground: "#bcbabe",
+    dim_foreground: "#f5f4f7",
+    normal: (
+        black: "#666369",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#796af5",
+        cyan: "#dc8a0e",
+        white: "#bcbabe"
+    ),
+    bright: (
+        black: "#666369",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#796af5",
+        cyan: "#dc8a0e",
+        white: "#bcbabe"
+    ),
+    dim: (
+        black: "#666369",
+        red: "#d8137f",
+        green: "#17ad98",
+        yellow: "#d65407",
+        blue: "#149bda",
+        magenta: "#796af5",
+        cyan: "#dc8a0e",
+        white: "#bcbabe"
+    ),
+)

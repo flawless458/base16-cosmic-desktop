@@ -1,0 +1,38 @@
+(
+    name: "Framer",
+    foreground: "#d0d0d0",
+    background: "#181818",
+    cursor: "#747474",
+    bright_foreground: "#d0d0d0",
+    dim_foreground: "#eeeeee",
+    normal: (
+        black: "#464646",
+        red: "#fd886b",
+        green: "#32ccdc",
+        yellow: "#fc4769",
+        blue: "#acddfd",
+        magenta: "#20bcfc",
+        cyan: "#fecb6e",
+        white: "#d0d0d0"
+    ),
+    bright: (
+        black: "#464646",
+        red: "#fd886b",
+        green: "#32ccdc",
+        yellow: "#fc4769",
+        blue: "#acddfd",
+        magenta: "#20bcfc",
+        cyan: "#fecb6e",
+        white: "#d0d0d0"
+    ),
+    dim: (
+        black: "#464646",
+        red: "#fd886b",
+        green: "#32ccdc",
+        yellow: "#fc4769",
+        blue: "#acddfd",
+        magenta: "#20bcfc",
+        cyan: "#fecb6e",
+        white: "#d0d0d0"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Equilibrium Gray Light",
+    foreground: "#474747",
+    background: "#f1f1f1",
+    cursor: "#777777",
+    bright_foreground: "#474747",
+    dim_foreground: "#1b1b1b",
+    normal: (
+        black: "#d4d4d4",
+        red: "#d02023",
+        green: "#637200",
+        yellow: "#bf3e05",
+        blue: "#007a72",
+        magenta: "#0073b5",
+        cyan: "#9d6f00",
+        white: "#474747"
+    ),
+    bright: (
+        black: "#d4d4d4",
+        red: "#d02023",
+        green: "#637200",
+        yellow: "#bf3e05",
+        blue: "#007a72",
+        magenta: "#0073b5",
+        cyan: "#9d6f00",
+        white: "#474747"
+    ),
+    dim: (
+        black: "#d4d4d4",
+        red: "#d02023",
+        green: "#637200",
+        yellow: "#bf3e05",
+        blue: "#007a72",
+        magenta: "#0073b5",
+        cyan: "#9d6f00",
+        white: "#474747"
+    ),
+)

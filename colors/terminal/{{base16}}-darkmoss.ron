@@ -1,0 +1,38 @@
+(
+    name: "darkmoss",
+    foreground: "#c7c7a5",
+    background: "#171e1f",
+    cursor: "#555e5f",
+    bright_foreground: "#c7c7a5",
+    dim_foreground: "#e1eaef",
+    normal: (
+        black: "#373c3d",
+        red: "#ff4658",
+        green: "#499180",
+        yellow: "#e6db74",
+        blue: "#66d9ef",
+        magenta: "#498091",
+        cyan: "#fdb11f",
+        white: "#c7c7a5"
+    ),
+    bright: (
+        black: "#373c3d",
+        red: "#ff4658",
+        green: "#499180",
+        yellow: "#e6db74",
+        blue: "#66d9ef",
+        magenta: "#498091",
+        cyan: "#fdb11f",
+        white: "#c7c7a5"
+    ),
+    dim: (
+        black: "#373c3d",
+        red: "#ff4658",
+        green: "#499180",
+        yellow: "#e6db74",
+        blue: "#66d9ef",
+        magenta: "#498091",
+        cyan: "#fdb11f",
+        white: "#c7c7a5"
+    ),
+)

@@ -1,0 +1,38 @@
+(
+    name: "Tokyo Night Terminal Light",
+    foreground: "#4c505e",
+    background: "#d5d6db",
+    cursor: "#9699a3",
+    bright_foreground: "#4c505e",
+    dim_foreground: "#1a1b26",
+    normal: (
+        black: "#dfe0e5",
+        red: "#8c4351",
+        green: "#33635c",
+        yellow: "#965027",
+        blue: "#0f4b6e",
+        magenta: "#34548a",
+        cyan: "#8f5e15",
+        white: "#4c505e"
+    ),
+    bright: (
+        black: "#dfe0e5",
+        red: "#8c4351",
+        green: "#33635c",
+        yellow: "#965027",
+        blue: "#0f4b6e",
+        magenta: "#34548a",
+        cyan: "#8f5e15",
+        white: "#4c505e"
+    ),
+    dim: (
+        black: "#dfe0e5",
+        red: "#8c4351",
+        green: "#33635c",
+        yellow: "#965027",
+        blue: "#0f4b6e",
+        magenta: "#34548a",
+        cyan: "#8f5e15",
+        white: "#4c505e"
+    ),
+)

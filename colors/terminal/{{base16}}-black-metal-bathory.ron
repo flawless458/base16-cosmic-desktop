@@ -1,0 +1,38 @@
+(
+    name: "Black Metal (Bathory)",
+    foreground: "#c1c1c1",
+    background: "#000000",
+    cursor: "#333333",
+    bright_foreground: "#c1c1c1",
+    dim_foreground: "#c1c1c1",
+    normal: (
+        black: "#222222",
+        red: "#5f8787",
+        green: "#fbcb97",
+        yellow: "#aaaaaa",
+        blue: "#aaaaaa",
+        magenta: "#888888",
+        cyan: "#e78a53",
+        white: "#c1c1c1"
+    ),
+    bright: (
+        black: "#222222",
+        red: "#5f8787",
+        green: "#fbcb97",
+        yellow: "#aaaaaa",
+        blue: "#aaaaaa",
+        magenta: "#888888",
+        cyan: "#e78a53",
+        white: "#c1c1c1"
+    ),
+    dim: (
+        black: "#222222",
+        red: "#5f8787",
+        green: "#fbcb97",
+        yellow: "#aaaaaa",
+        blue: "#aaaaaa",
+        magenta: "#888888",
+        cyan: "#e78a53",
+        white: "#c1c1c1"
+    ),
+)

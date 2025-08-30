@@ -1,0 +1,38 @@
+(
+    name: "Tokyo City Light",
+    foreground: "#343b59",
+    background: "#fbfbfd",
+    cursor: "#9699a3",
+    bright_foreground: "#343b59",
+    dim_foreground: "#171d23",
+    normal: (
+        black: "#edeff6",
+        red: "#8c4351",
+        green: "#485e30",
+        yellow: "#965027",
+        blue: "#4c505e",
+        magenta: "#34548a",
+        cyan: "#4c505e",
+        white: "#343b59"
+    ),
+    bright: (
+        black: "#edeff6",
+        red: "#8c4351",
+        green: "#485e30",
+        yellow: "#965027",
+        blue: "#4c505e",
+        magenta: "#34548a",
+        cyan: "#4c505e",
+        white: "#343b59"
+    ),
+    dim: (
+        black: "#edeff6",
+        red: "#8c4351",
+        green: "#485e30",
+        yellow: "#965027",
+        blue: "#4c505e",
+        magenta: "#34548a",
+        cyan: "#4c505e",
+        white: "#343b59"
+    ),
+)

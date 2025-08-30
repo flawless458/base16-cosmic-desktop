@@ -1,0 +1,38 @@
+(
+    name: "Railscasts",
+    foreground: "#e6e1dc",
+    background: "#2b2b2b",
+    cursor: "#5a647e",
+    bright_foreground: "#e6e1dc",
+    dim_foreground: "#f9f7f3",
+    normal: (
+        black: "#3a4055",
+        red: "#da4939",
+        green: "#a5c261",
+        yellow: "#cc7833",
+        blue: "#519f50",
+        magenta: "#6d9cbe",
+        cyan: "#ffc66d",
+        white: "#e6e1dc"
+    ),
+    bright: (
+        black: "#3a4055",
+        red: "#da4939",
+        green: "#a5c261",
+        yellow: "#cc7833",
+        blue: "#519f50",
+        magenta: "#6d9cbe",
+        cyan: "#ffc66d",
+        white: "#e6e1dc"
+    ),
+    dim: (
+        black: "#3a4055",
+        red: "#da4939",
+        green: "#a5c261",
+        yellow: "#cc7833",
+        blue: "#519f50",
+        magenta: "#6d9cbe",
+        cyan: "#ffc66d",
+        white: "#e6e1dc"
+    ),
+)

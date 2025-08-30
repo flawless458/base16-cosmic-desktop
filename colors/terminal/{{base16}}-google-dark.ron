@@ -1,0 +1,38 @@
+(
+    name: "Google Dark",
+    foreground: "#c5c8c6",
+    background: "#1d1f21",
+    cursor: "#969896",
+    bright_foreground: "#c5c8c6",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#373b41",
+        red: "#cc342b",
+        green: "#198844",
+        yellow: "#f96a38",
+        blue: "#3971ed",
+        magenta: "#3971ed",
+        cyan: "#fba922",
+        white: "#c5c8c6"
+    ),
+    bright: (
+        black: "#373b41",
+        red: "#cc342b",
+        green: "#198844",
+        yellow: "#f96a38",
+        blue: "#3971ed",
+        magenta: "#3971ed",
+        cyan: "#fba922",
+        white: "#c5c8c6"
+    ),
+    dim: (
+        black: "#373b41",
+        red: "#cc342b",
+        green: "#198844",
+        yellow: "#f96a38",
+        blue: "#3971ed",
+        magenta: "#3971ed",
+        cyan: "#fba922",
+        white: "#c5c8c6"
+    ),
+)

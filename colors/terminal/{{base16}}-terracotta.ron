@@ -1,0 +1,38 @@
+(
+    name: "Terracotta",
+    foreground: "#473731",
+    background: "#efeae8",
+    cursor: "#c0aca4",
+    bright_foreground: "#473731",
+    dim_foreground: "#241c19",
+    normal: (
+        black: "#d0c1bb",
+        red: "#a75045",
+        green: "#7a894a",
+        yellow: "#bd6942",
+        blue: "#847f9e",
+        magenta: "#625574",
+        cyan: "#ce943e",
+        white: "#473731"
+    ),
+    bright: (
+        black: "#d0c1bb",
+        red: "#a75045",
+        green: "#7a894a",
+        yellow: "#bd6942",
+        blue: "#847f9e",
+        magenta: "#625574",
+        cyan: "#ce943e",
+        white: "#473731"
+    ),
+    dim: (
+        black: "#d0c1bb",
+        red: "#a75045",
+        green: "#7a894a",
+        yellow: "#bd6942",
+        blue: "#847f9e",
+        magenta: "#625574",
+        cyan: "#ce943e",
+        white: "#473731"
+    ),
+)

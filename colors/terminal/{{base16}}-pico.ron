@@ -1,0 +1,38 @@
+(
+    name: "Pico",
+    foreground: "#5f574f",
+    background: "#000000",
+    cursor: "#008751",
+    bright_foreground: "#5f574f",
+    dim_foreground: "#fff1e8",
+    normal: (
+        black: "#7e2553",
+        red: "#ff004d",
+        green: "#00e756",
+        yellow: "#ffa300",
+        blue: "#29adff",
+        magenta: "#83769c",
+        cyan: "#fff024",
+        white: "#5f574f"
+    ),
+    bright: (
+        black: "#7e2553",
+        red: "#ff004d",
+        green: "#00e756",
+        yellow: "#ffa300",
+        blue: "#29adff",
+        magenta: "#83769c",
+        cyan: "#fff024",
+        white: "#5f574f"
+    ),
+    dim: (
+        black: "#7e2553",
+        red: "#ff004d",
+        green: "#00e756",
+        yellow: "#ffa300",
+        blue: "#29adff",
+        magenta: "#83769c",
+        cyan: "#fff024",
+        white: "#5f574f"
+    ),
+)

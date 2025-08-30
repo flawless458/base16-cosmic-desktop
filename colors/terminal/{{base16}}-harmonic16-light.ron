@@ -1,0 +1,38 @@
+(
+    name: "Harmonic16 Light",
+    foreground: "#405c79",
+    background: "#f7f9fb",
+    cursor: "#aabcce",
+    bright_foreground: "#405c79",
+    dim_foreground: "#0b1c2c",
+    normal: (
+        black: "#cbd6e2",
+        red: "#bf8b56",
+        green: "#56bf8b",
+        yellow: "#bfbf56",
+        blue: "#568bbf",
+        magenta: "#8b56bf",
+        cyan: "#8bbf56",
+        white: "#405c79"
+    ),
+    bright: (
+        black: "#cbd6e2",
+        red: "#bf8b56",
+        green: "#56bf8b",
+        yellow: "#bfbf56",
+        blue: "#568bbf",
+        magenta: "#8b56bf",
+        cyan: "#8bbf56",
+        white: "#405c79"
+    ),
+    dim: (
+        black: "#cbd6e2",
+        red: "#bf8b56",
+        green: "#56bf8b",
+        yellow: "#bfbf56",
+        blue: "#568bbf",
+        magenta: "#8b56bf",
+        cyan: "#8bbf56",
+        white: "#405c79"
+    ),
+)

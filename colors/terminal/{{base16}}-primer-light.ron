@@ -1,0 +1,38 @@
+(
+    name: "Primer Light",
+    foreground: "#2f363d",
+    background: "#fafbfc",
+    cursor: "#959da5",
+    bright_foreground: "#2f363d",
+    dim_foreground: "#1b1f23",
+    normal: (
+        black: "#d1d5da",
+        red: "#d73a49",
+        green: "#28a745",
+        yellow: "#f66a0a",
+        blue: "#79b8ff",
+        magenta: "#0366d6",
+        cyan: "#ffd33d",
+        white: "#2f363d"
+    ),
+    bright: (
+        black: "#d1d5da",
+        red: "#d73a49",
+        green: "#28a745",
+        yellow: "#f66a0a",
+        blue: "#79b8ff",
+        magenta: "#0366d6",
+        cyan: "#ffd33d",
+        white: "#2f363d"
+    ),
+    dim: (
+        black: "#d1d5da",
+        red: "#d73a49",
+        green: "#28a745",
+        yellow: "#f66a0a",
+        blue: "#79b8ff",
+        magenta: "#0366d6",
+        cyan: "#ffd33d",
+        white: "#2f363d"
+    ),
+)

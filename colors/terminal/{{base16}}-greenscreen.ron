@@ -1,0 +1,38 @@
+(
+    name: "Green Screen",
+    foreground: "#00bb00",
+    background: "#001100",
+    cursor: "#007700",
+    bright_foreground: "#00bb00",
+    dim_foreground: "#00ff00",
+    normal: (
+        black: "#005500",
+        red: "#007700",
+        green: "#00bb00",
+        yellow: "#009900",
+        blue: "#005500",
+        magenta: "#009900",
+        cyan: "#007700",
+        white: "#00bb00"
+    ),
+    bright: (
+        black: "#005500",
+        red: "#007700",
+        green: "#00bb00",
+        yellow: "#009900",
+        blue: "#005500",
+        magenta: "#009900",
+        cyan: "#007700",
+        white: "#00bb00"
+    ),
+    dim: (
+        black: "#005500",
+        red: "#007700",
+        green: "#00bb00",
+        yellow: "#009900",
+        blue: "#005500",
+        magenta: "#009900",
+        cyan: "#007700",
+        white: "#00bb00"
+    ),
+)

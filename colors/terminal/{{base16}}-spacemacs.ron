@@ -1,0 +1,38 @@
+(
+    name: "Spacemacs",
+    foreground: "#a3a3a3",
+    background: "#1f2022",
+    cursor: "#585858",
+    bright_foreground: "#a3a3a3",
+    dim_foreground: "#f8f8f8",
+    normal: (
+        black: "#444155",
+        red: "#f2241f",
+        green: "#67b11d",
+        yellow: "#ffa500",
+        blue: "#2d9574",
+        magenta: "#4f97d7",
+        cyan: "#b1951d",
+        white: "#a3a3a3"
+    ),
+    bright: (
+        black: "#444155",
+        red: "#f2241f",
+        green: "#67b11d",
+        yellow: "#ffa500",
+        blue: "#2d9574",
+        magenta: "#4f97d7",
+        cyan: "#b1951d",
+        white: "#a3a3a3"
+    ),
+    dim: (
+        black: "#444155",
+        red: "#f2241f",
+        green: "#67b11d",
+        yellow: "#ffa500",
+        blue: "#2d9574",
+        magenta: "#4f97d7",
+        cyan: "#b1951d",
+        white: "#a3a3a3"
+    ),
+)

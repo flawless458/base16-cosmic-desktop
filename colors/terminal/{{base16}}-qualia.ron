@@ -1,0 +1,38 @@
+(
+    name: "Qualia",
+    foreground: "#c0c0c0",
+    background: "#101010",
+    cursor: "#454545",
+    bright_foreground: "#c0c0c0",
+    dim_foreground: "#454545",
+    normal: (
+        black: "#454545",
+        red: "#efa6a2",
+        green: "#80c990",
+        yellow: "#a3b8ef",
+        blue: "#c8c874",
+        magenta: "#50cacd",
+        cyan: "#e6a3dc",
+        white: "#c0c0c0"
+    ),
+    bright: (
+        black: "#454545",
+        red: "#efa6a2",
+        green: "#80c990",
+        yellow: "#a3b8ef",
+        blue: "#c8c874",
+        magenta: "#50cacd",
+        cyan: "#e6a3dc",
+        white: "#c0c0c0"
+    ),
+    dim: (
+        black: "#454545",
+        red: "#efa6a2",
+        green: "#80c990",
+        yellow: "#a3b8ef",
+        blue: "#c8c874",
+        magenta: "#50cacd",
+        cyan: "#e6a3dc",
+        white: "#c0c0c0"
+    ),
+)

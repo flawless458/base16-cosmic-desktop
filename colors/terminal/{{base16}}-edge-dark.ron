@@ -1,0 +1,38 @@
+(
+    name: "Edge Dark",
+    foreground: "#b7bec9",
+    background: "#262729",
+    cursor: "#3e4249",
+    bright_foreground: "#b7bec9",
+    dim_foreground: "#3e4249",
+    normal: (
+        black: "#b7bec9",
+        red: "#e77171",
+        green: "#a1bf78",
+        yellow: "#e77171",
+        blue: "#5ebaa5",
+        magenta: "#73b3e7",
+        cyan: "#dbb774",
+        white: "#b7bec9"
+    ),
+    bright: (
+        black: "#b7bec9",
+        red: "#e77171",
+        green: "#a1bf78",
+        yellow: "#e77171",
+        blue: "#5ebaa5",
+        magenta: "#73b3e7",
+        cyan: "#dbb774",
+        white: "#b7bec9"
+    ),
+    dim: (
+        black: "#b7bec9",
+        red: "#e77171",
+        green: "#a1bf78",
+        yellow: "#e77171",
+        blue: "#5ebaa5",
+        magenta: "#73b3e7",
+        cyan: "#dbb774",
+        white: "#b7bec9"
+    ),
+)

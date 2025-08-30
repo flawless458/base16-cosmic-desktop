@@ -1,0 +1,38 @@
+(
+    name: "Grayscale Light",
+    foreground: "#464646",
+    background: "#f7f7f7",
+    cursor: "#ababab",
+    bright_foreground: "#464646",
+    dim_foreground: "#101010",
+    normal: (
+        black: "#b9b9b9",
+        red: "#7c7c7c",
+        green: "#8e8e8e",
+        yellow: "#999999",
+        blue: "#868686",
+        magenta: "#686868",
+        cyan: "#a0a0a0",
+        white: "#464646"
+    ),
+    bright: (
+        black: "#b9b9b9",
+        red: "#7c7c7c",
+        green: "#8e8e8e",
+        yellow: "#999999",
+        blue: "#868686",
+        magenta: "#686868",
+        cyan: "#a0a0a0",
+        white: "#464646"
+    ),
+    dim: (
+        black: "#b9b9b9",
+        red: "#7c7c7c",
+        green: "#8e8e8e",
+        yellow: "#999999",
+        blue: "#868686",
+        magenta: "#686868",
+        cyan: "#a0a0a0",
+        white: "#464646"
+    ),
+)

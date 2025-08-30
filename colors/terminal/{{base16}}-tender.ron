@@ -1,0 +1,38 @@
+(
+    name: "tender",
+    foreground: "#eeeeee",
+    background: "#282828",
+    cursor: "#4c4c4c",
+    bright_foreground: "#eeeeee",
+    dim_foreground: "#feffff",
+    normal: (
+        black: "#484848",
+        red: "#f43753",
+        green: "#c9d05c",
+        yellow: "#dc9656",
+        blue: "#73cef4",
+        magenta: "#b3deef",
+        cyan: "#ffc24b",
+        white: "#eeeeee"
+    ),
+    bright: (
+        black: "#484848",
+        red: "#f43753",
+        green: "#c9d05c",
+        yellow: "#dc9656",
+        blue: "#73cef4",
+        magenta: "#b3deef",
+        cyan: "#ffc24b",
+        white: "#eeeeee"
+    ),
+    dim: (
+        black: "#484848",
+        red: "#f43753",
+        green: "#c9d05c",
+        yellow: "#dc9656",
+        blue: "#73cef4",
+        magenta: "#b3deef",
+        cyan: "#ffc24b",
+        white: "#eeeeee"
+    ),
+)

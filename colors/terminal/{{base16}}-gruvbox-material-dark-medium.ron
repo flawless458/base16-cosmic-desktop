@@ -1,0 +1,38 @@
+(
+    name: "Gruvbox Material Dark, Medium",
+    foreground: "#ddc7a1",
+    background: "#292828",
+    cursor: "#665c54",
+    bright_foreground: "#ddc7a1",
+    dim_foreground: "#fbf1c7",
+    normal: (
+        black: "#504945",
+        red: "#ea6962",
+        green: "#a9b665",
+        yellow: "#e78a4e",
+        blue: "#89b482",
+        magenta: "#7daea3",
+        cyan: "#d8a657",
+        white: "#ddc7a1"
+    ),
+    bright: (
+        black: "#504945",
+        red: "#ea6962",
+        green: "#a9b665",
+        yellow: "#e78a4e",
+        blue: "#89b482",
+        magenta: "#7daea3",
+        cyan: "#d8a657",
+        white: "#ddc7a1"
+    ),
+    dim: (
+        black: "#504945",
+        red: "#ea6962",
+        green: "#a9b665",
+        yellow: "#e78a4e",
+        blue: "#89b482",
+        magenta: "#7daea3",
+        cyan: "#d8a657",
+        white: "#ddc7a1"
+    ),
+)

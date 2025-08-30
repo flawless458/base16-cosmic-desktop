@@ -1,0 +1,38 @@
+(
+    name: "Charcoal Light",
+    foreground: "#35291d",
+    background: "#d6b891",
+    cursor: "#887254",
+    bright_foreground: "#35291d",
+    dim_foreground: "#d6b891",
+    normal: (
+        black: "#a28662",
+        red: "#413325",
+        green: "#120f09",
+        yellow: "#120f09",
+        blue: "#413325",
+        magenta: "#120f09",
+        cyan: "#292016",
+        white: "#35291d"
+    ),
+    bright: (
+        black: "#a28662",
+        red: "#413325",
+        green: "#120f09",
+        yellow: "#120f09",
+        blue: "#413325",
+        magenta: "#120f09",
+        cyan: "#292016",
+        white: "#35291d"
+    ),
+    dim: (
+        black: "#a28662",
+        red: "#413325",
+        green: "#120f09",
+        yellow: "#120f09",
+        blue: "#413325",
+        magenta: "#120f09",
+        cyan: "#292016",
+        white: "#35291d"
+    ),
+)

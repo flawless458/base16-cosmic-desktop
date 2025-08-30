@@ -1,0 +1,38 @@
+(
+    name: "Harmonic16 Dark",
+    foreground: "#cbd6e2",
+    background: "#0b1c2c",
+    cursor: "#627e99",
+    bright_foreground: "#cbd6e2",
+    dim_foreground: "#f7f9fb",
+    normal: (
+        black: "#405c79",
+        red: "#bf8b56",
+        green: "#56bf8b",
+        yellow: "#bfbf56",
+        blue: "#568bbf",
+        magenta: "#8b56bf",
+        cyan: "#8bbf56",
+        white: "#cbd6e2"
+    ),
+    bright: (
+        black: "#405c79",
+        red: "#bf8b56",
+        green: "#56bf8b",
+        yellow: "#bfbf56",
+        blue: "#568bbf",
+        magenta: "#8b56bf",
+        cyan: "#8bbf56",
+        white: "#cbd6e2"
+    ),
+    dim: (
+        black: "#405c79",
+        red: "#bf8b56",
+        green: "#56bf8b",
+        yellow: "#bfbf56",
+        blue: "#568bbf",
+        magenta: "#8b56bf",
+        cyan: "#8bbf56",
+        white: "#cbd6e2"
+    ),
+)

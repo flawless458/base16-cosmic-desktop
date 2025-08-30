@@ -1,0 +1,38 @@
+(
+    name: "standardized-light",
+    foreground: "#444444",
+    background: "#ffffff",
+    cursor: "#767676",
+    bright_foreground: "#444444",
+    dim_foreground: "#222222",
+    normal: (
+        black: "#cccccc",
+        red: "#d03e3e",
+        green: "#31861f",
+        yellow: "#d7691d",
+        blue: "#00998f",
+        magenta: "#3173c5",
+        cyan: "#ad8200",
+        white: "#444444"
+    ),
+    bright: (
+        black: "#cccccc",
+        red: "#d03e3e",
+        green: "#31861f",
+        yellow: "#d7691d",
+        blue: "#00998f",
+        magenta: "#3173c5",
+        cyan: "#ad8200",
+        white: "#444444"
+    ),
+    dim: (
+        black: "#cccccc",
+        red: "#d03e3e",
+        green: "#31861f",
+        yellow: "#d7691d",
+        blue: "#00998f",
+        magenta: "#3173c5",
+        cyan: "#ad8200",
+        white: "#444444"
+    ),
+)

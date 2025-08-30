@@ -1,0 +1,38 @@
+(
+    name: "Linux VT",
+    foreground: "#aaaaaa",
+    background: "#000000",
+    cursor: "#555555",
+    bright_foreground: "#aaaaaa",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#444444",
+        red: "#aa0000",
+        green: "#00aa00",
+        yellow: "#ff5555",
+        blue: "#00aaaa",
+        magenta: "#5555ff",
+        cyan: "#ffff55",
+        white: "#aaaaaa"
+    ),
+    bright: (
+        black: "#444444",
+        red: "#aa0000",
+        green: "#00aa00",
+        yellow: "#ff5555",
+        blue: "#00aaaa",
+        magenta: "#5555ff",
+        cyan: "#ffff55",
+        white: "#aaaaaa"
+    ),
+    dim: (
+        black: "#444444",
+        red: "#aa0000",
+        green: "#00aa00",
+        yellow: "#ff5555",
+        blue: "#00aaaa",
+        magenta: "#5555ff",
+        cyan: "#ffff55",
+        white: "#aaaaaa"
+    ),
+)

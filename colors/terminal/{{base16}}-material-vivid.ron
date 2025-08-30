@@ -1,0 +1,38 @@
+(
+    name: "Material Vivid",
+    foreground: "#80868b",
+    background: "#202124",
+    cursor: "#44464d",
+    bright_foreground: "#80868b",
+    dim_foreground: "#ffffff",
+    normal: (
+        black: "#323639",
+        red: "#f44336",
+        green: "#00e676",
+        yellow: "#ff9800",
+        blue: "#00bcd4",
+        magenta: "#2196f3",
+        cyan: "#ffeb3b",
+        white: "#80868b"
+    ),
+    bright: (
+        black: "#323639",
+        red: "#f44336",
+        green: "#00e676",
+        yellow: "#ff9800",
+        blue: "#00bcd4",
+        magenta: "#2196f3",
+        cyan: "#ffeb3b",
+        white: "#80868b"
+    ),
+    dim: (
+        black: "#323639",
+        red: "#f44336",
+        green: "#00e676",
+        yellow: "#ff9800",
+        blue: "#00bcd4",
+        magenta: "#2196f3",
+        cyan: "#ffeb3b",
+        white: "#80868b"
+    ),
+)

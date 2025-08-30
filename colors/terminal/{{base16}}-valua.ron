@@ -1,0 +1,38 @@
+(
+    name: "Valua",
+    foreground: "#98c1a3",
+    background: "#131f1f",
+    cursor: "#3e5c53",
+    bright_foreground: "#98c1a3",
+    dim_foreground: "#aacbcb",
+    normal: (
+        black: "#273d3c",
+        red: "#d7586e",
+        green: "#59d678",
+        yellow: "#e6b466",
+        blue: "#76dbd2",
+        magenta: "#4ed2d2",
+        cyan: "#dfe754",
+        white: "#98c1a3"
+    ),
+    bright: (
+        black: "#273d3c",
+        red: "#d7586e",
+        green: "#59d678",
+        yellow: "#e6b466",
+        blue: "#76dbd2",
+        magenta: "#4ed2d2",
+        cyan: "#dfe754",
+        white: "#98c1a3"
+    ),
+    dim: (
+        black: "#273d3c",
+        red: "#d7586e",
+        green: "#59d678",
+        yellow: "#e6b466",
+        blue: "#76dbd2",
+        magenta: "#4ed2d2",
+        cyan: "#dfe754",
+        white: "#98c1a3"
+    ),
+)

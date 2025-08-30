@@ -1,0 +1,38 @@
+(
+    name: "Pasque",
+    foreground: "#dedcdf",
+    background: "#271c3a",
+    cursor: "#5d5766",
+    bright_foreground: "#dedcdf",
+    dim_foreground: "#bbaadd",
+    normal: (
+        black: "#3e2d5c",
+        red: "#a92258",
+        green: "#c6914b",
+        yellow: "#918889",
+        blue: "#7263aa",
+        magenta: "#8e7dc6",
+        cyan: "#804ead",
+        white: "#dedcdf"
+    ),
+    bright: (
+        black: "#3e2d5c",
+        red: "#a92258",
+        green: "#c6914b",
+        yellow: "#918889",
+        blue: "#7263aa",
+        magenta: "#8e7dc6",
+        cyan: "#804ead",
+        white: "#dedcdf"
+    ),
+    dim: (
+        black: "#3e2d5c",
+        red: "#a92258",
+        green: "#c6914b",
+        yellow: "#918889",
+        blue: "#7263aa",
+        magenta: "#8e7dc6",
+        cyan: "#804ead",
+        white: "#dedcdf"
+    ),
+)
