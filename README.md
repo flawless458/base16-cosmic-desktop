@@ -9,6 +9,7 @@ git clone https://github.com/flawless458/base16-cosmic-desktop.git
 ```
 
 Follow the instructions below to apply the theme to your desktop and terminal.
+*`Ctrl + A` <- Works only for Terminal*
 
 ### COSMIC Desktop Appearance
 
