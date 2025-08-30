@@ -9,7 +9,6 @@ git clone https://github.com/flawless458/base16-cosmic-desktop.git
 ```
 
 Follow the instructions below to apply the theme to your desktop and terminal.
-*`Ctrl + A` <- Works only for Terminal*
 
 ### COSMIC Desktop Appearance
 
@@ -22,3 +21,7 @@ Follow the instructions below to apply the theme to your desktop and terminal.
 1. Open COSMIC Terminal and navigate to `View -> Color schemes...`.
 2. Click `Import` and browse to where you cloned this repository.
 3. Select your desired variant from the [colors/](./colors/) directory and select `terminal.ron`
+4. ***OPTIONAL** - `Ctrl + A`(Inside the file manager)*
+
+### Tinted Gallery
+[Tinted Themeing](https://tinted-theming.github.io/tinted-gallery/) - Over 230 beautiful and ready-to-use color schemes!
